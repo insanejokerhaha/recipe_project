@@ -7,12 +7,18 @@ from nltk.stem import WordNetLemmatizer
 import pandas as pd
 
 stemmer = WordNetLemmatizer()
-volume_unit_dictionary = {'dessertspoon':'dessertspoon','milliliter':'ml', 'millilitre':'ml','liter': 'l', 'litre':'l', 'l':'l', 'teaspoon':'tsp', 'tsp':'tsp', 'tablespoon':'tbsp', 'tbsp':'tbsp', 'cup':'cup', 'quart':'qt', 'floz':'floz', 'pint':'pt', 'pt':'pt', 'qt':'qt', 'gallon':'gal', 'gal':'gal', 'lcup':'lcup', 'in3':'in3', 'ft3':'ft3'}
+volume_unit_dictionary = {'dessertspoon':'dessertspoon','milliliter':'ml', 'ml':'ml', 'millilitre':'ml','liter': 'l', 'litre':'l', 'l':'l', 'teaspoon':'tsp', 'tsp':'tsp', 'tablespoon':'tbsp', 'tbsp':'tbsp', 'cup':'cup', 'quart':'qt', 'floz':'floz', 'pint':'pt', 'pt':'pt', 'qt':'qt', 'gallon':'gal', 'gal':'gal', 'lcup':'lcup', 'in3':'in3', 'ft3':'ft3'}
 mass_unit_dictionary = {'oz':'oz','lb':'lb','g':'g','mg':'mg','kg':'kg','ounce':'oz','pound':'lb','gram':'g','kilogram':'kg','milligram':'mg'}
 
 food_mass_tb = pd.read_csv(r'/home/mbaxshzf/Downloads/Food Masses.csv',dtype='str')
 for col in food_mass_tb.columns: #['Unnamed: 0', 'Unnamed: 1', 'Mass (g)', 'Mass in kg', 'Synonym']
-	food_mass_tb[col] = food_mass_tb[col].str.lower()
+	food_mass_tb[col] = food_mass_tb[col].apply(lambda x: str(x).lower().strip())
+
+carbon_density_tb = pd.read_csv(r'/home/mbaxshzf/Downloads/Master data - ECare - v1.6.xlsx - Master DB.csv',usecols=['Food','Alternate name','GHG (Mean)','Density in g/ml (including mass and bulk density)'],dtype='str')
+for col in carbon_density_tb.columns: 
+	carbon_density_tb[col] = carbon_density_tb[col].apply(lambda x: str(x).lower().strip())
+cleaned_carbon_density_tb = carbon_density_tb.drop_duplicates()
+
 
 """def is_wet_ingredient(item: str) -> bool: # determine if the ingredient is wet or solid
 	return False"""
@@ -64,7 +70,12 @@ def convert_spoon_to_ml(amount: float, unit: str) -> float:
 		raise Exception('unit did not expressed in spoon look up list')
 
 def get_density(item: str) -> float: #need link to density database
-	return 1.0
+	match_result = cleaned_carbon_density_tb.loc[(cleaned_carbon_density_tb['Food'] == item) | (cleaned_carbon_density_tb['Alternate name'] == item)]
+	if len(match_result) > 0:
+		return float(match_result['Density in g/ml (including mass and bulk density)'])
+	else:
+		print(f'{item} is not in the density CSV, return 0.0 g/ml')
+		return 0.0
 
 def convert_ml_to_kg(ml: float, item: str) -> float:
 	density = get_density(item)
@@ -123,15 +134,20 @@ def kg_conversion(amount: str, unit: str, item: str) -> dict:
 			elif 'qty' in result['unit']:
 				return {'amount':convert_nounit_to_kg(num_amount,result['item']),'unit':'kg','item':result['item']}
 			else:
-				print(f'Unknown unit {unit}')
-				return {'amount':num_amount,'unit':unit,'item':result['item']}
+				print(f'Unknown unit {unit} could not convert to kg, return 0.0')
+				return {'amount':0.0,'unit':'kg','item':result['item']}
 		else:
 			return {'amount':convert_nounit_to_kg(num_amount,item.strip().lower()),'unit':'kg','item':preprocess_item(item)}
 
 def get_carbon_per_kg(item: str) -> float: # link to GHG database
-	pass
+	match_result = cleaned_carbon_density_tb.loc[(cleaned_carbon_density_tb['Food'] == item) | (cleaned_carbon_density_tb['Alternate name'] == item)]
+	if len(match_result) > 0:
+		return float(match_result['GHG (Mean)'])
+	else:
+		print(f'{item} is not in the carbon CSV, return 0.0 GHG (Mean)')
+		return 0.0
 
-def calculate_carbon(result):
+def calculate_carbon(result: dict) -> float:
 	carbon_per_kg = get_carbon_per_kg(result['item'])
 	CO2_vol = carbon_per_kg * result['amount']
 	return CO2_vol
