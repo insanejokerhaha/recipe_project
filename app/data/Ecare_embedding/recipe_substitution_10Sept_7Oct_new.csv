@@ -1,0 +1,1687 @@
+participant_id,recipe_id,ingredient_name,MasterDB match for subsitutable ingredient,substitution_text,DB Food
+12567008792.0,400.0,pork sausages,Sausage,Quorn sausages,Quorn:Sausage
+12567008792.0,40.0,chicken,Chicken:Breast,Quorn roast ,Quorn:Mince
+12567008792.0,38.0,minced beef,Beef:Mince,Quorn mince,Quorn:Mince
+12567008792.0,39.0,chicken breasts,Chicken:Breast,Quorn pieces,Quorn:Pieces
+12567008792.0,243.0,beef mince,Beef:Mince,Quorn mince,Quorn:Mince
+12567008792.0,243.0,British veal mince,Veal:Mince,Quorn mince,Quorn:Mince
+12562069355.0,339.0,chicken breasts,Chicken:Breast,"Mushrooms, Quorn pieces",Mushroom
+12562069355.0,339.0,chicken breasts,Chicken:Breast,"Mushrooms, Quorn pieces",Quorn:Pieces
+12562069355.0,16.0,dried red lentils,Lentil,Brown or green lentils,Lentil_SAME
+12562069355.0,64.0,chicken breasts,Chicken:Breast,Quorn pieces,Quorn:Pieces
+12562069355.0,63.0,cooking chorizo sausages,Chorizo,Vegan sausage,Plant-based sausage
+12562069355.0,30.0,free range eggs,Egg,Silken tofu,Tofu:Silken
+12562069355.0,30.0,butter,Butter,Vegetable oil,Vegetable oil
+12562069355.0,57.0,egg,Egg,Ground flex seeds mixed with water,Seed
+12562069355.0,157.0,butter,Butter,Coconut oil,Coconut oil
+12562069355.0,156.0,butternut squash,Butternut squash,"Pumpkin, sweet potatoes",Pumpkin
+12562069355.0,156.0,butternut squash,Butternut squash,"Pumpkin, sweet potatoes",Sweet potato
+12562069355.0,156.0,butter,Butter,"Olive oil spread, coconut oil",Olive oil
+12562069355.0,156.0,butter,Butter,"Olive oil spread, coconut oil",Coconut oil
+12562069355.0,155.0,Mozzarella,Mozzarella,Vegan mozzarella,Plant-based cheese
+12562069355.0,154.0,cherry tomatoes,Cherry tomato,Plum tomatoes,Tomato:Fresh_SAME
+12562069355.0,154.0,chickpeas,Chickpea,Lentils,Lentil
+12577743617.0,70.0,unsalted butter,Butter,"salted butter, margerine",Butter_SAME
+12577743617.0,70.0,unsalted butter,Butter,"salted butter, margerine",Margarine
+12577743617.0,69.0,Greek-style yogurt,Greek Yogurt,Another heavy cream,Double cream
+12577743617.0,68.0,Basmati rice,Basmati rice,"Cauliflower rice, sweet potato, pillau rice",Cauliflower rice
+12577743617.0,68.0,Basmati rice,Basmati rice,"Cauliflower rice, sweet potato, pillau rice",Sweet potato
+12577743617.0,68.0,Basmati rice,Basmati rice,"Cauliflower rice, sweet potato, pillau rice",Pilau rice
+12577743617.0,67.0,pork tenderloin,Pork:Loin,Chicken or remove,Chicken:Breast
+12577743617.0,67.0,pork tenderloin,Pork:Loin,Chicken or remove,REMOVE
+12577743617.0,66.0,plum tomatoes,Tomato:Fresh,chopped tomatos,Tomato:Tinned_SAME
+12577743617.0,39.0,chicken breasts,Chicken:Breast,"mushrooms , peppers",Mushroom
+12577743617.0,39.0,chicken breasts,Chicken:Breast,"mushrooms , peppers",Pepper
+12577743617.0,286.0,ground lamb,Lamb:Mince,"lentils, beans",Lentil
+12577743617.0,286.0,ground lamb,Lamb:Mince,"lentils, beans",Bean
+12577743617.0,285.0,chicken wings,Chicken:Wing,Cauliflower,Cauliflower
+12562831854.0,196.0,butter,Butter,Coconut oil,Coconut oil
+12554430369.0,303.0,dried chickpeas,Chickpea,Red lentils,Lentil
+12554430369.0,302.0,aubergine,Aubergine,"Courgette, mushrooms",Courgette
+12554430369.0,302.0,aubergine,Aubergine,"Courgette, mushrooms",Mushroom
+12554430369.0,33.0,mature cheddar,Cheddar,Vegan cheese,Plant-based cheese
+12554430369.0,17.0,pancetta,Pancetta,"Bacon, ham",Bacon_SAME
+12554430369.0,17.0,pancetta,Pancetta,"Bacon, ham",Pork:Slice
+12554430369.0,243.0,beef mince,Beef:Mince,Mushrooms,Mushroom
+12554430369.0,243.0,British veal mince,Veal:Mince,Mushrooms,Mushroom
+12554430369.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, quorn mince, beans, mushrooms",Turkey:Mince
+12554430369.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, quorn mince, beans, mushrooms",Quorn:Mince
+12554430369.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, quorn mince, beans, mushrooms",Bean
+12554430369.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, quorn mince, beans, mushrooms",Mushroom
+12554430369.0,81.0,feta,Feta,"Mozzarella, vegan cheese",Mozzarella
+12554430369.0,81.0,feta,Feta,"Mozzarella, vegan cheese",Plant-based cheese
+12554430369.0,85.0,paella rice,Paella rice,"Risotto rice, long grain rice, basmati rice",Risotto rice
+12554430369.0,85.0,paella rice,Paella rice,"Risotto rice, long grain rice, basmati rice",Long-grain rice
+12554430369.0,85.0,paella rice,Paella rice,"Risotto rice, long grain rice, basmati rice",Basmati rice
+12554430369.0,84.0,milk,Milk,"Soy milk, almond milk",Soya milk
+12554430369.0,84.0,milk,Milk,"Soy milk, almond milk",Almond milk
+12631327360.0,442.0,salt-free diced tomatoes,Tomato:Fresh,Fresh or canned tomatoes ,Tomato:Fresh_SAME
+12631327360.0,442.0,salt-free diced tomatoes,Tomato:Fresh,Fresh or canned tomatoes ,Tomato:Tinned_SAME
+12631327360.0,442.0,tomato purÃ©e,Tomato puree,Additional tomato paste,Tomato puree_MORE
+12631327360.0,440.0,eggs,Egg,Chickpea (gram) flour,Gram flour
+12631327360.0,439.0,lean lamb steaks,Lamb:Steak,Additional lentils/ chickpeas ,Lentil_MORE
+12631327360.0,439.0,lean lamb steaks,Lamb:Steak,Additional lentils/ chickpeas ,Chickpea_MORE
+12631327360.0,131.0,chicken breasts,Chicken:Breast,"THIS (is not) chicken, Tofu, Aubergine, some type of bean",Plant-based chicken:Pieces
+12631327360.0,131.0,chicken breasts,Chicken:Breast,"THIS (is not) chicken, Tofu, Aubergine, some type of bean",Tofu:Firm
+12631327360.0,131.0,chicken breasts,Chicken:Breast,"THIS (is not) chicken, Tofu, Aubergine, some type of bean",Aubergine
+12631327360.0,131.0,chicken breasts,Chicken:Breast,"THIS (is not) chicken, Tofu, Aubergine, some type of bean",Bean
+12631327360.0,127.0,crushed tomatoes,Tomato:Fresh,"Chopped tomatoes, canned tomatoes",Tomato:Fresh_SAME
+12631327360.0,127.0,crushed tomatoes,Tomato:Fresh,"Chopped tomatoes, canned tomatoes",Tomato:Tinned_SAME
+12553237557.0,281.0,parsnips,Parsnip,"Dish name would change, but using carrots or squash instead.",Carrot
+12553237557.0,281.0,parsnips,Parsnip,"Dish name would change, but using carrots or squash instead.",Squash
+12553237557.0,279.0,chopped tomatoes,Tomato:Tinned,"Adding lemon, tamarind, or chilli coconut mixture for colour and gravy ",COMPLEX
+12553237557.0,283.0,salmon fillet,Salmon,"Yam instead of salmon, or veggie patty cake made from various veg and pulses",Yam
+12553237557.0,283.0,salmon fillet,Salmon,"Yam instead of salmon, or veggie patty cake made from various veg and pulses",Vegetable
+12553237557.0,4.0,skinless chicken thighs,Chicken:Thigh,"Soya, Tofu, or Quorn",Plant-based chicken:Pieces
+12553237557.0,4.0,skinless chicken thighs,Chicken:Thigh,"Soya, Tofu, or Quorn",Tofu:Firm
+12553237557.0,4.0,skinless chicken thighs,Chicken:Thigh,"Soya, Tofu, or Quorn",Quorn:Pieces
+12553237557.0,200.0,beef mince,Beef:Mince,"Turkey mince, Chicken mince, Qourn mince, Soya mince",Turkey:Mince
+12553237557.0,200.0,beef mince,Beef:Mince,"Turkey mince, Chicken mince, Qourn mince, Soya mince",Chicken:Mince
+12553237557.0,200.0,beef mince,Beef:Mince,"Turkey mince, Chicken mince, Qourn mince, Soya mince",Quorn:Mince
+12553237557.0,200.0,beef mince,Beef:Mince,"Turkey mince, Chicken mince, Qourn mince, Soya mince",Soya mince
+12553237557.0,39.0,chicken breasts,Chicken:Breast,"Tofu, Paneer (cottage cheese), Soya or Quarn chunks",Tofu:Firm
+12553237557.0,39.0,chicken breasts,Chicken:Breast,"Tofu, Paneer (cottage cheese), Soya or Quarn chunks",Paneer
+12553237557.0,39.0,chicken breasts,Chicken:Breast,"Tofu, Paneer (cottage cheese), Soya or Quarn chunks",Plant-based chicken:Pieces
+12553237557.0,39.0,chicken breasts,Chicken:Breast,"Tofu, Paneer (cottage cheese), Soya or Quarn chunks",Quorn:Pieces
+12553237557.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, OR chicken mince, OR Quorn or soya mince",Turkey:Mince
+12553237557.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, OR chicken mince, OR Quorn or soya mince",Chicken:Mince
+12553237557.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, OR chicken mince, OR Quorn or soya mince",Quorn:Mince
+12553237557.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, OR chicken mince, OR Quorn or soya mince",Soya mince
+12553237557.0,43.0,undyed smoked haddock fillet,Haddock,"Kedgeree for me is strongly linked to having some fish, but if I were to make a vegi-version I would use carefully spiced yam which can be cooked to be very similar to fish in texture. ",Yam
+12553237557.0,41.0,boiled cabbage,Cabbage,"Other boiled veg like carrots, squash, other leafy veg etc.",Carrot
+12553237557.0,41.0,boiled cabbage,Cabbage,"Other boiled veg like carrots, squash, other leafy veg etc.",Squash
+12554306689.0,293.0,cannellini white beans,Cannellini bean,"Other beans eg borlotti, haricot",Borlotti bean
+12554306689.0,293.0,cannellini white beans,Cannellini bean,"Other beans eg borlotti, haricot",Haricot bean
+12554306689.0,292.0,skim mozzarella cheese,Mozzarella,Vegan cheese,Plant-based cheese
+12554306689.0,292.0,ricotta cheese,Ricotta,Mozzarella ,Mozzarella
+12554306689.0,291.0,red lentils,Lentil,Green or brown lentils,Lentil_SAME
+12554306689.0,290.0,free-range chicken breasts,Chicken:Breast,"Pepper, mushroom ",Pepper
+12554306689.0,290.0,free-range chicken breasts,Chicken:Breast,"Pepper, mushroom ",Mushroom
+12554306689.0,7.0,butter,Butter,"Sunflower spread, olive oil spread ",Margarine
+12554306689.0,282.0,lean beef mince,Beef:Mince,"Quorn mince, lamb mince, turkey mince",Quorn:Mince
+12554306689.0,282.0,lean beef mince,Beef:Mince,"Quorn mince, lamb mince, turkey mince",Lamb:Mince
+12554306689.0,282.0,lean beef mince,Beef:Mince,"Quorn mince, lamb mince, turkey mince",Turkey:Mince
+12554306689.0,84.0,milk,Milk,"Soy milk, almond milk",Soya milk
+12554306689.0,84.0,milk,Milk,"Soy milk, almond milk",Almond milk
+12554306689.0,17.0,pancetta,Pancetta,Smoked bacon,Bacon
+12554306689.0,243.0,beef mince,Beef:Mince,"Quorn mince, lamb mince, turkey mince",Quorn:Mince
+12554306689.0,243.0,beef mince,Beef:Mince,"Quorn mince, lamb mince, turkey mince",Lamb:Mince
+12554306689.0,243.0,beef mince,Beef:Mince,"Quorn mince, lamb mince, turkey mince",Turkey:Mince
+12554306689.0,67.0,pork tenderloin,Pork:Loin,"Chicken breast, beef, tofu",Chicken:Breast
+12554306689.0,67.0,pork tenderloin,Pork:Loin,"Chicken breast, beef, tofu",Beef:Steak
+12554306689.0,67.0,pork tenderloin,Pork:Loin,"Chicken breast, beef, tofu",Tofu:Firm
+12554306689.0,66.0,plum tomatoes,Tomato:Tinned,"Passata, fresh tomatoes blended in a food processor",Tomato:Passata_SAME
+12554306689.0,66.0,plum tomatoes,Tomato:Tinned,"Passata, fresh tomatoes blended in a food processor",Tomato:Fresh_SAME
+12554306689.0,63.0,pork sausages,Sausage,Vegetarian sausage,Plant-based sausage
+12554306689.0,64.0,chicken breasts,Chicken:Breast,"Prawn, quorn pieces",Prawn
+12554306689.0,64.0,chicken breasts,Chicken:Breast,"Prawn, quorn pieces",Quorn:Pieces
+12554306689.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, quorn, black beans",Turkey:Mince
+12554306689.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, quorn, black beans",Quorn:Mince
+12554306689.0,65.0,lean minced beef,Beef:Mince,"Turkey mince, quorn, black beans",Black bean
+12631234972.0,442.0,salt-free diced tomatoes,Tomato:Fresh,"Any canned chopped tomatoes, canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes",Tomato:Tinned_SAME
+12631234972.0,442.0,salt-free diced tomatoes,Tomato:Fresh,"Any canned chopped tomatoes, canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes",Cherry tomato_SAME
+12631234972.0,442.0,salt-free diced tomatoes,Tomato:Fresh,"Any canned chopped tomatoes, canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes",Tomato:Passata_SAME
+12631234972.0,442.0,salt-free diced tomatoes,Tomato:Fresh,"Any canned chopped tomatoes, canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes",Tomato:Fresh_SAME
+12631234972.0,441.0,grain brown rice,Brown rice,"Sushi rice, white rice, jasmine rice",Sushi rice
+12631234972.0,441.0,grain brown rice,Brown rice,"Sushi rice, white rice, jasmine rice",White rice
+12631234972.0,441.0,grain brown rice,Brown rice,"Sushi rice, white rice, jasmine rice",Jasmine rice
+12631234972.0,439.0,lean lamb steaks,Lamb:Steak,"Another cut of lamb, any other meat, vegan meat substitute ",Lamb:Steak_SAME
+12631234972.0,439.0,lean lamb steaks,Lamb:Steak,"Another cut of lamb, any other meat, vegan meat substitute ",Plant-based chicken:Pieces
+12631234972.0,463.0,feta cheese,Feta,"Halloumi, vegan feta alternative ",Halloumi
+12631234972.0,463.0,feta cheese,Feta,"Halloumi, vegan feta alternative ",Plant-based cheese
+12631234972.0,131.0,chicken breasts,Chicken:Breast,"Chicken thighs, portobello mushrooms, aubergine, vegan/veggie chicken alternative",Chicken:Thigh_SAME
+12631234972.0,131.0,chicken breasts,Chicken:Breast,"Chicken thighs, portobello mushrooms, aubergine, vegan/veggie chicken alternative",Mushroom
+12631234972.0,131.0,chicken breasts,Chicken:Breast,"Chicken thighs, portobello mushrooms, aubergine, vegan/veggie chicken alternative",Aubergine
+12631234972.0,131.0,chicken breasts,Chicken:Breast,"Chicken thighs, portobello mushrooms, aubergine, vegan/veggie chicken alternative",Plant-based chicken:Pieces
+12631234972.0,127.0,crushed tomatoes,Tomato:Fresh,"Canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes of any variety",Tomato:Tinned_SAME
+12631234972.0,127.0,crushed tomatoes,Tomato:Fresh,"Canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes of any variety",Cherry tomato_SAME
+12631234972.0,127.0,crushed tomatoes,Tomato:Fresh,"Canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes of any variety",Tomato:Passata_SAME
+12631234972.0,127.0,crushed tomatoes,Tomato:Fresh,"Canned plum tomatoes, canned cherry tomatoes, passata, fresh tomatoes of any variety",Tomato:Fresh_SAME
+12631234972.0,127.0,vegetable broth,Vegetable,"Veg stock cube made with water, meat broth (if cooking for non-veggies), boiling water and extra spices ",Vegetable stock cube
+12631234972.0,127.0,vegetable broth,Vegetable,"Veg stock cube made with water, meat broth (if cooking for non-veggies), boiling water and extra spices ",Chicken stock
+12631234972.0,127.0,vegetable broth,Vegetable,"Veg stock cube made with water, meat broth (if cooking for non-veggies), boiling water and extra spices ",Beef stock
+12631234972.0,127.0,vegetable broth,Vegetable,"Veg stock cube made with water, meat broth (if cooking for non-veggies), boiling water and extra spices ",Lamb stock
+12558136390.0,323.0,sausages,Sausage,Veggie sausages / faux sausages,Plant-based sausage
+12558136390.0,322.0,chicken thigh fillets,Chicken:Thigh,Potatoe,Potato
+12558136390.0,321.0,skinless salmon fillets,Salmon,Tofu,Tofu:Firm
+12558136390.0,320.0,cubed feta,Feta,Halloumi ,Halloumi
+12558136390.0,319.0,olive oil,Olive oil,Other types of oil,Oil
+12558136390.0,319.0,broccoli florets,Broccoli,Tenderstem broccoli,Broccoli_SAME
+12558136390.0,363.0,boneless skinless chicken,Chicken:Breast,Tofu / chicken pieces,Tofu:Firm
+12558136390.0,363.0,boneless skinless chicken,Chicken:Breast,Tofu / chicken pieces,Plant-based chicken:Pieces
+12558136390.0,65.0,lean minced beef,Beef:Mince,Quorn mince / chickpeas,Quorn:Mince
+12558136390.0,65.0,lean minced beef,Beef:Mince,Quorn mince / chickpeas,Chickpea
+12558136390.0,120.0,Chicken Breasts,Chicken:Breast,Tofu,Tofu:Firm
+12558136390.0,118.0,lamb shoulder,Lamb:Shoulder,Aubergine,Aubergine
+12558136390.0,117.0,Chicken Thighs,Chicken:Thigh,Quorn chicken / chickpeas / chicken subsitute,Quorn:Pieces
+12558136390.0,117.0,Chicken Thighs,Chicken:Thigh,Quorn chicken / chickpeas / chicken subsitute,Chickpea
+12558136390.0,117.0,Chicken Thighs,Chicken:Thigh,Quorn chicken / chickpeas / chicken subsitute,Plant-based chicken:Pieces
+12558136390.0,116.0,Skinless Chicken Thigh Fillets,Chicken:Breast,Quorn chicken pieces / chicken substitutes / chickpeas,Quorn:Pieces
+12558136390.0,116.0,Skinless Chicken Thigh Fillets,Chicken:Breast,Quorn chicken pieces / chicken substitutes / chickpeas,Plant-based chicken:Fillet
+12558136390.0,116.0,Skinless Chicken Thigh Fillets,Chicken:Breast,Quorn chicken pieces / chicken substitutes / chickpeas,Chickpea
+12639756363.0,169.0,plain Greek yogurt,Greek Yogurt,Alpro,Plant-based yogurt
+12639756363.0,167.0,pork tenderloin,Pork:Loin,Quorn ,Quorn:Pieces
+12639756363.0,200.0,beef mince,Beef:Mince,Quorn mince ,Quorn:Mince
+12637643091.0,485.0,white flour,Flour,Brown bread flour or spelt brown flour,Flour_SAME
+12637643091.0,485.0,warmed milk,Milk,Soy milk,Soya milk
+12637643091.0,484.0,uncooked white rice,White rice,Brown or whole grain rice,Brown rice
+12637643091.0,484.0,uncooked white rice,White rice,Brown or whole grain rice,White rice
+12637643091.0,163.0,lean ground turkey,Turkey:Mince,"Kidney beans, black beans or chickpeas",Kidney bean
+12637643091.0,163.0,lean ground turkey,Turkey:Mince,"Kidney beans, black beans or chickpeas",Black bean
+12637643091.0,163.0,lean ground turkey,Turkey:Mince,"Kidney beans, black beans or chickpeas",Chickpea
+12637643091.0,163.0,kidney,Kidney bean,Is this kidney beans? If so wouldnâ€™t substitute and if itâ€™s neat substitute for kidney beans ,Kidney bean_SAME
+12637643091.0,161.0,Lancashire cheese,Lancashire,Vegan cheese,Plant-based cheese
+12637643091.0,161.0,mozzarella,Mozzarella,Firm or silken tofu,Tofu:Firm
+12637643091.0,161.0,mozzarella,Mozzarella,Firm or silken tofu,Tofu:Silken
+12564079972.0,375.0,lamb,Lamb:Steak,"i would not cook this, as there is no vegetarian alternative",REFUSAL
+12564079972.0,375.0,hogget,Lamb:Mince,"i would not cook this, as there is no vegetarian alternative",REFUSAL
+12564079972.0,373.0,diced chicken breast,Chicken:Breast,use quorn pieces or similar meat substitute ,Quorn:Pieces
+12564079972.0,372.0,carrots,Carrot,Quorn or other meat substitute,Quorn:Pieces
+12564079972.0,372.0,red wine,Wine,stock,Vegetable stock
+12564079972.0,372.0,red wine,Wine,stock,Chicken stock
+12564079972.0,372.0,red wine,Wine,stock,Beef stock
+12564079972.0,372.0,red wine,Wine,stock,Lamb stock
+12564079972.0,552.0,kidney beans,Kidney bean,any other bean may be used,Bean
+12564079972.0,201.0,cold butter,Butter,substitue with a vegan cooking margarine,Margarine
+12564079972.0,174.0,cooked wild rice,Wild rice,"brown rice, or any other rice - cooked",Brown rice
+12564079972.0,174.0,cooked wild rice,Wild rice,"brown rice, or any other rice - cooked",White rice
+12564079972.0,173.0,milk,Milk,a suitable milk alternative for a vegan recipe,Oat milk
+12564079972.0,173.0,milk,Milk,a suitable milk alternative for a vegan recipe,Soya milk
+12564079972.0,173.0,milk,Milk,a suitable milk alternative for a vegan recipe,Almond milk
+12564079972.0,173.0,milk,Milk,a suitable milk alternative for a vegan recipe,Coconut milk
+12564079972.0,173.0,milk,Milk,a suitable milk alternative for a vegan recipe,Rice milk
+12564079972.0,213.0,mature Cheddar cheese,Cheddar,if necessary use vegan cheese,Plant-based cheese
+12564079972.0,213.0,Parmesan cheese,Parmesan,vegan parmesan,Plant-based cheese
+12564079972.0,212.0,vegetable oil,Vegetable oil,sunflower oil,Sunflower oil
+12631413668.0,448.0,Button Mushrooms,Mushroom,More other mushrooms,Mushroom_MORE
+12631413668.0,448.0,Coconut Milk,Coconut milk,Diary cream but would no longer be vegan,Single cream
+12631413668.0,447.0,natural yogurt,Natural Yogurt,Creme freche ,Crème fraiche
+12631413668.0,447.0,salted butter,Butter,"Margarine, non salted butter",Margarine
+12631413668.0,447.0,salted butter,Butter,"Margarine, non salted butter",Butter_SAME
+12631413668.0,467.0,feta cheese,Feta,"Goats cheese, cheddar",Goats cheese
+12631413668.0,467.0,feta cheese,Feta,"Goats cheese, cheddar",Cheddar
+12631413668.0,142.0,black beans,Black bean,Kidney beans,Kidney bean
+12631413668.0,139.0,butter,Butter,"Margarine, spread",Margarine
+12631413668.0,138.0,chopped tomatoes,Tomato:Tinned,Plum tomatoes which I would then chop,Tomato:Fresh_SAME
+12631413668.0,137.0,reduced-fat crÃ¨me fraÃ®che,Crème fraiche,"Standard fat creme fresh, yoghurt",Crème fraiche_SAME
+12631413668.0,137.0,reduced-fat crÃ¨me fraÃ®che,Crème fraiche,"Standard fat creme fresh, yoghurt",Natural Yogurt
+12631413668.0,137.0,smoked mackerel fillets,Mackerel,Seabass fillet,Bass
+12631413668.0,409.0,roasting chicken,Chicken:Whole,Chicken breast,Chicken:Breast_SAME
+12631413668.0,406.0,beef mince,Beef:Mince,Pork mince,Pork:Mince
+12631413668.0,405.0,chicken breasts,Chicken:Breast,Diced turkey,Turkey:Diced
+12552960169.0,263.0,pork sausages,Sausage,Turkey sausages,Turkey:Sausage
+12552960169.0,200.0,beef mince,Beef:Mince,Quorn mincr,Quorn:Mince
+12552960169.0,65.0,lean minced beef,Beef:Mince,Quorn mince,Quorn:Mince
+12552960169.0,8.0,milk,Milk,Oat milk or almond milk,Oat milk
+12552960169.0,8.0,milk,Milk,Oat milk or almond milk,Almond milk
+12568215944.0,563.0,boneless chicken thighs,Chicken:Thigh,seitan,Seitan
+12568215944.0,402.0,pork meatballs,Pork:Mince,firm tofu,Tofu:Firm
+12568215944.0,49.0,eggs,Egg,soy-based vegan egg,Plant-based egg
+12568215944.0,256.0,eggs,Egg,soy-based vegan egg,Plant-based egg
+12568215944.0,255.0,minced beef,Beef:Mince,green lentils,Lentil
+12568215944.0,255.0,mozzarella,Mozzarella,cashew cream,Cashew cream
+12554302961.0,293.0,cannellini white beans,Cannellini bean,chickpeas,Chickpea
+12554302961.0,292.0,skim mozzarella cheese,Mozzarella,vegan mozzarella,Plant-based cheese
+12554302961.0,292.0,ricotta cheese,Ricotta,mascarpone,Mascarpone
+12554302961.0,291.0,red lentils,Lentil,"green lentils, black lentils",Lentil_SAME
+12554302961.0,291.0,coconut milk,Coconut milk,"milk, coconut cream",Milk
+12554302961.0,291.0,coconut milk,Coconut milk,"milk, coconut cream",Coconut cream
+12554302961.0,290.0,free-range chicken breasts,Chicken:Breast,"sweet potatoes, quorn chicken",Sweet potato
+12554302961.0,290.0,free-range chicken breasts,Chicken:Breast,"sweet potatoes, quorn chicken",Quorn:Pieces
+12554302961.0,290.0,fat-free natural yoghurt,Natural Yogurt,"sour cream, cashew cream, greek yogurt",Soured cream
+12554302961.0,290.0,fat-free natural yoghurt,Natural Yogurt,"sour cream, cashew cream, greek yogurt",Cashew nut
+12554302961.0,290.0,fat-free natural yoghurt,Natural Yogurt,"sour cream, cashew cream, greek yogurt",Greek Yogurt
+12554302961.0,282.0,lean beef mince,Beef:Mince,quorn mince,Quorn:Mince
+12554302961.0,243.0,beef mince,Beef:Mince,"quorn mince, pork mince",Quorn:Mince
+12554302961.0,243.0,beef mince,Beef:Mince,"quorn mince, pork mince",Pork:Mince
+12554302961.0,243.0,British veal mince,Veal:Mince,"quorn mince, pork mince, beef mince",Quorn:Mince
+12554302961.0,243.0,British veal mince,Veal:Mince,"quorn mince, pork mince, beef mince",Pork:Mince
+12554302961.0,243.0,British veal mince,Veal:Mince,"quorn mince, pork mince, beef mince",Beef:Mince
+12554302961.0,39.0,chicken breasts,Chicken:Breast,"chicken thigh, turkey breast, quorn chicken, sweet potato",Chicken:Thigh
+12554302961.0,39.0,chicken breasts,Chicken:Breast,"chicken thigh, turkey breast, quorn chicken, sweet potato",Turkey:Breast
+12554302961.0,39.0,chicken breasts,Chicken:Breast,"chicken thigh, turkey breast, quorn chicken, sweet potato",Quorn:Pieces
+12554302961.0,39.0,chicken breasts,Chicken:Breast,"chicken thigh, turkey breast, quorn chicken, sweet potato",Sweet potato
+12554302961.0,65.0,lean minced beef,Beef:Mince,"quorn mince, lentils",Quorn:Mince
+12554302961.0,65.0,lean minced beef,Beef:Mince,"quorn mince, lentils",Lentil
+12554302961.0,61.0,shredded sharp cheddar cheese,Cheddar,"vegan cheese, sour cream, gouda, emmental, red Leicester, mozzarella",Plant-based cheese
+12554302961.0,61.0,shredded sharp cheddar cheese,Cheddar,"vegan cheese, sour cream, gouda, emmental, red Leicester, mozzarella",Soured cream
+12554302961.0,61.0,shredded sharp cheddar cheese,Cheddar,"vegan cheese, sour cream, gouda, emmental, red Leicester, mozzarella",Gouda
+12554302961.0,61.0,shredded sharp cheddar cheese,Cheddar,"vegan cheese, sour cream, gouda, emmental, red Leicester, mozzarella",Emmental
+12554302961.0,61.0,shredded sharp cheddar cheese,Cheddar,"vegan cheese, sour cream, gouda, emmental, red Leicester, mozzarella",Red Leicester
+12554302961.0,61.0,shredded sharp cheddar cheese,Cheddar,"vegan cheese, sour cream, gouda, emmental, red Leicester, mozzarella",Mozzarella
+12554302961.0,61.0,whole tomatoes,Tomato:Fresh,tinned tomatoes,Tomato:Tinned_SAME
+12554302961.0,60.0,tinned chopped tomatoes,Tomato:Tinned,"tin plum tomatoes, tinned whole tomatoes, fresh tomatoes",Tomato:Tinned_SAME
+12554302961.0,60.0,tinned chopped tomatoes,Tomato:Tinned,"tin plum tomatoes, tinned whole tomatoes, fresh tomatoes",Tomato:Fresh_SAME
+12554302961.0,59.0,all-purpose flour,Flour,strong white bread flour,Flour_SAME
+12554302961.0,59.0,unsalted butter,Butter,"olive oil, salted butter",Olive oil
+12554302961.0,59.0,unsalted butter,Butter,"olive oil, salted butter",Butter_SAME
+12554302961.0,58.0,maple syrup,Maple syrup,"honey, agave syrup, sugar",Honey
+12554302961.0,58.0,maple syrup,Maple syrup,"honey, agave syrup, sugar",Agave
+12554302961.0,58.0,maple syrup,Maple syrup,"honey, agave syrup, sugar",Caster sugar
+12552881088.0,261.0,penne,Pasta,"rice, other pasta shapes",White rice
+12552881088.0,261.0,penne,Pasta,"rice, other pasta shapes",Pasta_SAME
+12552881088.0,261.0,pasta,Pasta,rice,White rice
+12552881088.0,261.0,extra-virgin olive oil,Olive oil,"butter, rapeseed oil",Butter
+12552881088.0,261.0,extra-virgin olive oil,Olive oil,"butter, rapeseed oil",Rapeseed oil
+12552881088.0,261.0,parmesan,Parmesan,other hard cheeses,Cheddar
+12552881088.0,261.0,parmesan,Parmesan,other hard cheeses,Gouda
+12552881088.0,260.0,red lentils,Lentil,kidney beans,Kidney bean
+12552881088.0,259.0,firm tofu,Tofu:Firm,"halloumi, sweet potato, potato, butternut squash",Halloumi
+12552881088.0,259.0,firm tofu,Tofu:Firm,"halloumi, sweet potato, potato, butternut squash",Sweet potato
+12552881088.0,259.0,firm tofu,Tofu:Firm,"halloumi, sweet potato, potato, butternut squash",Potato
+12552881088.0,259.0,firm tofu,Tofu:Firm,"halloumi, sweet potato, potato, butternut squash",Butternut squash
+12552881088.0,259.0,cooked tri-colour quinoa,Quinoa,"rice, cauliflower rice",White rice
+12552881088.0,259.0,cooked tri-colour quinoa,Quinoa,"rice, cauliflower rice",Cauliflower rice
+12552881088.0,257.0,cauliflower,Cauliflower,"ribeye steak, fillet steak, sirloin steak, chicken breast, pork chops",Beef:Steak
+12552881088.0,257.0,cauliflower,Cauliflower,"ribeye steak, fillet steak, sirloin steak, chicken breast, pork chops",Chicken:Breast
+12552881088.0,257.0,cauliflower,Cauliflower,"ribeye steak, fillet steak, sirloin steak, chicken breast, pork chops",Pork:Chop
+12552881088.0,257.0,freshly grated Parmesan,Parmesan,other hard cheese,Cheddar
+12552881088.0,257.0,freshly grated Parmesan,Parmesan,other hard cheese,Gouda
+12552881088.0,256.0,butter,Butter,"olive oil, rapeseed oil",Olive oil
+12552881088.0,256.0,butter,Butter,"olive oil, rapeseed oil",Rapeseed oil
+12552881088.0,200.0,beef mince,Beef:Mince,"quorn mince, diced root vegetables",Quorn:Mince
+12552881088.0,200.0,beef mince,Beef:Mince,"quorn mince, diced root vegetables",Carrot
+12552881088.0,200.0,beef mince,Beef:Mince,"quorn mince, diced root vegetables",Potato
+12552881088.0,200.0,beef mince,Beef:Mince,"quorn mince, diced root vegetables",Sweet potato
+12552881088.0,39.0,chicken breasts,Chicken:Breast,"chicken thighs, beef strips, prawns, chorizo, halloumi",Chicken:Thigh
+12552881088.0,39.0,chicken breasts,Chicken:Breast,"chicken thighs, beef strips, prawns, chorizo, halloumi",Beef:Diced
+12552881088.0,39.0,chicken breasts,Chicken:Breast,"chicken thighs, beef strips, prawns, chorizo, halloumi",Prawn
+12552881088.0,39.0,chicken breasts,Chicken:Breast,"chicken thighs, beef strips, prawns, chorizo, halloumi",Chorizo
+12552881088.0,39.0,chicken breasts,Chicken:Breast,"chicken thighs, beef strips, prawns, chorizo, halloumi",Halloumi
+12552881088.0,65.0,lean minced beef,Beef:Mince,"quorn mince, turkey mince",Quorn:Mince
+12552881088.0,65.0,lean minced beef,Beef:Mince,"quorn mince, turkey mince",Turkey:Mince
+12552881088.0,5.0,hake fillets,Hake,"cod, pollock, halibut, seabass, haddock, turbot",Cod:Fillet
+12552881088.0,5.0,hake fillets,Hake,"cod, pollock, halibut, seabass, haddock, turbot",Pollock
+12552881088.0,5.0,hake fillets,Hake,"cod, pollock, halibut, seabass, haddock, turbot",Halibut
+12552881088.0,5.0,hake fillets,Hake,"cod, pollock, halibut, seabass, haddock, turbot",Bass
+12552881088.0,5.0,hake fillets,Hake,"cod, pollock, halibut, seabass, haddock, turbot",Haddock
+12552881088.0,5.0,hake fillets,Hake,"cod, pollock, halibut, seabass, haddock, turbot",Turbot
+12552881088.0,4.0,skinless chicken thighs,Chicken:Thigh,"tofu, halloumi, diced beef chunks, prawns, cod loin",Tofu:Firm
+12552881088.0,4.0,skinless chicken thighs,Chicken:Thigh,"tofu, halloumi, diced beef chunks, prawns, cod loin",Halloumi
+12552881088.0,4.0,skinless chicken thighs,Chicken:Thigh,"tofu, halloumi, diced beef chunks, prawns, cod loin",Beef:Diced
+12552881088.0,4.0,skinless chicken thighs,Chicken:Thigh,"tofu, halloumi, diced beef chunks, prawns, cod loin",Prawn
+12552881088.0,4.0,skinless chicken thighs,Chicken:Thigh,"tofu, halloumi, diced beef chunks, prawns, cod loin",Cod:Fillet
+12552881088.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"diced chicken breast, diced turkey, diced lean beef chunks, halloumi, diced lamb",Chicken:Breast
+12552881088.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"diced chicken breast, diced turkey, diced lean beef chunks, halloumi, diced lamb",Turkey:Diced
+12552881088.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"diced chicken breast, diced turkey, diced lean beef chunks, halloumi, diced lamb",Beef:Diced
+12552881088.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"diced chicken breast, diced turkey, diced lean beef chunks, halloumi, diced lamb",Halloumi
+12552881088.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"diced chicken breast, diced turkey, diced lean beef chunks, halloumi, diced lamb",Lamb:Diced
+12552881088.0,2.0,vegetable oil,Vegetable oil,"rapeseed oil, sunflower oil",Rapeseed oil
+12552881088.0,2.0,vegetable oil,Vegetable oil,"rapeseed oil, sunflower oil",Sunflower oil
+12552881088.0,1.0,long grain rice,Long-grain rice,"Cauliflower rice, other rice grains, other vegetable rice alternatives",Cauliflower rice
+12557837007.0,363.0,boneless skinless chicken,Chicken:Breast,Tofu,Tofu:Firm
+12557837007.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, Moving Mountains plant-based mince",Quorn:Mince
+12557837007.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, Moving Mountains plant-based mince",Plant-based mince
+12566189887.0,38.0,minced beef,Beef:Mince,Mince qorn ,Quorn:Mince
+12566189887.0,37.0,chopped tomatoes,Tomato:Tinned,Tomato paste,Tomato:Passata_SAME
+12566189887.0,242.0,skinless pollock fillets,Pollock,"Cos, white fish, basa fish",Cod:Fillet
+12566189887.0,242.0,skinless pollock fillets,Pollock,"Cos, white fish, basa fish",White fish
+12566189887.0,242.0,skinless pollock fillets,Pollock,"Cos, white fish, basa fish",Bass
+12566189887.0,242.0,raw shelled king prawns,Prawn,Peeled prawns,Prawn_SAME
+12561887242.0,333.0,poblano peppers,Pepper,ordinary peppers and a small chilli pepper,Pepper_SAME
+12561887242.0,332.0,chopped tomatoes,Tomato:Tinned,chop you own whole tomatoes,Tomato:Fresh_SAME
+12561887242.0,331.0,basmati rice,Basmati rice,"brown rice, lightly fried potato",Brown rice
+12561887242.0,331.0,basmati rice,Basmati rice,"brown rice, lightly fried potato",Potato
+12561887242.0,329.0,tomato sauce,Tomato sauce,more tomatoes,Tomato:Fresh_MORE
+12561887242.0,14.0,bratwursts,Sausage,"cooked mixed lentils, soya meat",Lentil
+12561887242.0,14.0,bratwursts,Sausage,"cooked mixed lentils, soya meat",Plant-based chicken:Pieces
+12561887242.0,364.0,coconut milk,Coconut milk,coconut and water,COMPLEX
+12561887242.0,273.0,cooked rice,White rice,potatoe,Potato
+12561887242.0,273.0,chicken mini fillets,Chicken:Fillet,"lentils, soya meat, hard boiled egg",Lentil
+12561887242.0,273.0,chicken mini fillets,Chicken:Fillet,"lentils, soya meat, hard boiled egg",Plant-based chicken:Pieces
+12561887242.0,273.0,chicken mini fillets,Chicken:Fillet,"lentils, soya meat, hard boiled egg",Egg
+12561887242.0,244.0,cooked prawns,Prawn,"cooked flaked sardines, anchovies ",Sardine
+12561887242.0,244.0,cooked prawns,Prawn,"cooked flaked sardines, anchovies ",Anchovy
+12561887242.0,210.0,risotto rice,Risotto rice,brown rice,Brown rice
+12561887242.0,136.0,butter,Butter,a soft margarine,Margarine
+12561887242.0,140.0,butter,Butter,more olive oil,Olive oil_MORE
+12634718023.0,458.0,aubergines,Aubergine,"Butternut squash, other squash, courgette, jackfruit",Butternut squash
+12634718023.0,458.0,aubergines,Aubergine,"Butternut squash, other squash, courgette, jackfruit",Squash
+12634718023.0,458.0,aubergines,Aubergine,"Butternut squash, other squash, courgette, jackfruit",Courgette
+12634718023.0,458.0,aubergines,Aubergine,"Butternut squash, other squash, courgette, jackfruit",Jackfruit
+12634718023.0,458.0,chickpeas,Chickpea,"Butter beans, haricot beans ",Butter bean
+12634718023.0,458.0,chickpeas,Chickpea,"Butter beans, haricot beans ",Haricot bean
+12634718023.0,457.0,salt cod,Cod:Fillet,Any firm white fish ,White fish
+12634718023.0,457.0,full fat milk,Milk,Lower fat milk. ,Milk_SAME
+12634718023.0,456.0,Greek-style yoghurt,Greek Yogurt,Creme fraiche,Crème fraiche
+12634718023.0,455.0,unsalted butter,Butter,Solid vegetable spread,Margarine
+12634718023.0,455.0,unsalted butter,Butter,Solid vegetable spread,Margarine
+12634718023.0,471.0,cooked lentils,Lentil,"Quinoa, bulgar wheat.",Quinoa
+12634718023.0,471.0,cooked lentils,Lentil,"Quinoa, bulgar wheat.",Bulgur wheat
+12634718023.0,152.0,Organic salmon fillets,Salmon,Firm white fish ,White fish
+12634718023.0,149.0,boneless chicken thighs,Chicken:Thigh,Quorn mince ,Quorn:Mince
+12634718023.0,429.0,milk,Milk,Creme fraiche,Crème fraiche
+12634718023.0,429.0,mature cheddar,Cheddar,Vegan cheddar ,Plant-based cheese
+12634718023.0,428.0,skinless chicken breasts,Chicken:Breast,"Paneer cheese, quorn pieces",Paneer
+12634718023.0,428.0,skinless chicken breasts,Chicken:Breast,"Paneer cheese, quorn pieces",Quorn:Pieces
+12634718023.0,426.0,firm white fish,White fish,"Paneer cheese, ",Paneer
+12634718023.0,425.0,pinto beans,Pinto bean,"Kidney beans, haricot beans, butter beans",Kidney bean
+12634718023.0,425.0,pinto beans,Pinto bean,"Kidney beans, haricot beans, butter beans",Haricot bean
+12634718023.0,425.0,pinto beans,Pinto bean,"Kidney beans, haricot beans, butter beans",Butter bean
+12554279736.0,288.0,ricotta,Ricotta,Vegan ricotta,Plant-based cheese
+12554279736.0,287.0,goat meat,Goat:Mince,Mixed beans,Bean
+12554279736.0,276.0,sourdough bread,Sourdough,Any bread?,Bread_SAME
+12554279736.0,288.0,ricotta,Ricotta,Vegan ricotta (tofu based),Tofu:Soft
+12554279736.0,200.0,beef mince,Beef:Mince,Lentils,Lentil
+12554279736.0,39.0,chicken breasts,Chicken:Breast,"Refried beans, halloumi, extra peppers and onions",Bean
+12554279736.0,39.0,chicken breasts,Chicken:Breast,"Refried beans, halloumi, extra peppers and onions",Halloumi
+12554279736.0,39.0,chicken breasts,Chicken:Breast,"Refried beans, halloumi, extra peppers and onions",Pepper_MORE
+12554279736.0,39.0,chicken breasts,Chicken:Breast,"Refried beans, halloumi, extra peppers and onions",Onion_MORE
+12554279736.0,65.0,lean minced beef,Beef:Mince,Beans,Bean
+12554279736.0,56.0,ghee,Ghee,Any oil,Oil
+12554279736.0,53.0,Paneer,Paneer,Kidney beans,Kidney bean
+12554279736.0,57.0,chickpea,Chickpea,"Kidney beans, broad beans, other beans",Kidney bean
+12554279736.0,57.0,chickpea,Chickpea,"Kidney beans, broad beans, other beans",Broad bean
+12554279736.0,57.0,chickpea,Chickpea,"Kidney beans, broad beans, other beans",Bean
+12554279736.0,57.0,egg,Egg,Flour,Flour
+12631388351.0,446.0,strong white flour,Flour,Would perhaps switch for brown flour ,Flour_SAME
+12631388351.0,444.0,olive oil,Olive oil,Coconut oil ,Coconut oil
+12631388351.0,135.0,chicken breasts,Chicken:Breast,Swap out for a variety of veg ,Vegetable
+12631388351.0,135.0,vegetable oil,Vegetable oil,Coconut oil ,Coconut oil
+12631388351.0,132.0,lean ground beef,Beef:Mince,"Courgette,  carrots, peas finely chopped ",Courgette
+12631388351.0,132.0,lean ground beef,Beef:Mince,"Courgette,  carrots, peas finely chopped ",Carrot
+12631388351.0,132.0,lean ground beef,Beef:Mince,"Courgette,  carrots, peas finely chopped ",Pea
+12631388351.0,350.0,chicken breast fillets,Chicken:Fillet,Use courgettes and other veg instead. Can make them crispy and fry. ,Courgette
+12631388351.0,404.0,stilton,Stilton,Could replace with creamy mushroom sauce. ,Mushroom sauce
+12631388351.0,402.0,pork meatballs,Pork:Mince,Iâ€™d swap the meat out for a variety of beans. Or Iâ€™d make arancini to replace the meatballs ,Bean
+12567189723.0,400.0,pork sausages,Sausage,Any vegan sausage. There are hundreds to choose from. ,Plant-based sausage
+12567189723.0,43.0,undyed smoked haddock fillet,Haddock,"Vegan fish substitute, smoked seaweed seasoned tofu, vegan bacon and seaweed",Tofu:Firm
+12567189723.0,43.0,undyed smoked haddock fillet,Haddock,"Vegan fish substitute, smoked seaweed seasoned tofu, vegan bacon and seaweed",Seaweed
+12567189723.0,43.0,undyed smoked haddock fillet,Haddock,"Vegan fish substitute, smoked seaweed seasoned tofu, vegan bacon and seaweed",Plant-based bacon
+12567189723.0,41.0,streaky bacon,Bacon,Vegan bacon like This or Vivera bacon bits. ,Plant-based bacon
+12567189723.0,41.0,boiled cabbage,Cabbage,"Raw cabbage, broccoli, peas, spinach, green beans ",Cabbage_SAME
+12567189723.0,41.0,boiled cabbage,Cabbage,"Raw cabbage, broccoli, peas, spinach, green beans ",Broccoli
+12567189723.0,41.0,boiled cabbage,Cabbage,"Raw cabbage, broccoli, peas, spinach, green beans ",Pea
+12567189723.0,41.0,boiled cabbage,Cabbage,"Raw cabbage, broccoli, peas, spinach, green beans ",Spinach
+12567189723.0,41.0,boiled cabbage,Cabbage,"Raw cabbage, broccoli, peas, spinach, green beans ",Green bean
+12567189723.0,40.0,chicken,Chicken:Breast,"Vegan chicken bits, seitan, tofu, beans, nut loaf",Plant-based chicken:Pieces
+12567189723.0,40.0,chicken,Chicken:Breast,"Vegan chicken bits, seitan, tofu, beans, nut loaf",Seitan
+12567189723.0,40.0,chicken,Chicken:Breast,"Vegan chicken bits, seitan, tofu, beans, nut loaf",Tofu:Firm
+12567189723.0,40.0,chicken,Chicken:Breast,"Vegan chicken bits, seitan, tofu, beans, nut loaf",Bean
+12567189723.0,40.0,chicken,Chicken:Breast,"Vegan chicken bits, seitan, tofu, beans, nut loaf",Nut loaf
+12567189723.0,40.0,chipolata sausages,Sausage,"Any vegan sausage, soy mince, tvp",Plant-based sausage
+12567189723.0,40.0,chipolata sausages,Sausage,"Any vegan sausage, soy mince, tvp",Soya mince
+12567189723.0,40.0,chipolata sausages,Sausage,"Any vegan sausage, soy mince, tvp",Plant-based chicken:Pieces
+12709532939.0,553.0,opped tomatoes,Tomato:Tinned,"Tinned plum tomatoes, fresh tomatoes ",Tomato:Tinned_SAME
+12709532939.0,553.0,opped tomatoes,Tomato:Tinned,"Tinned plum tomatoes, fresh tomatoes ",Tomato:Fresh_SAME
+12709532939.0,553.0,cherry tomatoes,Cherry tomato,"Tinned cherry tomatoes, fresh salad tomatoes ",Cherry tomato_SAME
+12709532939.0,553.0,cherry tomatoes,Cherry tomato,"Tinned cherry tomatoes, fresh salad tomatoes ",Tomato:Fresh_SAME
+12709532939.0,552.0,kidney beans,Kidney bean,"Lentils, black beans, haricot beans, butter beans ",Lentil
+12709532939.0,552.0,kidney beans,Kidney bean,"Lentils, black beans, haricot beans, butter beans ",Black bean
+12709532939.0,552.0,kidney beans,Kidney bean,"Lentils, black beans, haricot beans, butter beans ",Haricot bean
+12709532939.0,552.0,kidney beans,Kidney bean,"Lentils, black beans, haricot beans, butter beans ",Butter bean
+12709532939.0,552.0,chopped tomatoes,Tomato:Tinned,"Tinned plum tomatoes, tinned cherry tomatoes, fresh tomatoes ",Tomato:Tinned_SAME
+12709532939.0,552.0,chopped tomatoes,Tomato:Tinned,"Tinned plum tomatoes, tinned cherry tomatoes, fresh tomatoes ",Cherry tomato_SAME
+12709532939.0,552.0,chopped tomatoes,Tomato:Tinned,"Tinned plum tomatoes, tinned cherry tomatoes, fresh tomatoes ",Tomato:Fresh_SAME
+12709532939.0,551.0,paneer,Paneer,"Chicken, for a vegetarian quorn chicken ",Chicken:Breast
+12709532939.0,551.0,paneer,Paneer,"Chicken, for a vegetarian quorn chicken ",Quorn:Pieces
+12709532939.0,551.0,chopped tomatoes,Tomato:Tinned,Tinned plum tomatoes ,Tomato:Tinned_SAME
+12709532939.0,550.0,penne pasta,Pasta,"Spaghetti, fusilli, tagliatelle, any type of pasta ",Spaghetti
+12709532939.0,550.0,penne pasta,Pasta,"Spaghetti, fusilli, tagliatelle, any type of pasta ",Pasta_SAME
+12709532939.0,209.0,shredded extra-sharp Cheddar,Cheddar,"Mature cheddar, mild cheddar, red Leicester ",Cheddar_SAME
+12709532939.0,209.0,shredded extra-sharp Cheddar,Cheddar,"Mature cheddar, mild cheddar, red Leicester ",Red Leicester
+12709532939.0,209.0,shredded Colby Jack,Monterey Jack,"Any cheddar, red Leicester ",Cheddar_SAME
+12709532939.0,209.0,shredded Colby Jack,Monterey Jack,"Any cheddar, red Leicester ",Red Leicester
+12709532939.0,208.0,ground chicken,Chicken:Mince,Turkey Mince ,Turkey:Mince
+12709532939.0,207.0,salmon fillets,Salmon,"Seabass, monkfish",Bass
+12709532939.0,207.0,salmon fillets,Salmon,"Seabass, monkfish",Monkfish
+12709532939.0,205.0,beef mince,Beef:Mince,Turkey mince,Turkey:Mince
+12709532939.0,364.0,stewing beef steak,Beef:Steak,"Chicken breast, chicken thigh, diced lamb",Chicken:Breast
+12709532939.0,364.0,stewing beef steak,Beef:Steak,"Chicken breast, chicken thigh, diced lamb",Chicken:Thigh
+12709532939.0,364.0,stewing beef steak,Beef:Steak,"Chicken breast, chicken thigh, diced lamb",Lamb:Diced
+12709532939.0,507.0,Asda Arborio Rice,Arborio rice,"Risotto rice from another supplier, normally rice but cook in stock",Risotto rice
+12709532939.0,506.0,Parmesan cheese,Parmesan,If for topping the pasta - cheddar ,Cheddar
+12565243804.0,378.0,black beans,Black bean,Tinned kidney beans,Kidney bean
+12565243804.0,377.0,fresh tomatoes,Tomato:Fresh,Tinned tomoates,Tomato:Tinned_SAME
+12565243804.0,376.0,noodles,Wheat noodle,Spagetti,Spaghetti
+12565243804.0,29.0,pasta,Pasta,Cous cous,Couscous
+12565243804.0,29.0,butter,Butter,Margarine ,Margarine
+12565243804.0,27.0,whole wheat spaghetti,Spaghetti,White spagetti,Spaghetti_SAME
+12565243804.0,27.0,shredded red cabbage,Cabbage,Green cabbage ,Cabbage_SAME
+12565243804.0,201.0,cold butter,Butter,Baking spread or margarine ,Margarine
+12565243804.0,230.0,pork loin,Pork:Loin,"Not quite the same, but would use a high quality sausage ",Sausage
+12565243804.0,229.0,butter,Butter,"Good quality margarine ,or baking spread",Margarine
+12565243804.0,227.0,pollock,Pollock,"Any white or smoked fish would be good, basa, cod, haddock, ",Bass
+12565243804.0,227.0,pollock,Pollock,"Any white or smoked fish would be good, basa, cod, haddock, ",Cod:Fillet
+12565243804.0,227.0,pollock,Pollock,"Any white or smoked fish would be good, basa, cod, haddock, ",Haddock
+12565243804.0,227.0,raw prawns,Prawn,"Cooked prawns , or add another type of fish ie salmon ",Prawn
+12565243804.0,227.0,raw prawns,Prawn,"Cooked prawns , or add another type of fish ie salmon ",Salmon
+12565243804.0,226.0,lean minced lamb,Lamb:Mince,"Would consider Quorn mince which is not lamb, but feel it would substitute ok ",Quorn:Mince
+12562810303.0,51.0,vegan mayonnaise,Plant-based mayonnaise,Ordinary egg mayonnaise ,Mayonnaise
+12562810303.0,358.0,ground beef,Beef:Mince,Minced quorn,Quorn:Mince
+12562810303.0,21.0,pork,Pork:Loin,Should this be pork tenderloin? ,Pork:Loin_SAME
+12562810303.0,159.0,dried red lentils,Lentil,"Green lentils, brown lentils ",Lentil_SAME
+12562810303.0,159.0,chopped tomatoes,Tomato:Tinned,Fresh tomatoes ,Tomato:Fresh_SAME
+12562810303.0,159.0,coconut milk,Coconut milk,"Evaporated milk, oat milk",Evaporated milk
+12562810303.0,159.0,coconut milk,Coconut milk,"Evaporated milk, oat milk",Oat milk
+12562810303.0,158.0,fat coconut milk,Coconut milk,"Evaporated milk, some oat milk",Evaporated milk
+12562810303.0,158.0,fat coconut milk,Coconut milk,"Evaporated milk, some oat milk",Oat milk
+12562810303.0,147.0,spaghetti,Spaghetti,Any type of pasta including gluten free options ,Pasta
+12562810303.0,191.0,red kidney beans,Kidney bean,Butter beans,Butter bean
+12562810303.0,190.0,chicken,Chicken:Breast,"Butter beans, chick peas",Butter bean
+12562810303.0,190.0,chicken,Chicken:Breast,"Butter beans, chick peas",Chickpea
+12562810303.0,188.0,skinless salmon fillets,Salmon,"Smoked salmon, smoked mackerel",Salmon_SAME
+12562810303.0,188.0,skinless salmon fillets,Salmon,"Smoked salmon, smoked mackerel",Mackerel
+12553225933.0,275.0,beef mince,Beef:Mince,"cubed beef, beef strips",Beef:Diced_SAME
+12553225933.0,272.0,feta cheese,Feta,"Goat cheese, Parmesan cheese, cheddar cheese",Goats cheese
+12553225933.0,272.0,feta cheese,Feta,"Goat cheese, Parmesan cheese, cheddar cheese",Parmesan
+12553225933.0,272.0,feta cheese,Feta,"Goat cheese, Parmesan cheese, cheddar cheese",Cheddar
+12553225933.0,277.0,ground pork,Pork:Mince,"minced chicken, minced turkey",Chicken:Mince
+12553225933.0,277.0,ground pork,Pork:Mince,"minced chicken, minced turkey",Turkey:Mince
+12553225933.0,39.0,chicken breasts,Chicken:Breast,"Other boneless chicken pieces, Quorn or other meat substitute chunks, pork loin sliced, beef strips",Chicken:Diced_SAME
+12553225933.0,39.0,chicken breasts,Chicken:Breast,"Other boneless chicken pieces, Quorn or other meat substitute chunks, pork loin sliced, beef strips",Quorn:Pieces
+12553225933.0,39.0,chicken breasts,Chicken:Breast,"Other boneless chicken pieces, Quorn or other meat substitute chunks, pork loin sliced, beef strips",Plant-based chicken:Pieces
+12553225933.0,39.0,chicken breasts,Chicken:Breast,"Other boneless chicken pieces, Quorn or other meat substitute chunks, pork loin sliced, beef strips",Pork:Loin
+12553225933.0,39.0,chicken breasts,Chicken:Breast,"Other boneless chicken pieces, Quorn or other meat substitute chunks, pork loin sliced, beef strips",Beef:Diced
+12553225933.0,65.0,lean minced beef,Beef:Mince,"Minced meat substitute eg Quorn, minced meat like pork or turkey",Quorn:Mince
+12553225933.0,65.0,lean minced beef,Beef:Mince,"Minced meat substitute eg Quorn, minced meat like pork or turkey",Pork:Mince
+12553225933.0,65.0,lean minced beef,Beef:Mince,"Minced meat substitute eg Quorn, minced meat like pork or turkey",Turkey:Mince
+12553225933.0,34.0,chicken breasts,Chicken:Breast,"Quorn chunks, other boneless chicken, minced chicken",Quorn:Pieces
+12553225933.0,34.0,chicken breasts,Chicken:Breast,"Quorn chunks, other boneless chicken, minced chicken",Chicken:Diced_SAME
+12553225933.0,34.0,chicken breasts,Chicken:Breast,"Quorn chunks, other boneless chicken, minced chicken",Chicken:Mince_SAME
+12553225933.0,34.0,shredded Monterey jack,Monterey Jack,"Other strong tasting cheese which melts e.g cheddar, double Gloucester",Cheddar
+12553225933.0,34.0,shredded Monterey jack,Monterey Jack,"Other strong tasting cheese which melts e.g cheddar, double Gloucester",Double Gloucester
+12553225933.0,34.0,shredded cheddar,Cheddar,As above for the Monteray Jack - other strong flavoured cheese,Cheddar_SAME
+12553225933.0,34.0,shredded cheddar,Cheddar,As above for the Monteray Jack - other strong flavoured cheese,Double Gloucester
+12553225933.0,32.0,tomatoes,Tomato:Fresh,This ingredient should not be substituted but I would happily use any variety of tomato,Tomato:Fresh_SAME
+12553225933.0,32.0,Bulgarian Sirene cheese,Cheese,"Feta cheese, goats or sheep cheese, while not authentic they are similarly salty",Feta
+12553225933.0,32.0,Bulgarian Sirene cheese,Cheese,"Feta cheese, goats or sheep cheese, while not authentic they are similarly salty",Goats cheese
+12553225933.0,33.0,mature cheddar,Cheddar,"Any other tasty cheese, rather than a bland or mild one",Cheese_SAME
+12704568961.0,493.0,chicken breast,Chicken:Breast,tofu,Tofu:Firm
+12704568961.0,492.0,cheddar,Cheddar,"vegan cheddar style cheese, goat cheese",Plant-based cheese
+12704568961.0,492.0,cheddar,Cheddar,"vegan cheddar style cheese, goat cheese",Goats cheese
+12704568961.0,187.0,chopped tomatoes,Tomato:Tinned,Full tomatoes,Tomato:Fresh_SAME
+12704568961.0,183.0,peeled prawns,Prawn,"breast chicken, tofu",Chicken:Breast
+12704568961.0,183.0,peeled prawns,Prawn,"breast chicken, tofu",Tofu:Firm
+12704568961.0,476.0,chopped tomatoes,Tomato:Tinned,Full tomatoes,Tomato:Fresh_SAME
+12704568961.0,475.0,Greek-style yogurt,Greek Yogurt,"oat greek style yogurt, coconut greek style yogurt",Natural Yogurt
+12704568961.0,475.0,Greek-style yogurt,Greek Yogurt,"oat greek style yogurt, coconut greek style yogurt",Plant-based yogurt
+12704568961.0,474.0,egg noodles,Egg noodle,"any other type of noodles (rice noodles, glass noodles etc), brown rice, couscous",Rice Noodle
+12704568961.0,474.0,egg noodles,Egg noodle,"any other type of noodles (rice noodles, glass noodles etc), brown rice, couscous",Wheat noodle
+12704568961.0,474.0,egg noodles,Egg noodle,"any other type of noodles (rice noodles, glass noodles etc), brown rice, couscous",Brown rice
+12704568961.0,474.0,egg noodles,Egg noodle,"any other type of noodles (rice noodles, glass noodles etc), brown rice, couscous",Couscous
+12704568961.0,473.0,chicken thighs,Chicken:Thigh,"chicken breast, diced pork, diced turkey, meatball, vegan meatball",Chicken:Breast
+12704568961.0,473.0,chicken thighs,Chicken:Thigh,"chicken breast, diced pork, diced turkey, meatball, vegan meatball",Pork:Diced
+12704568961.0,473.0,chicken thighs,Chicken:Thigh,"chicken breast, diced pork, diced turkey, meatball, vegan meatball",Turkey:Diced
+12704568961.0,473.0,chicken thighs,Chicken:Thigh,"chicken breast, diced pork, diced turkey, meatball, vegan meatball",Plant-based meatball
+12704568961.0,473.0,Greek-style salad cheese,Feta,"vegan feta (violife), goat cheese ",Plant-based cheese
+12704568961.0,473.0,Greek-style salad cheese,Feta,"vegan feta (violife), goat cheese ",Goats cheese
+12704568961.0,472.0,chicken,Chicken:Breast,"Any vegetarian/vegan chicken breaded chicken, tofu, red beans",Plant-based chicken:Pieces
+12704568961.0,472.0,chicken,Chicken:Breast,"Any vegetarian/vegan chicken breaded chicken, tofu, red beans",Tofu:Firm
+12704568961.0,472.0,chicken,Chicken:Breast,"Any vegetarian/vegan chicken breaded chicken, tofu, red beans",Bean
+12709556648.0,543.0,Parmesan,Parmesan,an alternative cheese,Chesse_SAME
+12709556648.0,543.0,Mozzarella,Mozzarella,an alternative cheese,Chesse_SAME
+12709556648.0,541.0,chicken breast,Chicken:Breast,"quorn, turkey, pork",Quorn:Pieces
+12709556648.0,541.0,chicken breast,Chicken:Breast,"quorn, turkey, pork",Turkey:Breast
+12709556648.0,541.0,chicken breast,Chicken:Breast,"quorn, turkey, pork",Pork:Steak
+12709556648.0,539.0,minced beef,Beef:Mince,"quorn, turkey mince, pork mince",Quorn:Mince
+12709556648.0,539.0,minced beef,Beef:Mince,"quorn, turkey mince, pork mince",Turkey:Mince
+12709556648.0,539.0,minced beef,Beef:Mince,"quorn, turkey mince, pork mince",Pork:Mince
+12709556648.0,215.0,chopped tomatoes,Tomato:Tinned,"passata, plum tomatoes, fresh chopped tomatoes",Tomato:Passata_SAME
+12709556648.0,215.0,chopped tomatoes,Tomato:Tinned,"passata, plum tomatoes, fresh chopped tomatoes",Tomato:Fresh_SAME
+12709556648.0,215.0,chopped tomatoes,Tomato:Tinned,"passata, plum tomatoes, fresh chopped tomatoes",Tomato:Fresh_SAME
+12709556648.0,213.0,mature Cheddar cheese,Cheddar,an alternative cheese,Chesse_SAME
+12709556648.0,213.0,Parmesan cheese,Parmesan,an alternative cheese,Chesse_SAME
+12709556648.0,212.0,vegetable oil,Vegetable oil,sunflower oil,Sunflower oil
+12709556648.0,212.0,self-raising flour,Flour,plain flour with baking powder,Flour_SAME
+12709556648.0,212.0,self-raising flour,Flour,plain flour with baking powder,Baking powder
+12709556648.0,212.0,caster sugar,Caster sugar,granulated sugar,Granulated sugar
+12709556648.0,211.0,unsalted butter,Butter,"salted butter, oil",Butter
+12709556648.0,211.0,unsalted butter,Butter,"salted butter, oil",Oil
+12709556648.0,211.0,grated Grana Padano,Grana Padano,an alternative cheese,Chesse_SAME
+12709556648.0,211.0,Parmesan,Parmesan,an alternative cheese,Chesse_SAME
+12709556648.0,65.0,lean minced beef,Beef:Mince,"quorn mince, turkey mince, pork mince",Quorn:Mince
+12709556648.0,65.0,lean minced beef,Beef:Mince,"quorn mince, turkey mince, pork mince",Turkey:Mince
+12709556648.0,65.0,lean minced beef,Beef:Mince,"quorn mince, turkey mince, pork mince",Pork:Mince
+12709556648.0,210.0,risotto rice,Risotto rice,pearl barley,Pearl barley
+12709556648.0,363.0,boneless skinless chicken,Chicken:Breast,"peppers, quorn, turkey, pork",Pepper
+12709556648.0,363.0,boneless skinless chicken,Chicken:Breast,"peppers, quorn, turkey, pork",Quorn:Pieces
+12709556648.0,363.0,boneless skinless chicken,Chicken:Breast,"peppers, quorn, turkey, pork",Turkey:Breast
+12709556648.0,363.0,boneless skinless chicken,Chicken:Breast,"peppers, quorn, turkey, pork",Pork:Steak
+12709556648.0,517.0,chicken breast,Chicken:Breast,"paneer, quorn, turkey, pork, sweet potato",Paneer
+12709556648.0,517.0,chicken breast,Chicken:Breast,"paneer, quorn, turkey, pork, sweet potato",Quorn:Pieces
+12709556648.0,517.0,chicken breast,Chicken:Breast,"paneer, quorn, turkey, pork, sweet potato",Turkey:Breast
+12709556648.0,517.0,chicken breast,Chicken:Breast,"paneer, quorn, turkey, pork, sweet potato",Pork:Steak
+12709556648.0,517.0,chicken breast,Chicken:Breast,"paneer, quorn, turkey, pork, sweet potato",Sweet potato
+12559438748.0,327.0,free-range eggs,Egg,Vegan egg substitute. ,Plant-based egg
+12559438748.0,327.0,cooked ham,Pork:Slice,"Vegan bacon, vegan ham slices. ",Plant-based bacon
+12559438748.0,327.0,cooked ham,Pork:Slice,"Vegan bacon, vegan ham slices. ",Plant-based slice
+12559438748.0,327.0,smoked salmon,Salmon,Vegan carrot salmon. ,Carrot
+12559438748.0,325.0,Parmesan cheese,Parmesan,"Vegan parmesan, nutritional yeast. ",Plant-based cheese
+12559438748.0,325.0,Parmesan cheese,Parmesan,"Vegan parmesan, nutritional yeast. ",Nutritional yeast
+12559438748.0,325.0,buffalo mozzarella,Mozzarella,Vegan mozzerella. ,Plant-based cheese
+12559438748.0,324.0,chickpeas,Chickpea,Other kinds of beans. ,Bean
+12559438748.0,364.0,stewing beef steak,Beef:Steak,"Vegan steak, vegan mince beef.",Plant-based chicken:Pieces
+12559438748.0,364.0,stewing beef steak,Beef:Steak,"Vegan steak, vegan mince beef.",Plant-based mince
+12559438748.0,140.0,butter,Butter,"Vegan butter, vegan margarine.",Margarine
+12559438748.0,140.0,mature cheddar,Cheddar,"Vegan cheddar, nutritional yeast.",Plant-based cheese
+12559438748.0,140.0,mature cheddar,Cheddar,"Vegan cheddar, nutritional yeast.",Nutritional yeast
+12615673992.0,403.0,diced tomatoes,Tomato:Fresh,tinned tomatoes,Tomato:Tinned_SAME
+12615673992.0,402.0,pork meatballs,Pork:Meatball,quorn meatballs,Plant-based meatball
+12615673992.0,95.0,chicken breast,Chicken:Breast,quorn chicken fillets ,Quorn:Fillet
+12615673992.0,94.0,beef,Beef:Mince,quorn mince,Quorn:Mince
+12615673992.0,92.0,chicken breasts,Chicken:Breast,quorn chicken fillets,Quorn:Fillet
+12615673992.0,282.0,lean beef mince,Beef:Mince,"aubergine, courgettes, quorn mince, red lentils, brown lentils",Aubergine
+12615673992.0,282.0,lean beef mince,Beef:Mince,"aubergine, courgettes, quorn mince, red lentils, brown lentils",Courgette
+12615673992.0,282.0,lean beef mince,Beef:Mince,"aubergine, courgettes, quorn mince, red lentils, brown lentils",Quorn:Mince
+12615673992.0,282.0,lean beef mince,Beef:Mince,"aubergine, courgettes, quorn mince, red lentils, brown lentils",Lentil
+12615673992.0,328.0,lamb mince,Lamb:Mince,"Quorn mince, brown lentils, green lentils",Quorn:Mince
+12615673992.0,328.0,lamb mince,Lamb:Mince,"Quorn mince, brown lentils, green lentils",Lentil
+12631198717.0,438.0,skimmed milk,Milk,Any other milk,Soya milk
+12631198717.0,438.0,skimmed milk,Milk,Any other milk,Almond milk
+12631198717.0,438.0,skimmed milk,Milk,Any other milk,Oat milk
+12631198717.0,438.0,skimmed milk,Milk,Any other milk,Coconut milk
+12631198717.0,438.0,skimmed milk,Milk,Any other milk,Rice milk
+12631198717.0,438.0,mature cheddar,Cheddar,Any other hard cheese,Gouda
+12631198717.0,437.0,cherry tomatoes,Cherry tomato,Tin of chopped tomatoes ,Tomato:Tinned_SAME
+12631198717.0,437.0,mascarpone,Mascarpone,"Creme fraiche, yoghurt",Crème fraiche
+12631198717.0,437.0,mascarpone,Mascarpone,"Creme fraiche, yoghurt",Natural Yogurt
+12631198717.0,436.0,Mexican-style chilli cheese slices,Cheese,Any cheese slice,Cheese_SAME
+12631198717.0,436.0,monterey jack,Monterey Jack,Cheddar cheese,Cheddar
+12631198717.0,435.0,Mozzarella,Mozzarella,Cheddar cheese,Cheddar
+12631198717.0,467.0,feta cheese,Feta,Goat cheese,Goats cheese
+12631198717.0,124.0,Chopped Tomato,Tomato:Tinned,Tin of tomatoes ,Tomato:Tinned_SAME
+12631198717.0,123.0,black beans,Black bean,Red kidney beans 1 can,Kidney bean
+12631198717.0,123.0,wholemeal buns,Bread,Other bun suitable for vegans,Bread_SAME
+12562545465.0,50.0,shortening,Shortening,butter; margerine; vegan fat ,Butter
+12562545465.0,50.0,shortening,Shortening,butter; margerine; vegan fat ,Margarine
+12562545465.0,358.0,ground beef,Beef:Mince,ground venison; ground pork;quorn mince,Venison:Mince
+12562545465.0,358.0,ground beef,Beef:Mince,ground venison; ground pork;quorn mince,Pork:Mince
+12562545465.0,358.0,ground beef,Beef:Mince,ground venison; ground pork;quorn mince,Quorn:Mince
+12562545465.0,20.0,cod goujons,Cod:Goujon,ordinary fish fingers,Cod:Goujon_SAME
+12562545465.0,158.0,fat coconut milk,Coconut milk,half-fat coconut milk; coconut cream plus water,Coconut milk_SAME
+12562545465.0,158.0,fat coconut milk,Coconut milk,half-fat coconut milk; coconut cream plus water,Coconut cream
+12562545465.0,147.0,spaghetti,Spaghetti,any other shaped pasta,Pasta
+12562545465.0,147.0,parmesan,Parmesan,"any other strong flavoured hard cheese; vegetarian/vegan cheese
+or you could omit ingredient altogether",Cheddar
+12562545465.0,147.0,parmesan,Parmesan,"any other strong flavoured hard cheese; vegetarian/vegan cheese
+or you could omit ingredient altogether",Plant-based cheese
+12562545465.0,147.0,parmesan,Parmesan,"any other strong flavoured hard cheese; vegetarian/vegan cheese
+or you could omit ingredient altogether",REMOVE
+12562545465.0,126.0,young pea,Pea,ordinary frozen peas,Pea_SAME
+12562545465.0,187.0,chopped tomatoes,Tomato:Tinned,"tinned tomatoes, passata",Tomato:Tinned_SAME
+12562545465.0,187.0,chopped tomatoes,Tomato:Tinned,"tinned tomatoes, passata",Tomato:Passata_SAME
+12635987795.0,461.0,evaporated milk,Evaporated milk,Full fat milk,Milk
+12635987795.0,460.0,vegan butter,Margarine,"Butter,",Butter
+12635987795.0,459.0,roma tomatoes chopped,Tomato:Tinned,Any chopped tomatoes ,Tomato:Tinned_SAME
+12635987795.0,469.0,extra virgin olive oil,Olive oil,"Sunflower oil, butter, clover, bertolli.",Sunflower oil
+12635987795.0,469.0,extra virgin olive oil,Olive oil,"Sunflower oil, butter, clover, bertolli.",Butter
+12635987795.0,469.0,extra virgin olive oil,Olive oil,"Sunflower oil, butter, clover, bertolli.",Margarine
+12635987795.0,157.0,butter,Butter,Clover or Bertolli,Margarine
+12635987795.0,157.0,red kidney beans,Kidney bean,Chick peas,Chickpea
+12635987795.0,156.0,butter,Butter,"Low fat spread such as clover or Bertolli, ",Margarine
+12635987795.0,155.0,Mozzarella,Mozzarella,Mascarpone,Mascarpone
+12635987795.0,154.0,cherry tomatoes,Cherry tomato,Any tomatoes.,Tomato:Fresh_SAME
+12635987795.0,438.0,skimmed milk,Milk,"Full fat milk, semi skimmed milk, oat milk, soya milk.",Milk_SAME
+12635987795.0,438.0,skimmed milk,Milk,"Full fat milk, semi skimmed milk, oat milk, soya milk.",Oat milk
+12635987795.0,438.0,skimmed milk,Milk,"Full fat milk, semi skimmed milk, oat milk, soya milk.",Soya milk
+12635987795.0,438.0,mature cheddar,Cheddar,"Any hard cheese, vegetarian alternatives.",Gouda
+12635987795.0,438.0,mature cheddar,Cheddar,"Any hard cheese, vegetarian alternatives.",Plant-based cheese
+12635987795.0,437.0,cherry tomatoes,Cherry tomato,Larger tomatoes cut into pieces.,Tomato:Fresh_SAME
+12635987795.0,436.0,Mexican-style chilli cheese slices,Cheese,"Grated cheddar cheese, any cheese slice.",Cheddar_SAME
+12635987795.0,435.0,Mozzarella,Mozzarella,"Goats cheese, cheddar.",Goats cheese
+12635987795.0,435.0,Mozzarella,Mozzarella,"Goats cheese, cheddar.",Cheddar
+12635987795.0,435.0,milk,Milk,"Oat milk, coconut milk, soya milk.",Oat milk
+12635987795.0,435.0,milk,Milk,"Oat milk, coconut milk, soya milk.",Coconut milk
+12635987795.0,435.0,milk,Milk,"Oat milk, coconut milk, soya milk.",Soya milk
+12635987795.0,434.0,butter,Butter,"Olive oil, sunflower oil, low fat oil spray.",Olive oil
+12635987795.0,434.0,butter,Butter,"Olive oil, sunflower oil, low fat oil spray.",Sunflower oil
+12635987795.0,434.0,butter,Butter,"Olive oil, sunflower oil, low fat oil spray.",Oil
+12631330659.0,444.0,olive oil,Olive oil,Coconut oil ,Coconut oil
+12631330659.0,136.0,milk,Milk,Plant milk,Oat milk
+12631330659.0,136.0,milk,Milk,Plant milk,Almond milk
+12631330659.0,136.0,milk,Milk,Plant milk,Soya milk
+12631330659.0,136.0,milk,Milk,Plant milk,Coconut milk
+12631330659.0,136.0,milk,Milk,Plant milk,Rice milk
+12631330659.0,135.0,chicken breasts,Chicken:Breast,Quorn,Quorn:Pieces
+12631330659.0,135.0,vegetable oil,Vegetable oil,Coconut oil,Coconut oil
+12631330659.0,132.0,lean ground beef,Beef:Mince,Quorn mince,Quorn:Mince
+12631330659.0,400.0,pork sausages,Sausage,Quorn sausages,Quorn:Sausage
+12630966123.0,429.0,milk,Milk,Vegan milk alternative ,Oat milk
+12630966123.0,429.0,milk,Milk,Vegan milk alternative ,Almond milk
+12630966123.0,429.0,milk,Milk,Vegan milk alternative ,Soya milk
+12630966123.0,429.0,milk,Milk,Vegan milk alternative ,Coconut milk
+12630966123.0,429.0,milk,Milk,Vegan milk alternative ,Rice milk
+12630966123.0,428.0,skinless chicken breasts,Chicken:Breast,Chicken thigh or quorn ,Chicken:Thigh_SAME
+12630966123.0,428.0,skinless chicken breasts,Chicken:Breast,Chicken thigh or quorn ,Quorn:Pieces
+12630966123.0,426.0,firm white fish,White fish,Seafood like prawns ,Prawn
+12630966123.0,463.0,feta cheese,Feta,Goats cheese ,Goats cheese
+12630966123.0,115.0,mozzarella,Mozzarella,"Cheddar cheese, more Parmesan or vegan alternative ",Cheddar
+12630966123.0,115.0,mozzarella,Mozzarella,"Cheddar cheese, more Parmesan or vegan alternative ",Parmesan
+12630966123.0,115.0,mozzarella,Mozzarella,"Cheddar cheese, more Parmesan or vegan alternative ",Plant-based cheese
+12630966123.0,114.0,udon noodles,Wheat noodle,Another type of noodle like egg noodles ,Egg noodle
+12630966123.0,112.0,mascarpone,Mascarpone,Creme fraiche ,Crème fraiche
+12630966123.0,112.0,cooked chicken breasts,Chicken:Breast,Chicken thigh or quorn pieces ,Chicken:Thigh_SAME
+12630966123.0,112.0,cooked chicken breasts,Chicken:Breast,Chicken thigh or quorn pieces ,Quorn:Pieces
+12630966123.0,112.0,y bacon,Bacon,Chorizo ,Chorizo
+12630966123.0,111.0,sausages,Sausage,Vegetarian sausages or beans ,Plant-based sausage
+12630966123.0,111.0,sausages,Sausage,Vegetarian sausages or beans ,Bean
+12630966123.0,371.0,cooked king prawns,Prawn,Another meat or mushrooms,Mushroom
+12630966123.0,370.0,chicken thighs,Chicken:Thigh,Other parts of chicken or any other meat. Also aubergine and chickpeas or veggie alternative ,Chicken:Breast_SAME
+12630966123.0,370.0,chicken thighs,Chicken:Thigh,Other parts of chicken or any other meat. Also aubergine and chickpeas or veggie alternative ,Chickpea
+12630966123.0,370.0,chicken thighs,Chicken:Thigh,Other parts of chicken or any other meat. Also aubergine and chickpeas or veggie alternative ,Aubergine
+12630966123.0,370.0,chicken thighs,Chicken:Thigh,Other parts of chicken or any other meat. Also aubergine and chickpeas or veggie alternative ,Plant-based chicken:Pieces
+12630966123.0,369.0,young goat cheese,Goats cheese,Sheepâ€™s cheese or cows cheese or vegan cheese ,Cheddar
+12630966123.0,369.0,young goat cheese,Goats cheese,Sheepâ€™s cheese or cows cheese or vegan cheese ,Plant-based cheese
+12630966123.0,368.0,raw frozen prawns,Prawn,"Mushrooms, aubergine, squash. Or chicken or quorn ",Mushroom
+12630966123.0,368.0,raw frozen prawns,Prawn,"Mushrooms, aubergine, squash. Or chicken or quorn ",Aubergine
+12630966123.0,368.0,raw frozen prawns,Prawn,"Mushrooms, aubergine, squash. Or chicken or quorn ",Squash
+12630966123.0,368.0,raw frozen prawns,Prawn,"Mushrooms, aubergine, squash. Or chicken or quorn ",Chicken:Breast
+12630966123.0,368.0,raw frozen prawns,Prawn,"Mushrooms, aubergine, squash. Or chicken or quorn ",Quorn:Pieces
+12630966123.0,367.0,chopped tomatoes,Tomato:Tinned,Fresh tomatoes ,Tomato:Fresh_SAME
+12558081816.0,318.0,tomato base sauce,Tomato:Passata,"Passata, pizza topping base mixed with water",Tomato:Passata_SAME
+12558081816.0,318.0,hard cheese,Cheddar,"Grated mozarella, grated parmesan, parmesan flakes",Mozzarella
+12558081816.0,318.0,hard cheese,Cheddar,"Grated mozarella, grated parmesan, parmesan flakes",Parmesan
+12558081816.0,317.0,chopped tomatoes,Tomato:Tinned,Passata,Tomato:Passata_SAME
+12558081816.0,314.0,lamb,Lamb:Steak,Beef joint,Beef:Joint
+12558081816.0,12.0,paneer,Paneer,Tofu,Tofu:Firm
+12558081816.0,140.0,butter,Butter,Margerine,Margarine
+12558081816.0,140.0,mature cheddar,Cheddar,"Mozarella, mascarpone, cream cheese, parmesan",Mozzarella
+12558081816.0,140.0,mature cheddar,Cheddar,"Mozarella, mascarpone, cream cheese, parmesan",Mascarpone
+12558081816.0,140.0,mature cheddar,Cheddar,"Mozarella, mascarpone, cream cheese, parmesan",Cream cheese
+12558081816.0,140.0,mature cheddar,Cheddar,"Mozarella, mascarpone, cream cheese, parmesan",Parmesan
+12558081816.0,65.0,lean minced beef,Beef:Mince,"minced pork, minced turkey, quorn mince",Pork:Mince
+12558081816.0,65.0,lean minced beef,Beef:Mince,"minced pork, minced turkey, quorn mince",Turkey:Mince
+12558081816.0,65.0,lean minced beef,Beef:Mince,"minced pork, minced turkey, quorn mince",Quorn:Mince
+12558081816.0,115.0,mozzarella,Mozzarella,Cheddar cheese,Cheddar
+12558081816.0,114.0,udon noodles,Wheat noodle,"Ramen noodles, egg noodles",Wheat noodle_SAME
+12558081816.0,114.0,udon noodles,Wheat noodle,"Ramen noodles, egg noodles",Egg noodle
+12558081816.0,112.0,mascarpone,Mascarpone,Cream cheese,Cream cheese
+12558081816.0,112.0,y bacon,Bacon,"Pancetta, precooked sliced ham.",Pancetta
+12558081816.0,112.0,y bacon,Bacon,"Pancetta, precooked sliced ham.",Pork:Slice
+12562350817.0,351.0,roma tomatoes,Tomato:Fresh,Tinned Tomatoes,Tomato:Tinned_SAME
+12562350817.0,350.0,chicken breast fillets,Chicken:Breast,Halloumi,Halloumi
+12562350817.0,19.0,large scallops,Scallops,Halloumi,Halloumi
+12562350817.0,147.0,spaghetti,Spaghetti,Other pasta,Pasta
+12562350817.0,147.0,parmesan,Parmesan,Parmigiana ,Parmesan_SAME
+12562350817.0,126.0,young pea,Pea,"Garden peas, young broad beans",Pea
+12562350817.0,126.0,young pea,Pea,"Garden peas, young broad beans",Broad bean
+12562350817.0,85.0,paella rice,Paella rice,"Basmati rice, brown rice",Basmati rice
+12562350817.0,85.0,paella rice,Paella rice,"Basmati rice, brown rice",Brown rice
+12562350817.0,177.0,cherry tomatoes,Cherry tomato,"Garden tomatoes, courgettes, red peppers",Tomato:Fresh_SAME
+12562350817.0,177.0,cherry tomatoes,Cherry tomato,"Garden tomatoes, courgettes, red peppers",Courgette
+12562350817.0,177.0,cherry tomatoes,Cherry tomato,"Garden tomatoes, courgettes, red peppers",Pepper
+12562350817.0,175.0,haddock-fillet,Haddock,Smoked cod,Cod:Fillet
+12562350817.0,174.0,cooked wild rice,Wild rice,"Brown rice, Basmati rice, wholewheat pasta",Brown rice
+12562350817.0,174.0,cooked wild rice,Wild rice,"Brown rice, Basmati rice, wholewheat pasta",Basmati rice
+12562350817.0,174.0,cooked wild rice,Wild rice,"Brown rice, Basmati rice, wholewheat pasta",Pasta
+12562350817.0,173.0,carrots,Carrot,Butternut squash,Butternut squash
+12562350817.0,173.0,red lentils,Lentil,Tomatoes,Tomato:Fresh
+12562350817.0,173.0,milk,Milk,"Oat milk, Soya Milk, Coconut milk, water",Oat milk
+12562350817.0,173.0,milk,Milk,"Oat milk, Soya Milk, Coconut milk, water",Soya milk
+12562350817.0,173.0,milk,Milk,"Oat milk, Soya Milk, Coconut milk, water",Coconut milk
+12562350817.0,173.0,milk,Milk,"Oat milk, Soya Milk, Coconut milk, water",Water
+12581659782.0,583.0,passata,Tomato:Passata,"Tinned tomatoes, chopped fresh tomatoes",Tomato:Tinned_SAME
+12581659782.0,583.0,passata,Tomato:Passata,"Tinned tomatoes, chopped fresh tomatoes",Tomato:Fresh_SAME
+12581659782.0,582.0,zucchini,Courgette,Butternut squash,Butternut squash
+12581659782.0,581.0,tomato,Tomato:Fresh,"Grated carrot, diced red pepper, sliced courgette ",Carrot
+12581659782.0,581.0,tomato,Tomato:Fresh,"Grated carrot, diced red pepper, sliced courgette ",Pepper
+12581659782.0,581.0,tomato,Tomato:Fresh,"Grated carrot, diced red pepper, sliced courgette ",Courgette
+12581659782.0,575.0,halloumi cheese,Halloumi,Any kind of beans,Bean
+12581659782.0,75.0,lean minced beef,Beef:Mince,"Pork mince, Turkey mince",Pork:Mince
+12581659782.0,75.0,lean minced beef,Beef:Mince,"Pork mince, Turkey mince",Turkey:Mince
+12581659782.0,74.0,sausages,Sausage,"Vegetarian sausage, sweet potato, diced turkey, diced chicken",Plant-based sausage
+12581659782.0,74.0,sausages,Sausage,"Vegetarian sausage, sweet potato, diced turkey, diced chicken",Sweet potato
+12581659782.0,74.0,sausages,Sausage,"Vegetarian sausage, sweet potato, diced turkey, diced chicken",Turkey:Diced
+12581659782.0,74.0,sausages,Sausage,"Vegetarian sausage, sweet potato, diced turkey, diced chicken",Chicken:Diced
+12581659782.0,73.0,Beef Mince,Beef:Mince,"Turkey mince, tofu",Turkey:Mince
+12581659782.0,73.0,Beef Mince,Beef:Mince,"Turkey mince, tofu",Tofu:Firm
+12581659782.0,72.0,Diced Chicken Breast,Chicken:Diced,"Tofu, salmon",Tofu:Firm
+12581659782.0,72.0,Diced Chicken Breast,Chicken:Diced,"Tofu, salmon",Salmon
+12581659782.0,71.0,soft egg-free,White rice,Sticky Rice,White rice_SAME
+12581659782.0,65.0,lean minced beef,Beef:Mince,Diced mushrooms and aubergines,Mushroom
+12581659782.0,65.0,lean minced beef,Beef:Mince,Diced mushrooms and aubergines,Aubergine
+12581659782.0,291.0,red lentils,Lentil,"Chick peas, green lentils, tofu",Chickpea
+12581659782.0,291.0,red lentils,Lentil,"Chick peas, green lentils, tofu",Lentil
+12581659782.0,291.0,red lentils,Lentil,"Chick peas, green lentils, tofu",Tofu:Firm
+12581659782.0,290.0,free-range chicken breasts,Chicken:Breast,"Kidney beans, black beans, halloumi",Kidney bean
+12581659782.0,290.0,free-range chicken breasts,Chicken:Breast,"Kidney beans, black beans, halloumi",Black bean
+12581659782.0,290.0,free-range chicken breasts,Chicken:Breast,"Kidney beans, black beans, halloumi",Halloumi
+12611343920.0,399.0,chicken thighs,Chicken:Thigh,"Chicken drumsticks, use a whole chicken and portion it up ",Chicken:Drumstick_SAME
+12611343920.0,399.0,chicken thighs,Chicken:Thigh,"Chicken drumsticks, use a whole chicken and portion it up ",Chicken:Whole_SAME
+12611343920.0,398.0,whole duck,Duck:Whole,Small whole chicken ,Chicken:Whole
+12611343920.0,396.0,pork loin,Pork:Loin,Chicken diced ,Chicken:Diced
+12611343920.0,396.0,leg steaks,Lamb:Steak,Diced lamb or leave out ,Lamb:Diced_SAME
+12611343920.0,396.0,leg steaks,Lamb:Steak,Diced lamb or leave out ,REMOVE
+12611343920.0,418.0,baking potatoes,Potato,Whatever potatoes I have in reducing cooking time and using more than 4 if need be ,Potato_SAME
+12611343920.0,418.0,chickpeas,Chickpea,Maybe other tinned beans like canelini beans or butter beans ,Bean
+12611343920.0,418.0,chickpeas,Chickpea,Maybe other tinned beans like canelini beans or butter beans ,Cannellini bean
+12611343920.0,418.0,chickpeas,Chickpea,Maybe other tinned beans like canelini beans or butter beans ,Butter bean
+12611343920.0,85.0,paella rice,Paella rice,Another type of rice eg long grain ,Long-grain rice
+12611343920.0,83.0,milk,Milk,Any milk alternative - soya or rice milk ,Soya milk
+12611343920.0,83.0,milk,Milk,Any milk alternative - soya or rice milk ,Rice milk
+12611343920.0,81.0,feta,Feta,"Cheddar, goats cheese ",Cheddar
+12611343920.0,81.0,feta,Feta,"Cheddar, goats cheese ",Goats cheese
+12611343920.0,314.0,lamb,Lamb:Steak,"A chicken or chicken pieces, thighs ",Chicken:Whole
+12611343920.0,314.0,lamb,Lamb:Steak,"A chicken or chicken pieces, thighs ",Chicken:Diced
+12611343920.0,314.0,lamb,Lamb:Steak,"A chicken or chicken pieces, thighs ",Chicken:Thigh
+12611343920.0,312.0,butter,Butter,Margarine or oil or spray oil ,Margarine
+12611343920.0,312.0,butter,Butter,Margarine or oil or spray oil ,Oil
+12645461528.0,486.0,Purpose Flour,Flour,Plain flour,Flour_SAME
+12645461528.0,486.0,Vegan Beef,Plant-based mince,"Quorn mince, vegetarian chicken pieces",Quorn:Mince
+12645461528.0,486.0,Vegan Beef,Plant-based mince,"Quorn mince, vegetarian chicken pieces",Plant-based chicken:Pieces
+12645461528.0,177.0,cherry tomatoes,Cherry tomato,"Carrot, aubergine, courgettes",Carrot
+12645461528.0,177.0,cherry tomatoes,Cherry tomato,"Carrot, aubergine, courgettes",Aubergine
+12645461528.0,177.0,cherry tomatoes,Cherry tomato,"Carrot, aubergine, courgettes",Courgette
+12645461528.0,175.0,haddock-fillet,Haddock,Salmon fillet,Salmon
+12645461528.0,172.0,Pork Sausages,Sausage,"Vegetarian sausages, quorn chicken pieces, vegetarian burgers",Plant-based sausage
+12645461528.0,172.0,Pork Sausages,Sausage,"Vegetarian sausages, quorn chicken pieces, vegetarian burgers",Quorn:Pieces
+12645461528.0,172.0,Pork Sausages,Sausage,"Vegetarian sausages, quorn chicken pieces, vegetarian burgers",Plant-based burger
+12645461528.0,171.0,cream cheese,Cream cheese,"Other cheese types - e.g. mozzarella, cheddar",Mozzarella
+12645461528.0,171.0,cream cheese,Cream cheese,"Other cheese types - e.g. mozzarella, cheddar",Cheddar
+12645461528.0,463.0,feta cheese,Feta,"Other cheeses, e.g. mozzarella, cheddar",Mozzarella
+12645461528.0,463.0,feta cheese,Feta,"Other cheeses, e.g. mozzarella, cheddar",Cheddar
+12645461528.0,461.0,evaporated milk,Evaporated milk,"Sour cream, yogurt",Soured cream
+12645461528.0,461.0,evaporated milk,Evaporated milk,"Sour cream, yogurt",Yogurt
+12561744421.0,328.0,lamb mince,Lamb:Mince,turkey mince,Turkey:Mince
+12561744421.0,327.0,cooked ham,Pork:Slice,chorizo sausage,Chorizo
+12561744421.0,326.0,non-dairy yogurt,Yogurt,"milk, double cream",Milk
+12561744421.0,326.0,non-dairy yogurt,Yogurt,"milk, double cream",Double cream
+12561744421.0,325.0,Parmesan cheese,Parmesan,any cheese,Cheese
+12561744421.0,325.0,buffalo mozzarella,Mozzarella,"simple mozzarella, any cheese",Mozzarella_SAME
+12561744421.0,325.0,buffalo mozzarella,Mozzarella,"simple mozzarella, any cheese",Cheese
+12561744421.0,14.0,bratwursts,Sausage,"sausage, frankfurter, chorizo ",Sausage_SAME
+12561744421.0,14.0,bratwursts,Sausage,"sausage, frankfurter, chorizo ",Chorizo
+12561744421.0,364.0,stewing beef steak,Beef:Steak,"pork, chicken ",Pork:Steak
+12561744421.0,364.0,stewing beef steak,Beef:Steak,"pork, chicken ",Chicken:Breast
+12561744421.0,273.0,chicken mini fillets,Chicken:Fillet,"chicken breasts, chicken thighs, pork cutlet",Chicken:Breast_SAME
+12561744421.0,273.0,chicken mini fillets,Chicken:Fillet,"chicken breasts, chicken thighs, pork cutlet",Chicken:Thigh_SAME
+12561744421.0,273.0,chicken mini fillets,Chicken:Fillet,"chicken breasts, chicken thighs, pork cutlet",Pork:Steak
+12561744421.0,135.0,chicken breasts,Chicken:Breast,"chicken thighs, chicken wings",Chicken:Thigh_SAME
+12561744421.0,135.0,chicken breasts,Chicken:Breast,"chicken thighs, chicken wings",Chicken:Wing_SAME
+12561744421.0,135.0,vegetable oil,Vegetable oil,olive oil,Olive oil
+12561744421.0,134.0,smoked streaky bacon,Bacon,"ham, chorizo sausage, chicken",Pork:Slice
+12561744421.0,134.0,smoked streaky bacon,Bacon,"ham, chorizo sausage, chicken",Chorizo
+12561744421.0,134.0,smoked streaky bacon,Bacon,"ham, chorizo sausage, chicken",Chicken:Breast
+12561744421.0,134.0,Parmesan cheese,Parmesan,chedar cheese,Cheddar
+12561744421.0,132.0,sauce,Tomato sauce,"tomato paste, chopped tomatoes, crushed tomatoes, ketchup",Tomato puree_SAME
+12561744421.0,132.0,sauce,Tomato sauce,"tomato paste, chopped tomatoes, crushed tomatoes, ketchup",Tomato:Tinned_SAME
+12561744421.0,132.0,sauce,Tomato sauce,"tomato paste, chopped tomatoes, crushed tomatoes, ketchup",Tomato:Fresh_SAME
+12561744421.0,132.0,sauce,Tomato sauce,"tomato paste, chopped tomatoes, crushed tomatoes, ketchup",Tomato ketchup
+12561744421.0,132.0,lean ground beef,Beef:Mince,"mushrooms, turkey mince",Mushroom
+12561744421.0,132.0,lean ground beef,Beef:Mince,"mushrooms, turkey mince",Turkey:Mince
+12561744421.0,131.0,chicken breasts,Chicken:Breast,"turkey breast, chicken thigh",Turkey:Breast
+12561744421.0,131.0,chicken breasts,Chicken:Breast,"turkey breast, chicken thigh",Chicken:Thigh_SAME
+12630988686.0,434.0,Italian arborio rice,Arborio rice,Long grain rice ,Long-grain rice
+12630988686.0,434.0,butter,Butter,Olive oil,Olive oil
+12630988686.0,433.0,higher-welfare sausages,Sausage,Vegetarian sausage,Plant-based sausage
+12630988686.0,120.0,Chicken Breasts,Chicken:Breast,Butternut squash,Butternut squash
+12630988686.0,119.0,Beef,Beef:Steak,Quorm,Quorn:Pieces
+12630988686.0,118.0,lamb shoulder,Lamb:Shoulder,Sweet potato or butternut squah,Sweet potato
+12630988686.0,118.0,lamb shoulder,Lamb:Shoulder,Sweet potato or butternut squah,Butternut squash
+12630988686.0,117.0,Chicken Thighs,Chicken:Thigh, Chicken breast,Chicken:Breast_SAME
+12630988686.0,117.0,Natural Yoghurt,Natural Yogurt,Cream or creme fresh,Single cream
+12630988686.0,117.0,Natural Yoghurt,Natural Yogurt,Cream or creme fresh,Crème fraiche
+12630988686.0,116.0,Skinless Chicken Thigh Fillets,Chicken:Thigh,Chicken breast,Chicken:Breast_SAME
+12630988686.0,17.0,pancetta,Pancetta,Bacon - back or streaky or left over ham from a ham joint,Bacon
+12630988686.0,373.0,diced chicken breast,Chicken:Diced,Sweet potato/aubergine ,Sweet potato
+12630988686.0,373.0,diced chicken breast,Chicken:Diced,Sweet potato/aubergine ,Aubergine
+12630988686.0,372.0,lean stewing beef,Beef:Steak,Sweet potatoes ,Sweet potato
+12562875971.0,365.0,pork loin roast,Pork:Loin,nut roast,Nut roast
+12562875971.0,360.0,pork loin steaks,Pork:Loin,chicken,Chicken:Breast
+12562875971.0,360.0,pork medallions,Pork:Loin,chicken,Chicken:Breast
+12562875971.0,359.0,beef,Beef:Mince,"lamb mince, meat-free mince",Lamb:Mince
+12562875971.0,359.0,beef,Beef:Mince,"lamb mince, meat-free mince",Plant-based mince
+12562875971.0,22.0,chicken breast,Chicken:Breast,"tofu, paneer",Tofu:Firm
+12562875971.0,22.0,chicken breast,Chicken:Breast,"tofu, paneer",Paneer
+12562875971.0,22.0,plain yogurt,Natural Yogurt,dairy-free yoghurt,Plant-based yogurt
+12562875971.0,273.0,cooked rice,White rice,"quinoa, cous cous",Quinoa
+12562875971.0,273.0,cooked rice,White rice,"quinoa, cous cous",Couscous
+12562875971.0,273.0,chicken mini fillets,Chicken:Fillet,"paneer, tofu",Paneer
+12562875971.0,273.0,chicken mini fillets,Chicken:Fillet,"paneer, tofu",Tofu:Firm
+12562875971.0,166.0,stewing beef,Beef:Steak,stewing lamb,Lamb:Steak
+12562875971.0,166.0,brisket,Beef:Joint,stewing lamb,Lamb:Steak
+12562875971.0,159.0,dried red lentils,Lentil,"green lentils, chick peas, butter beans",Lentil_SAME
+12562875971.0,159.0,dried red lentils,Lentil,"green lentils, chick peas, butter beans",Chickpea
+12562875971.0,159.0,dried red lentils,Lentil,"green lentils, chick peas, butter beans",Butter bean
+12562875971.0,159.0,chopped tomatoes,Tomato:Tinned,tomato passata,Tomato:Passata_SAME
+12562875971.0,159.0,coconut milk,Coconut milk,oat milk,Oat milk
+12562875971.0,199.0,bone,Beef:Steak,"meat-free chicken, tofu, paneer",Plant-based chicken:Pieces
+12562875971.0,199.0,bone,Beef:Steak,"meat-free chicken, tofu, paneer",Tofu:Firm
+12562875971.0,199.0,bone,Beef:Steak,"meat-free chicken, tofu, paneer",Paneer
+12562875971.0,199.0,Greek yogurt,Greek Yogurt,dairy-free yoghurt,Plant-based yogurt
+12562875971.0,198.0,lamb mince,Lamb:Mince,meat-free mince,Plant-based mince
+12562345662.0,348.0,ramen noodles,Wheat noodle,Soba noodles,Wheat noodle_SAME
+12562345662.0,347.0,Chinese straw mushrooms,Mushroom,Shitake mushrooms,Mushroom_SAME
+12562345662.0,347.0,oyster sauce,Oyster sauce,Mushroom sauce,Mushroom sauce
+12562345662.0,19.0,large scallops,Scallops,King prawns,Prawn
+12562345662.0,481.0,fat lamb,Lamb:Steak,Marbled beef,Beef:Steak
+12562345662.0,481.0,ribs,Beef:Joint,Beef ribs,Beef:Joint_SAME
+12562345662.0,126.0,young pea,Pea,Broad beans,Broad bean
+12562345662.0,273.0,cooked rice,White rice,Cooked pearl barley,Pearl barley
+12562345662.0,273.0,chicken mini fillets,Chicken:Fillet,Quorn pieces,Quorn:Pieces
+12562345662.0,57.0,chickpea,Chickpea,Broad beans,Broad bean
+12562345662.0,57.0,egg,Egg,Bread crumbs,Bread
+12562345662.0,172.0,Pork Sausages,Sausage,Quorn sausages,Quorn:Sausage
+12562345662.0,170.0,Quorn Mince,Quorn:Mince,Tin of mixed beans,Bean
+12562345662.0,170.0,chopped tomatoes,Tomato:Tinned,More tomato passata,Tomato:Passata_MORE
+12562345662.0,170.0,tomato passata,Tomato:Passata,An extra tin of chopped tomatoes,Tomato:Tinned_MORE
+12562345662.0,169.0,feta cheese,Feta,Haloumi cheese,Halloumi
+12554355795.0,303.0,diced tomatoes,Tomato:Fresh,Tinned tomatoes,Tomato:Tinned_SAME
+12554355795.0,302.0,aubergine,Aubergine,Spinach ,Spinach
+12554355795.0,301.0,ground pork,Pork:Mince,Veggie mince,Plant-based mince
+12554355795.0,300.0,jasmine rice,Jasmine rice,Alternative rice,White rice
+12554355795.0,299.0,medium shrimp,Shrimp,"Chicken, tofu ",Chicken:Breast
+12554355795.0,299.0,medium shrimp,Shrimp,"Chicken, tofu ",Tofu:Firm
+12554355795.0,8.0,milk,Milk,Non-dairy milk alternative,Oat milk
+12554355795.0,8.0,milk,Milk,Non-dairy milk alternative,Soya milk
+12554355795.0,8.0,milk,Milk,Non-dairy milk alternative,Almond milk
+12554355795.0,8.0,milk,Milk,Non-dairy milk alternative,Coconut milk
+12554355795.0,8.0,milk,Milk,Non-dairy milk alternative,Rice milk
+12554355795.0,8.0,russet potatoes,Potato,Any other potato,Potato_SAME
+12554355795.0,17.0,pancetta,Pancetta,Veggie ham substitute,Plant-based ham
+12554355795.0,243.0,beef mince,Beef:Mince,"Veggie mince, lentils, mushrooms",Plant-based mince
+12554355795.0,243.0,beef mince,Beef:Mince,"Veggie mince, lentils, mushrooms",Lentil
+12554355795.0,243.0,beef mince,Beef:Mince,"Veggie mince, lentils, mushrooms",Mushroom
+12554355795.0,243.0,British veal mince,Veal:Mince,"Veggie mince, lentils, mushrooms",Plant-based mince
+12554355795.0,243.0,British veal mince,Veal:Mince,"Veggie mince, lentils, mushrooms",Lentil
+12554355795.0,243.0,British veal mince,Veal:Mince,"Veggie mince, lentils, mushrooms",Mushroom
+12554355795.0,65.0,lean minced beef,Beef:Mince,"Veggie mince, courgettes, carrots",Plant-based mince
+12554355795.0,65.0,lean minced beef,Beef:Mince,"Veggie mince, courgettes, carrots",Courgette
+12554355795.0,65.0,lean minced beef,Beef:Mince,"Veggie mince, courgettes, carrots",Carrot
+12554355795.0,79.0,mackerel fillets,Mackerel,"Salmon, tuna",Salmon
+12554355795.0,79.0,mackerel fillets,Mackerel,"Salmon, tuna",Tuna:Steak
+12554355795.0,78.0,Paneer,Paneer,Cauliflower ,Cauliflower
+12554355795.0,77.0,butter,Butter,"Pumpkin, any gourd",Pumpkin
+12554355795.0,77.0,butter,Butter,"Pumpkin, any gourd",Gourd
+12554355795.0,77.0,risotto rice,Risotto rice,"Orzo, paella rice",Pasta
+12554355795.0,77.0,risotto rice,Risotto rice,"Orzo, paella rice",Paella rice
+12630000054.0,425.0,diced tomatoes,Tomato:Fresh,"Tinned tomatoes, Passata,tomato puree
+
+
+
+",Tomato:Tinned_SAME
+12630000054.0,425.0,diced tomatoes,Tomato:Fresh,"Tinned tomatoes, Passata,tomato puree
+
+
+
+",Tomato:Passata:SAME
+12630000054.0,425.0,diced tomatoes,Tomato:Fresh,"Tinned tomatoes, Passata,tomato puree
+
+
+
+",Tomato puree
+12630000054.0,425.0,black beans,Black bean,"Canellini beans, butter beans, borlotti beans",Cannellini bean
+12630000054.0,425.0,black beans,Black bean,"Canellini beans, butter beans, borlotti beans",Butter bean
+12630000054.0,425.0,black beans,Black bean,"Canellini beans, butter beans, borlotti beans",Borlotti bean
+12630000054.0,425.0,pinto beans,Pinto bean,"Black beans, black eyed beans",Black bean
+12630000054.0,425.0,pinto beans,Pinto bean,"Black beans, black eyed beans",Blackeye bean
+12630000054.0,424.0,soured cream,Soured cream,"Crime fraiche, quark, butter
+
+
+",Crème fraiche
+12630000054.0,424.0,soured cream,Soured cream,"Crime fraiche, quark, butter
+
+
+",Quark
+12630000054.0,424.0,soured cream,Soured cream,"Crime fraiche, quark, butter
+
+
+",Butter
+12630000054.0,424.0,cheddar,Cheddar,"Any hard cheese, Brie, mozzarella ",Gouda
+12630000054.0,424.0,cheddar,Cheddar,"Any hard cheese, Brie, mozzarella ",Brie
+12630000054.0,424.0,cheddar,Cheddar,"Any hard cheese, Brie, mozzarella ",Mozzarella
+12630000054.0,423.0,mature cheddar,Cheddar,"Any hard cheese,",Gouda
+12630000054.0,422.0,chicken thighs,Chicken:Thigh,Any other chicken pieces,Chicken:Diced_SAME
+12630000054.0,422.0,uncooked white rice,White rice,"Brown rice, lentils",Brown rice
+12630000054.0,422.0,uncooked white rice,White rice,"Brown rice, lentils",Lentil
+12630000054.0,110.0,ground beef mince,Beef:Mince,"Veal or pork mince, green or brown lentils, finely chopped mushrooms",Pork:Mince
+12630000054.0,110.0,ground beef mince,Beef:Mince,"Veal or pork mince, green or brown lentils, finely chopped mushrooms",Veal:Mince
+12630000054.0,110.0,ground beef mince,Beef:Mince,"Veal or pork mince, green or brown lentils, finely chopped mushrooms",Lentil
+12630000054.0,110.0,ground beef mince,Beef:Mince,"Veal or pork mince, green or brown lentils, finely chopped mushrooms",Mushroom
+12630000054.0,106.0,lamb mince,Lamb:Mince,Beef mince,Beef:Mince
+12558470546.0,323.0,sausages,Sausage,vegan sausages,Plant-based sausage
+12558470546.0,322.0,chicken thigh fillets,Chicken:Fillet,"courgette, aubergine, carrots, any other vegetables I had lying around",Courgette
+12558470546.0,322.0,chicken thigh fillets,Chicken:Fillet,"courgette, aubergine, carrots, any other vegetables I had lying around",Aubergine
+12558470546.0,322.0,chicken thigh fillets,Chicken:Fillet,"courgette, aubergine, carrots, any other vegetables I had lying around",Carrot
+12558470546.0,321.0,skinless salmon fillets,Salmon,"tofu (it would soak up all those juices and taste amazing), oyster mushrooms",Tofu:Firm
+12558470546.0,321.0,skinless salmon fillets,Salmon,"tofu (it would soak up all those juices and taste amazing), oyster mushrooms",Mushroom
+12558470546.0,320.0,salmon fillets,Salmon,"vegan alternatives bought from a shop, make breaded tofu nuggets (and I would remove feta because I really don't like it!)",Tofu:Firm
+12558470546.0,320.0,salmon fillets,Salmon,"vegan alternatives bought from a shop, make breaded tofu nuggets (and I would remove feta because I really don't like it!)",Plant-based chicken:Fillet
+12558470546.0,319.0,olive oil,Olive oil,"any other oil, onion juices",Oil
+12558470546.0,319.0,onion,Onion,spring onion (I did that once and it turned out alright),Spring onion
+12558470546.0,319.0,broccoli florets,Broccoli,"cauliflower, kale, maybe pak choi if I feel fancy",Cauliflower
+12558470546.0,319.0,broccoli florets,Broccoli,"cauliflower, kale, maybe pak choi if I feel fancy",Kale
+12558470546.0,319.0,broccoli florets,Broccoli,"cauliflower, kale, maybe pak choi if I feel fancy",Pak choi
+12558470546.0,13.0,smoked pork loin,Pork:Loin,any vegan meat substitutes or oyster mushrooms or maybe jackfruit,Plant-based chicken:Pieces
+12558470546.0,13.0,smoked pork loin,Pork:Loin,any vegan meat substitutes or oyster mushrooms or maybe jackfruit,Mushroom
+12558470546.0,13.0,smoked pork loin,Pork:Loin,any vegan meat substitutes or oyster mushrooms or maybe jackfruit,Jackfruit
+12558470546.0,364.0,stewing beef steak,Beef:Steak,"any soy bean derived product e.g. tempeh, tofu, maybe chop up a vegan steak",Tempeh
+12558470546.0,364.0,stewing beef steak,Beef:Steak,"any soy bean derived product e.g. tempeh, tofu, maybe chop up a vegan steak",Tofu:Firm
+12558470546.0,364.0,stewing beef steak,Beef:Steak,"any soy bean derived product e.g. tempeh, tofu, maybe chop up a vegan steak",Plant-based chicken:Pieces
+12558470546.0,244.0,cooked prawns,Prawn,"bamboo shoots (for the crunch), oyster mushrooms",Bamboo shoots
+12558470546.0,244.0,cooked prawns,Prawn,"bamboo shoots (for the crunch), oyster mushrooms",Mushroom
+12558470546.0,210.0,risotto rice,Risotto rice,any other rice (but wouldn't be the same *sad face*),White rice
+12558470546.0,210.0,risotto rice,Risotto rice,any other rice (but wouldn't be the same *sad face*),Jasmine rice
+12558470546.0,140.0,butter,Butter,vegan margerine,Margarine
+12558470546.0,140.0,mature cheddar,Cheddar,"vegan cheese, some kind of nutritional yeast sauce thing",Plant-based cheese
+12558470546.0,140.0,mature cheddar,Cheddar,"vegan cheese, some kind of nutritional yeast sauce thing",Nutritional yeast
+12558470546.0,125.0,soy tempeh,Tempeh,"tofu, butternut squash, sweet potato, normal potato",Tofu:Firm
+12558470546.0,125.0,soy tempeh,Tempeh,"tofu, butternut squash, sweet potato, normal potato",Butternut squash
+12558470546.0,125.0,soy tempeh,Tempeh,"tofu, butternut squash, sweet potato, normal potato",Sweet potato
+12558470546.0,125.0,soy tempeh,Tempeh,"tofu, butternut squash, sweet potato, normal potato",Potato
+12558470546.0,124.0,can lentils,Lentil,"Chickpeas, or I'd just leave it as there's a lot going on. Maybe up the amounts of peanuts or sweet potato",Chickpea
+12558470546.0,124.0,can lentils,Lentil,"Chickpeas, or I'd just leave it as there's a lot going on. Maybe up the amounts of peanuts or sweet potato",Peanut_MORE
+12558470546.0,124.0,can lentils,Lentil,"Chickpeas, or I'd just leave it as there's a lot going on. Maybe up the amounts of peanuts or sweet potato",Sweet potato_MORE
+12558470546.0,123.0,black beans,Black bean,"red kidney beans, cannellini beans (excuse spelling sorry), any other tinned bean. vegan mince. potentially brown lentils if they bind as one mass",Kidney bean
+12558470546.0,123.0,black beans,Black bean,"red kidney beans, cannellini beans (excuse spelling sorry), any other tinned bean. vegan mince. potentially brown lentils if they bind as one mass",Cannellini bean
+12558470546.0,123.0,black beans,Black bean,"red kidney beans, cannellini beans (excuse spelling sorry), any other tinned bean. vegan mince. potentially brown lentils if they bind as one mass",Bean
+12558470546.0,123.0,black beans,Black bean,"red kidney beans, cannellini beans (excuse spelling sorry), any other tinned bean. vegan mince. potentially brown lentils if they bind as one mass",Plant-based mince
+12558470546.0,123.0,black beans,Black bean,"red kidney beans, cannellini beans (excuse spelling sorry), any other tinned bean. vegan mince. potentially brown lentils if they bind as one mass",Lentil
+12558470546.0,123.0,wholemeal buns,Bread,"any bread as long as it's vegan, or serve the burger naked with chips or some form of potato. or a massive salad because who doesn't love a good salad :))",Potato
+12558470546.0,122.0,chopped tomatoes,Tomato:Tinned,"use fresh tomatoes instead of tinned tomatoes. otherwise, spag bol is hardly spag bol without tomatoes!",Tomato:Fresh_SAME
+12709557022.0,541.0,chicken breast,Chicken:Breast,"Turkey breast, pork fillet diced",Turkey:Breast
+12709557022.0,541.0,chicken breast,Chicken:Breast,"Turkey breast, pork fillet diced",Pork:Diced
+12709557022.0,539.0,minced beef,Beef:Mince,"Turkey mince, lamb mince, Quorn mince",Turkey:Mince
+12709557022.0,539.0,minced beef,Beef:Mince,"Turkey mince, lamb mince, Quorn mince",Lamb:Mince
+12709557022.0,539.0,minced beef,Beef:Mince,"Turkey mince, lamb mince, Quorn mince",Quorn:Mince
+12709557022.0,220.0,haddock fillets,Haddock,Cod fillets,Cod:Fillet
+12709557022.0,219.0,pork fillet,Pork:Steak,"Chicken breast, turkey breast, Quorn chicken style pieces",Chicken:Breast
+12709557022.0,219.0,pork fillet,Pork:Steak,"Chicken breast, turkey breast, Quorn chicken style pieces",Turkey:Breast
+12709557022.0,219.0,pork fillet,Pork:Steak,"Chicken breast, turkey breast, Quorn chicken style pieces",Quorn:Pieces
+12709557022.0,218.0,Chicken breasts,Chicken:Breast,Turkey breast,Turkey:Breast
+12709557022.0,217.0,natural yoghurt,Natural Yogurt,"Greek yoghurt, double cream, creme fraiche",Greek Yogurt
+12709557022.0,217.0,natural yoghurt,Natural Yogurt,"Greek yoghurt, double cream, creme fraiche",Double cream
+12709557022.0,217.0,natural yoghurt,Natural Yogurt,"Greek yoghurt, double cream, creme fraiche",Crème fraiche
+12709557022.0,217.0,green lentils,Lentil,"Red lentils, yellow lentils",Lentil_SAME
+12709557022.0,216.0,kidney beans,Kidney bean,"Canellini beans, chickpeas",Cannellini bean
+12709557022.0,216.0,kidney beans,Kidney bean,"Canellini beans, chickpeas",Chickpea
+12709557022.0,522.0,chicken breasts,Chicken:Breast,Turkey breast,Turkey:Breast
+12709557022.0,521.0,chicken thighs,Chicken:Thigh,"Chicken breast, turkey breast, diced beef, diced pork",Chicken:Breast_SAME
+12709557022.0,521.0,chicken thighs,Chicken:Thigh,"Chicken breast, turkey breast, diced beef, diced pork",Turkey:Breast
+12709557022.0,521.0,chicken thighs,Chicken:Thigh,"Chicken breast, turkey breast, diced beef, diced pork",Beef:Diced
+12709557022.0,521.0,chicken thighs,Chicken:Thigh,"Chicken breast, turkey breast, diced beef, diced pork",Pork:Diced
+12709557022.0,521.0,cooked long grain rice,Long-grain rice,Basmati rice,Basmati rice
+12709557022.0,519.0,Udon Noodles,Wheat noodle,Medium egg noodles,Egg noodle
+12629979113.0,422.0,chicken thighs,Chicken:Thigh,"Chicken breast, pork chop, pork sausages ",Chicken:Breast_SAME
+12629979113.0,422.0,chicken thighs,Chicken:Thigh,"Chicken breast, pork chop, pork sausages ",Pork:Chop
+12629979113.0,422.0,chicken thighs,Chicken:Thigh,"Chicken breast, pork chop, pork sausages ",Sausage
+12629979113.0,422.0,uncooked white rice,White rice,Brown rice ,Brown rice
+12629979113.0,105.0,brown rice,Brown rice,"Naan bread, white rice ",Naan bread
+12629979113.0,105.0,brown rice,Brown rice,"Naan bread, white rice ",White rice
+12629979113.0,104.0,cooked brown basimati rice,Brown rice,"Cooked white rice, cous cous ",White rice
+12629979113.0,104.0,cooked brown basimati rice,Brown rice,"Cooked white rice, cous cous ",Couscous
+12629979113.0,101.0,diced firm tofu,Tofu:Firm,"Chicken breast, chicken thigh, pork chop",Chicken:Breast
+12629979113.0,101.0,diced firm tofu,Tofu:Firm,"Chicken breast, chicken thigh, pork chop",Chicken:Thigh
+12629979113.0,101.0,diced firm tofu,Tofu:Firm,"Chicken breast, chicken thigh, pork chop",Pork:Chop
+12629979113.0,351.0,roma tomatoes,Tomato:Fresh,"Chopped tomatoes, courgette, plum tomatoâ€™s  ",Tomato:Tinned_SAME
+12629979113.0,351.0,roma tomatoes,Tomato:Fresh,"Chopped tomatoes, courgette, plum tomatoâ€™s  ",Courgette
+12629979113.0,351.0,roma tomatoes,Tomato:Fresh,"Chopped tomatoes, courgette, plum tomatoâ€™s  ",Tomato:Fresh_SAME
+12629979113.0,351.0,fat yogurt,Natural Yogurt,"Creek fraiche, coconut milk, extra cream",Crème fraiche
+12629979113.0,351.0,fat yogurt,Natural Yogurt,"Creek fraiche, coconut milk, extra cream",Coconut milk
+12629979113.0,351.0,fat yogurt,Natural Yogurt,"Creek fraiche, coconut milk, extra cream",Cream
+12629979113.0,349.0,chicken thighs,Chicken:Thigh,"Pork chops, broccoli and cauliflower ",Pork:Chop
+12629979113.0,349.0,chicken thighs,Chicken:Thigh,"Pork chops, broccoli and cauliflower ",Broccoli
+12629979113.0,349.0,chicken thighs,Chicken:Thigh,"Pork chops, broccoli and cauliflower ",Cauliflower
+12629979113.0,350.0,chicken breast fillets,Chicken:Breast,"Broccoli, peppers, beef chunks",Broccoli
+12629979113.0,350.0,chicken breast fillets,Chicken:Breast,"Broccoli, peppers, beef chunks",Pepper
+12629979113.0,350.0,chicken breast fillets,Chicken:Breast,"Broccoli, peppers, beef chunks",Beef:Diced
+12711597273.0,513.0,feta,Feta,"Halloumi, goats cheese, mozzarella fresh",Halloumi
+12711597273.0,513.0,feta,Feta,"Halloumi, goats cheese, mozzarella fresh",Goats cheese
+12711597273.0,513.0,feta,Feta,"Halloumi, goats cheese, mozzarella fresh",Mozzarella
+12711597273.0,512.0,boneless skinless chicken breasts,Chicken:Breast,"Chicken thighs, pork fillets",Chicken:Thigh_SAME
+12711597273.0,512.0,boneless skinless chicken breasts,Chicken:Breast,"Chicken thighs, pork fillets",Pork:Fillet
+12711597273.0,510.0,goat,Goat:Mince,Feta cheese,Feta
+12711597273.0,242.0,skinless pollock fillets,Pollock,Other white fish fillets,White fish
+12711597273.0,240.0,extra-firm tofu,Tofu:Firm,"Chicken breast, chicken thigh, prawns, salmon",Chicken:Breast
+12711597273.0,240.0,extra-firm tofu,Tofu:Firm,"Chicken breast, chicken thigh, prawns, salmon",Chicken:Thigh
+12711597273.0,240.0,extra-firm tofu,Tofu:Firm,"Chicken breast, chicken thigh, prawns, salmon",Prawn
+12711597273.0,240.0,extra-firm tofu,Tofu:Firm,"Chicken breast, chicken thigh, prawns, salmon",Salmon
+12711597273.0,552.0,kidney beans,Kidney bean,"Chickpeas, butter beans, black beans",Chickpea
+12711597273.0,552.0,kidney beans,Kidney bean,"Chickpeas, butter beans, black beans",Butter bean
+12711597273.0,552.0,kidney beans,Kidney bean,"Chickpeas, butter beans, black beans",Black bean
+12711597273.0,552.0,chopped tomatoes,Tomato:Tinned,Passata,Tomato:Passata_SAME
+12711597273.0,560.0,skinless cod fillet,Cod:Fillet,"Salmon fillet, white fish fillet, prawns",Salmon
+12711597273.0,560.0,skinless cod fillet,Cod:Fillet,"Salmon fillet, white fish fillet, prawns",White fish
+12711597273.0,560.0,skinless cod fillet,Cod:Fillet,"Salmon fillet, white fish fillet, prawns",Prawn
+12711597273.0,558.0,chicken thighs,Chicken:Thigh,"Chicken breast, Turkey breast, Turkey thigh",Chicken:Breast_SAME
+12711597273.0,558.0,chicken thighs,Chicken:Thigh,"Chicken breast, Turkey breast, Turkey thigh",Turkey:Breast
+12711597273.0,558.0,chicken thighs,Chicken:Thigh,"Chicken breast, Turkey breast, Turkey thigh",Turkey:Thigh
+12711597273.0,557.0,chicken thigh fillet,Chicken:Fillet,Diced pork,Pork:Diced
+12712766574.0,506.0,Parmesan cheese,Parmesan,"cheddar, mozzarella",Cheddar
+12712766574.0,506.0,Parmesan cheese,Parmesan,"cheddar, mozzarella",Mozzarella
+12712766574.0,504.0,chickpeas,Chickpea,lentils,Lentil
+12712766574.0,255.0,minced beef,Beef:Mince,"Quorn mince, lentils",Quorn:Mince
+12712766574.0,255.0,minced beef,Beef:Mince,"Quorn mince, lentils",Lentil
+12712766574.0,255.0,mozzarella,Mozzarella,cheddar,Cheddar
+12712766574.0,252.0,chicken thighs,Chicken:Thigh,"Quorn chicken pieces, broccoli, aubergine",Quorn:Pieces
+12712766574.0,252.0,chicken thighs,Chicken:Thigh,"Quorn chicken pieces, broccoli, aubergine",Broccoli
+12712766574.0,252.0,chicken thighs,Chicken:Thigh,"Quorn chicken pieces, broccoli, aubergine",Aubergine
+12712766574.0,573.0,risotto rice,Risotto rice,white rice,White rice
+12712766574.0,571.0,cooked brown rice,Brown rice,"white rice, egg-fried noodles",White rice
+12712766574.0,571.0,cooked brown rice,Brown rice,"white rice, egg-fried noodles",Egg noodle
+12712766574.0,570.0,mozzarella,Mozzarella,cheddar ,Cheddar
+12712766574.0,569.0,chickpeas,Chickpea,"lentils, butter beans, broccoli",Lentil
+12712766574.0,569.0,chickpeas,Chickpea,"lentils, butter beans, broccoli",Butter bean
+12712766574.0,569.0,chickpeas,Chickpea,"lentils, butter beans, broccoli",Broccoli
+12712766574.0,569.0,chopped tomatoes,Tomato:Tinned,coconut milk,Coconut milk
+12712766574.0,569.0,rice,Rice,"cauliflower, naan bread",Cauliflower rice
+12712766574.0,569.0,rice,Rice,"cauliflower, naan bread",Naan bread
+12561911527.0,333.0,olive oil,Olive oil,Coconut oil,Coconut oil
+12561911527.0,331.0,basmati rice,Basmati rice,"Any other rice, long grain, Wholemeal etc ",White rice
+12561911527.0,331.0,basmati rice,Basmati rice,"Any other rice, long grain, Wholemeal etc ",Long-grain rice
+12561911527.0,330.0,ripe tomatoes,Tomato:Fresh,Tinned  tomatoes,Tomato:Tinned_SAME
+12561911527.0,329.0,tomato sauce,Tomato sauce,"Passata, tinned tomatoes",Tomato:Passata
+12561911527.0,329.0,tomato sauce,Tomato sauce,"Passata, tinned tomatoes",Tomato:Tinned
+12561911527.0,329.0,red lentils,Lentil,"Green lentils, tinned or dried",Lentil_SAME
+12561911527.0,273.0,chicken mini fillets,Chicken:Fillet,Tofu,Tofu:Firm
+12561911527.0,244.0,cooked prawns,Prawn,"Peanuts, tofu",Peanut 
+12561911527.0,244.0,cooked prawns,Prawn,"Peanuts, tofu",Tofu:Firm
+12561911527.0,210.0,risotto rice,Risotto rice,"Mixed rice and grains, Pearl barley, ",Wild rice
+12561911527.0,210.0,risotto rice,Risotto rice,"Mixed rice and grains, Pearl barley, ",Pearl barley
+12561911527.0,145.0,Butter,Butter,"Vegan butter, veg spread, coconut oil",Margarine
+12561911527.0,145.0,Butter,Butter,"Vegan butter, veg spread, coconut oil",Coconut oil
+12561911527.0,145.0,grated parmesan cheese,Parmesan,"Vegan hard cheese, nutritional flakes",Plant-based cheese
+12561911527.0,145.0,grated parmesan cheese,Parmesan,"Vegan hard cheese, nutritional flakes",Nutritional yeast
+12561911527.0,144.0,wholemeal penne pasta,Pasta,Any large tubular pasta in fresh or dried form,Pasta_SAME
+12561911527.0,144.0,chopped tomatoes,Tomato:Tinned,Passata,Tomato:Passta_SAME
+12561911527.0,142.0,black beans,Black bean,"Kidney beans, black eyed beans ",Kidney bean
+12561911527.0,142.0,black beans,Black bean,"Kidney beans, black eyed beans ",Blackeye bean
+12561911527.0,142.0,grated cheese,Cheese,Vegan grated cheese,Plant-based cheese
+12561911527.0,141.0,dried red lentils,Lentil,"Dried green, tinned green lentils ",Lentil_SAME
+12561911527.0,141.0,coconut milk,Coconut milk,Coconut cream and some water,Coconut cream
+12642557971.0,480.0,duck,Duck:Whole,Mock meat duck,Plant-based chicken:Pieces
+12642557971.0,479.0,sweet cherry tomatoes,Cherry tomato,"Plum tomatoes, vine tomatoes",Tomato:Fresh_SAME
+12642557971.0,479.0,maple syrup,Maple syrup,"Honey, agave syrup ",Honey
+12642557971.0,479.0,maple syrup,Maple syrup,"Honey, agave syrup ",Agave
+12642557971.0,177.0,cherry tomatoes,Cherry tomato,"Vine tomatoes, plum tomatoes, salad tomatoes",Tomato:Fresh_SAME
+12642557971.0,176.0,natural yoghurt,Natural Yogurt,"Plant based yoghurt, coconut cream",Plant-based yogurt
+12642557971.0,176.0,natural yoghurt,Natural Yogurt,"Plant based yoghurt, coconut cream",Coconut cream
+12642557971.0,175.0,haddock-fillet,Haddock,Other white fish,White fish
+12642557971.0,172.0,Pork Sausages,Sausage, Vegetarian sausages,Plant-based sausage
+12642557971.0,460.0,vegan butter,Margarine,Plant based milk,Soya milk
+12642557971.0,460.0,vegan butter,Margarine,Plant based milk,Oat milk
+12642557971.0,460.0,vegan butter,Margarine,Plant based milk,Almond milk
+12642557971.0,460.0,vegan butter,Margarine,Plant based milk,Coconut milk
+12642557971.0,460.0,vegan butter,Margarine,Plant based milk,Rice milk
+12642557971.0,459.0,bulgur coarse,Bulgur wheat,"Fine bulgur wheat, quinoa, couscous",Bulgur wheat_SAME
+12642557971.0,459.0,bulgur coarse,Bulgur wheat,"Fine bulgur wheat, quinoa, couscous",Quinoa
+12642557971.0,459.0,bulgur coarse,Bulgur wheat,"Fine bulgur wheat, quinoa, couscous",Couscous
+12642557971.0,458.0,aubergines,Aubergine,"Mushrooms, peppers, courgette, tofu",Mushroom
+12642557971.0,458.0,aubergines,Aubergine,"Mushrooms, peppers, courgette, tofu",Pepper
+12642557971.0,458.0,aubergines,Aubergine,"Mushrooms, peppers, courgette, tofu",Courgette
+12642557971.0,458.0,aubergines,Aubergine,"Mushrooms, peppers, courgette, tofu",Tofu:Firm
+12642557971.0,458.0,chopped tomatoes,Tomato:Tinned,Fresh tomatoes,Tomato:Fresh_SAME
+12642557971.0,458.0,chickpeas,Chickpea,Butter beans,Butter bean
+12642557971.0,457.0,salt cod,Cod:Fillet,Other white fish,White fish
+12642557971.0,457.0,full fat milk,Milk,Plant based milk (unflavoured and unsweetened),Soya milk
+12642557971.0,457.0,full fat milk,Milk,Plant based milk (unflavoured and unsweetened),Almond milk
+12642557971.0,457.0,full fat milk,Milk,Plant based milk (unflavoured and unsweetened),Oat milk
+12642557971.0,457.0,full fat milk,Milk,Plant based milk (unflavoured and unsweetened),Coconut milk
+12642557971.0,457.0,full fat milk,Milk,Plant based milk (unflavoured and unsweetened),Rice milk
+12642557971.0,456.0,Greek-style yoghurt,Greek Yogurt,Soya yoghurt,Plant-based yogurt
+12562061662.0,338.0,raw king prawns,Prawn,"Edamame beans, chicken breast, pork fillet, beef steak, turkey breast",Edamame bean
+12562061662.0,338.0,raw king prawns,Prawn,"Edamame beans, chicken breast, pork fillet, beef steak, turkey breast",Chicken:Breast
+12562061662.0,338.0,raw king prawns,Prawn,"Edamame beans, chicken breast, pork fillet, beef steak, turkey breast",Pork:Fillet
+12562061662.0,338.0,raw king prawns,Prawn,"Edamame beans, chicken breast, pork fillet, beef steak, turkey breast",Beef:Steak
+12562061662.0,338.0,raw king prawns,Prawn,"Edamame beans, chicken breast, pork fillet, beef steak, turkey breast",Turkey:Breast
+12562061662.0,337.0,chopped tomato,Tomato:Tinned,Low fat coconut milk,Coconut milk
+12562061662.0,337.0,chickpeas,Chickpea,"Mixed beans, green lentils, red lentils",Bean
+12562061662.0,337.0,chickpeas,Chickpea,"Mixed beans, green lentils, red lentils",Lentil
+12562061662.0,336.0,raw king prawns,Prawn,"Edamame beans, peas, green beans",Edamame bean
+12562061662.0,336.0,raw king prawns,Prawn,"Edamame beans, peas, green beans",Pea
+12562061662.0,336.0,raw king prawns,Prawn,"Edamame beans, peas, green beans",Green bean
+12562061662.0,335.0,chickpeas,Chickpea,"Haricot beans, adzuki beans, kidney beans, black beans, mixed beans, green lentils, red lentils",Haricot bean
+12562061662.0,335.0,chickpeas,Chickpea,"Haricot beans, adzuki beans, kidney beans, black beans, mixed beans, green lentils, red lentils",Aduki bean
+12562061662.0,335.0,chickpeas,Chickpea,"Haricot beans, adzuki beans, kidney beans, black beans, mixed beans, green lentils, red lentils",Kidney bean
+12562061662.0,335.0,chickpeas,Chickpea,"Haricot beans, adzuki beans, kidney beans, black beans, mixed beans, green lentils, red lentils",Black bean
+12562061662.0,335.0,chickpeas,Chickpea,"Haricot beans, adzuki beans, kidney beans, black beans, mixed beans, green lentils, red lentils",Bean
+12562061662.0,335.0,chickpeas,Chickpea,"Haricot beans, adzuki beans, kidney beans, black beans, mixed beans, green lentils, red lentils",Lentil
+12562061662.0,335.0,low-fat natural yogurt,Natural Yogurt,Low fat sour cream,Soured cream
+12562061662.0,16.0,dried red lentils,Lentil,"Green lentils (pre cooked ones that come in a tin), adzuki beans, black beans, haricot beans, mixed beans",Lentil_SAME
+12562061662.0,16.0,dried red lentils,Lentil,"Green lentils (pre cooked ones that come in a tin), adzuki beans, black beans, haricot beans, mixed beans",Aduki bean
+12562061662.0,16.0,dried red lentils,Lentil,"Green lentils (pre cooked ones that come in a tin), adzuki beans, black beans, haricot beans, mixed beans",Black bean
+12562061662.0,16.0,dried red lentils,Lentil,"Green lentils (pre cooked ones that come in a tin), adzuki beans, black beans, haricot beans, mixed beans",Haricot bean
+12562061662.0,16.0,dried red lentils,Lentil,"Green lentils (pre cooked ones that come in a tin), adzuki beans, black beans, haricot beans, mixed beans",Bean
+12562061662.0,16.0,leeks,Leek,"White onions, red onions, spring onions",Onion
+12562061662.0,16.0,leeks,Leek,"White onions, red onions, spring onions",Spring onion
+12562061662.0,64.0,chicken breasts,Chicken:Breast,"Pork fillet, turkey breast, chicken thighs, kidney beans",Pork:Fillet
+12562061662.0,64.0,chicken breasts,Chicken:Breast,"Pork fillet, turkey breast, chicken thighs, kidney beans",Turkey:Breast
+12562061662.0,64.0,chicken breasts,Chicken:Breast,"Pork fillet, turkey breast, chicken thighs, kidney beans",Chicken:Thigh
+12562061662.0,64.0,chicken breasts,Chicken:Breast,"Pork fillet, turkey breast, chicken thighs, kidney beans",Kidney bean
+12562061662.0,57.0,chickpea,Chickpea,"Adzuki beans, haricot beans, kidney beans, green lentils, red lentils, mixed beans",Aduki bean
+12562061662.0,57.0,chickpea,Chickpea,"Adzuki beans, haricot beans, kidney beans, green lentils, red lentils, mixed beans",Haricot bean
+12562061662.0,57.0,chickpea,Chickpea,"Adzuki beans, haricot beans, kidney beans, green lentils, red lentils, mixed beans",Kidney bean
+12562061662.0,57.0,chickpea,Chickpea,"Adzuki beans, haricot beans, kidney beans, green lentils, red lentils, mixed beans",Lentil
+12562061662.0,57.0,chickpea,Chickpea,"Adzuki beans, haricot beans, kidney beans, green lentils, red lentils, mixed beans",Bean
+12562061662.0,57.0,egg,Egg,"Iâ€™m not sure what purpose the egg has in this recipe. If itâ€™s for flavour, I would simply remove the ingredient. If itâ€™s for binding, this ingredient should not be substituted. If itâ€™s for glazing, I would substituted with milk or olive oil. Please choose the most appropriate option from the three above!",REMOVE
+12562061662.0,57.0,egg,Egg,"Iâ€™m not sure what purpose the egg has in this recipe. If itâ€™s for flavour, I would simply remove the ingredient. If itâ€™s for binding, this ingredient should not be substituted. If itâ€™s for glazing, I would substituted with milk or olive oil. Please choose the most appropriate option from the three above!",Milk
+12562061662.0,57.0,egg,Egg,"Iâ€™m not sure what purpose the egg has in this recipe. If itâ€™s for flavour, I would simply remove the ingredient. If itâ€™s for binding, this ingredient should not be substituted. If itâ€™s for glazing, I would substituted with milk or olive oil. Please choose the most appropriate option from the three above!",Olive oil
+12562061662.0,30.0,butter,Butter,"Olive oil, vegan butter, coconut oil, or simply remove the ingredient.",Olive oil
+12562061662.0,30.0,butter,Butter,"Olive oil, vegan butter, coconut oil, or simply remove the ingredient.",Margarine
+12562061662.0,30.0,butter,Butter,"Olive oil, vegan butter, coconut oil, or simply remove the ingredient.",Coconut oil
+12562061662.0,30.0,butter,Butter,"Olive oil, vegan butter, coconut oil, or simply remove the ingredient.",REMOVE
+12562061662.0,153.0,halloumi,Halloumi,"Edamame beans, cashew nuts, mozzarella cheese, grilled salmon, grilled chicken breast, feta cheese",Edamame bean
+12562061662.0,153.0,halloumi,Halloumi,"Edamame beans, cashew nuts, mozzarella cheese, grilled salmon, grilled chicken breast, feta cheese",Cashew nut
+12562061662.0,153.0,halloumi,Halloumi,"Edamame beans, cashew nuts, mozzarella cheese, grilled salmon, grilled chicken breast, feta cheese",Mozzarella
+12562061662.0,153.0,halloumi,Halloumi,"Edamame beans, cashew nuts, mozzarella cheese, grilled salmon, grilled chicken breast, feta cheese",Salmon
+12562061662.0,153.0,halloumi,Halloumi,"Edamame beans, cashew nuts, mozzarella cheese, grilled salmon, grilled chicken breast, feta cheese",Chicken:Breast
+12562061662.0,153.0,halloumi,Halloumi,"Edamame beans, cashew nuts, mozzarella cheese, grilled salmon, grilled chicken breast, feta cheese",Feta
+12562061662.0,152.0,Organic salmon fillets,Salmon,"Sustainably caught cod, sustainably caught haddock, sustainably caught fresh tuna (not canned), organic king prawns. I donâ€™t think itâ€™s possible to get â€˜organicâ€™ fish that comes from the sea as itâ€™s wild by nature, but if the fish were organically farmed I would suggest organically farmed instead of sustainably caught, as I think that would be better for the ocean environment.",Cod:Fillet
+12562061662.0,152.0,Organic salmon fillets,Salmon,"Sustainably caught cod, sustainably caught haddock, sustainably caught fresh tuna (not canned), organic king prawns. I donâ€™t think itâ€™s possible to get â€˜organicâ€™ fish that comes from the sea as itâ€™s wild by nature, but if the fish were organically farmed I would suggest organically farmed instead of sustainably caught, as I think that would be better for the ocean environment.",Haddock
+12562061662.0,152.0,Organic salmon fillets,Salmon,"Sustainably caught cod, sustainably caught haddock, sustainably caught fresh tuna (not canned), organic king prawns. I donâ€™t think itâ€™s possible to get â€˜organicâ€™ fish that comes from the sea as itâ€™s wild by nature, but if the fish were organically farmed I would suggest organically farmed instead of sustainably caught, as I think that would be better for the ocean environment.",Tuna
+12562061662.0,152.0,Organic salmon fillets,Salmon,"Sustainably caught cod, sustainably caught haddock, sustainably caught fresh tuna (not canned), organic king prawns. I donâ€™t think itâ€™s possible to get â€˜organicâ€™ fish that comes from the sea as itâ€™s wild by nature, but if the fish were organically farmed I would suggest organically farmed instead of sustainably caught, as I think that would be better for the ocean environment.",Prawn
+12562061662.0,151.0,mozzarella cheese,Mozzarella,"Cheddar cheese, goats cheese, Brie. Another option would be to remove the cheese completely (but I couldnâ€™t tick that option as well)",Cheddar
+12562061662.0,151.0,mozzarella cheese,Mozzarella,"Cheddar cheese, goats cheese, Brie. Another option would be to remove the cheese completely (but I couldnâ€™t tick that option as well)",Goats cheese
+12562061662.0,151.0,mozzarella cheese,Mozzarella,"Cheddar cheese, goats cheese, Brie. Another option would be to remove the cheese completely (but I couldnâ€™t tick that option as well)",Brie
+12562061662.0,151.0,mozzarella cheese,Mozzarella,"Cheddar cheese, goats cheese, Brie. Another option would be to remove the cheese completely (but I couldnâ€™t tick that option as well)",REMOVE
+12562061662.0,150.0,beef schnitzel,Beef:Steak,"Chicken breast, beef mince, turkey breast, quorn mince",Chicken:Breast
+12562061662.0,150.0,beef schnitzel,Beef:Steak,"Chicken breast, beef mince, turkey breast, quorn mince",Beef:Mince_SAME
+12562061662.0,150.0,beef schnitzel,Beef:Steak,"Chicken breast, beef mince, turkey breast, quorn mince",Turkey:Breast
+12562061662.0,150.0,beef schnitzel,Beef:Steak,"Chicken breast, beef mince, turkey breast, quorn mince",Quorn:Mince
+12562061662.0,149.0,boneless chicken thighs,Chicken:Thigh,"Chicken breast, pork fillet, beef steak, king prawns, cashew nuts",Chicken:Breast
+12562061662.0,149.0,boneless chicken thighs,Chicken:Thigh,"Chicken breast, pork fillet, beef steak, king prawns, cashew nuts",Pork:Fillet
+12562061662.0,149.0,boneless chicken thighs,Chicken:Thigh,"Chicken breast, pork fillet, beef steak, king prawns, cashew nuts",Beef:Steak
+12562061662.0,149.0,boneless chicken thighs,Chicken:Thigh,"Chicken breast, pork fillet, beef steak, king prawns, cashew nuts",Prawn
+12562061662.0,149.0,boneless chicken thighs,Chicken:Thigh,"Chicken breast, pork fillet, beef steak, king prawns, cashew nuts",Cashew nut
+12577294415.0,580.0,full fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Greek Yogurt
+12577294415.0,580.0,full fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Oat milk
+12577294415.0,580.0,full fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Soya milk
+12577294415.0,580.0,full fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Almond milk
+12577294415.0,580.0,pasta,Pasta,Spaghetti squash,Spaghetti squash
+12577294415.0,579.0,diced tomatoes,Tomato:Fresh,Pumpkin,Pumpkin
+12577294415.0,579.0,fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Greek Yogurt
+12577294415.0,579.0,fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Oat milk
+12577294415.0,579.0,fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Soya milk
+12577294415.0,579.0,fat coconut milk,Coconut milk,"Greek yogurt, oat milk, soya milk, almond milk",Almond milk
+12577294415.0,70.0,cream cheese,Cream cheese,"Mascarpone, ricotta, cottage cheese",Mascarpone
+12577294415.0,70.0,cream cheese,Cream cheese,"Mascarpone, ricotta, cottage cheese",Ricotta
+12577294415.0,70.0,cream cheese,Cream cheese,"Mascarpone, ricotta, cottage cheese",Cottage cheese
+12577294415.0,70.0,unsalted butter,Butter,Margarine,Margarine
+12577294415.0,69.0,Greek-style yogurt,Greek Yogurt,Alpro greek style yogurt ,Plant-based yogurt
+12577294415.0,68.0,Basmati rice,Basmati rice,"Long grain rice, wholegrain rice, wild rice",Long-grain rice
+12577294415.0,68.0,Basmati rice,Basmati rice,"Long grain rice, wholegrain rice, wild rice",Wild rice
+12577294415.0,68.0,Ghee,Ghee,"Sunflower oil, coconut oil",Sunflower oil
+12577294415.0,68.0,Ghee,Ghee,"Sunflower oil, coconut oil",Coconut oil
+12577294415.0,67.0,pork tenderloin,Pork:Loin,Chicken,Chicken:Breast
+12577294415.0,66.0,plum tomatoes,Tomato:Fresh,"Cherry tomatoes, 'normal' tomatoes, any other type of fresh or canned tomatoes",Cherry tomato_SAME
+12577294415.0,66.0,plum tomatoes,Tomato:Fresh,"Cherry tomatoes, 'normal' tomatoes, any other type of fresh or canned tomatoes",Tomato:Fresh_SAME
+12577294415.0,66.0,plum tomatoes,Tomato:Fresh,"Cherry tomatoes, 'normal' tomatoes, any other type of fresh or canned tomatoes",Tomato:Tinned_SAME
+12577294415.0,30.0,butter,Butter,"Margarine, sunflower oil, vegetable oil",Margarine
+12577294415.0,30.0,butter,Butter,"Margarine, sunflower oil, vegetable oil",Sunflower oil
+12577294415.0,30.0,butter,Butter,"Margarine, sunflower oil, vegetable oil",Vegetable oil
+12577294415.0,84.0,milk,Milk,"Oat milk, soya milk, almond milk, any other nut milk",Oat milk
+12577294415.0,84.0,milk,Milk,"Oat milk, soya milk, almond milk, any other nut milk",Soya milk
+12577294415.0,84.0,milk,Milk,"Oat milk, soya milk, almond milk, any other nut milk",Almond milk
+12577294415.0,282.0,lean beef mince,Beef:Mince,"Quorn mince, soya mince, lentils, other meet free/plant-based mince options (e.g. Meatless Farm)",Quorn:Mince
+12577294415.0,282.0,lean beef mince,Beef:Mince,"Quorn mince, soya mince, lentils, other meet free/plant-based mince options (e.g. Meatless Farm)",Plant-based mince
+12577294415.0,282.0,lean beef mince,Beef:Mince,"Quorn mince, soya mince, lentils, other meet free/plant-based mince options (e.g. Meatless Farm)",Lentil
+12629848824.0,409.0,roasting chicken,Chicken:Whole,pork joint,Pork:Joint
+12629848824.0,408.0,dried risotto rice,Risotto rice,paella rice,Paella rice
+12629848824.0,421.0,quality minced beef,Beef:Mince,pork mince or quorn mince,Pork:Mince
+12629848824.0,421.0,quality minced beef,Beef:Mince,pork mince or quorn mince,Quorn:Mince
+12629848824.0,98.0,mozzarella,Mozzarella,ricotta,Ricotta
+12629848824.0,97.0,broccoli,Broccoli,cauliflower,Cauliflower
+12629848824.0,339.0,chicken breasts,Chicken:Breast,quorn fillets,Quorn:Fillet
+12708760777.0,553.0,cherry tomatoes,Cherry tomato,any other tomato type,Tomato:Fresh_SAME
+12708760777.0,552.0,kidney beans,Kidney bean,"pinto beans, black beans, red beans, cannellini beans ",Pinto bean
+12708760777.0,552.0,kidney beans,Kidney bean,"pinto beans, black beans, red beans, cannellini beans ",Black bean
+12708760777.0,552.0,kidney beans,Kidney bean,"pinto beans, black beans, red beans, cannellini beans ",Aduki bean
+12708760777.0,552.0,kidney beans,Kidney bean,"pinto beans, black beans, red beans, cannellini beans ",Cannellini bean
+12708760777.0,552.0,dark chocolate,Dark chocolate,chocolate powder ,Cocoa
+12708760777.0,551.0,paneer,Paneer,tofu,Tofu:Firm
+12708760777.0,550.0,aubergine,Aubergine,peppers,Pepper
+12708760777.0,550.0,tomato,Tomato:Fresh,peppers,Pepper
+12708760777.0,550.0,penne pasta,Pasta,"any other short pasta, farfalle, mezze penne, conchiglie, fusilli",Pasta_SAME
+12708760777.0,549.0,plain flour,Flour,"whole wheat flour, strong flour, rye flour
+",Wheat flour
+12708760777.0,549.0,plain flour,Flour,"whole wheat flour, strong flour, rye flour
+",Rye flour
+12708760777.0,204.0,chicken breasts,Chicken:Breast,"chickpeas, tofu, quorn chicken pieces, quorn chicken fillets",Chickpea
+12708760777.0,204.0,chicken breasts,Chicken:Breast,"chickpeas, tofu, quorn chicken pieces, quorn chicken fillets",Tofu:Firm
+12708760777.0,204.0,chicken breasts,Chicken:Breast,"chickpeas, tofu, quorn chicken pieces, quorn chicken fillets",Quorn:Pieces
+12708760777.0,204.0,chicken breasts,Chicken:Breast,"chickpeas, tofu, quorn chicken pieces, quorn chicken fillets",Quorn:Fillet
+12708760777.0,199.0,Greek yogurt,Greek Yogurt,yogurt,Natural Yogurt
+12708760777.0,198.0,lamb mince,Lamb:Mince,"lentils, veggie mince, quorn mince",Lentil
+12708760777.0,198.0,lamb mince,Lamb:Mince,"lentils, veggie mince, quorn mince",Plant-based mince
+12708760777.0,198.0,lamb mince,Lamb:Mince,"lentils, veggie mince, quorn mince",Quorn:Mince
+12708760777.0,505.0,chopped green beans,Green bean,"broccoli, peas, asparagus, snap beans",Broccoli
+12708760777.0,505.0,chopped green beans,Green bean,"broccoli, peas, asparagus, snap beans",Pea
+12708760777.0,505.0,chopped green beans,Green bean,"broccoli, peas, asparagus, snap beans",Asparagus
+12708760777.0,505.0,chopped green beans,Green bean,"broccoli, peas, asparagus, snap beans",Sugar snap peas
+12708760777.0,504.0,tomatoes,Tomato:Fresh,"canned tomatoes, tomato puree",Tomato:Tinned_SAME
+12708760777.0,504.0,tomatoes,Tomato:Fresh,"canned tomatoes, tomato puree",Tomato puree
+12708760777.0,502.0,Parmesan cheese grated,Parmesan,"nutritional yeast, grounded nuts",Nutritional yeast
+12708760777.0,502.0,Parmesan cheese grated,Parmesan,"nutritional yeast, grounded nuts",Nut
+12587080604.0,417.0,tomato sauce,Tomato sauce,"Tinned tomatoes blended, salsa, BBQ sauce",Tomato:Tinned_SAME
+12587080604.0,417.0,tomato sauce,Tomato sauce,"Tinned tomatoes blended, salsa, BBQ sauce",Salsa
+12587080604.0,417.0,tomato sauce,Tomato sauce,"Tinned tomatoes blended, salsa, BBQ sauce",Barbeque sauce
+12587080604.0,417.0,vegan parmesan cheese,Plant-based cheese,Any other vegan cheese ,Plant-based cheese_SAME
+12587080604.0,78.0,Paneer,Paneer,Firm tofu,Tofu:Firm
+12587080604.0,77.0,butter,Butter,"Extra virgin olive oil, coconut oil",Olive oil
+12587080604.0,77.0,butter,Butter,"Extra virgin olive oil, coconut oil",Coconut oil
+12587080604.0,77.0,risotto rice,Rice,"Piella rice, orzo",Paella rice
+12587080604.0,77.0,risotto rice,Rice,"Piella rice, orzo",Pasta
+12587080604.0,76.0,Egg,Egg,"Courgette, red pepper",Courgette
+12587080604.0,76.0,Egg,Egg,"Courgette, red pepper",Pepper
+12587080604.0,306.0,Potatoes,Potato,"Celeriac, parsnip",Celeriac
+12587080604.0,306.0,Potatoes,Potato,"Celeriac, parsnip",Parsnip
+12587080604.0,306.0,Coconut Cream,Coconut cream,"Tinned coconut milk, more vegetable stock",Coconut milk
+12587080604.0,306.0,Coconut Cream,Coconut cream,"Tinned coconut milk, more vegetable stock",Vegetable stock_MORE
+12587080604.0,304.0,strong white bread flour,Flour,Any other break flour,Flour_SAME
+12587080604.0,304.0,smoked tofu,Tofu:Firm,"Jackfruit, braised tofu, any other veg - ie courgette, peppers, onions",Jackfruit
+12587080604.0,304.0,smoked tofu,Tofu:Firm,"Jackfruit, braised tofu, any other veg - ie courgette, peppers, onions",Tofu:Firm_SAME
+12587080604.0,304.0,smoked tofu,Tofu:Firm,"Jackfruit, braised tofu, any other veg - ie courgette, peppers, onions",Courgette
+12587080604.0,304.0,smoked tofu,Tofu:Firm,"Jackfruit, braised tofu, any other veg - ie courgette, peppers, onions",Pepper
+12587080604.0,304.0,smoked tofu,Tofu:Firm,"Jackfruit, braised tofu, any other veg - ie courgette, peppers, onions",Onion
+12587080604.0,303.0,dried chickpeas,Chickpea,Dry Green lentils ,Lentil
+12587080604.0,303.0,diced tomatoes,Tomato:Fresh,Tinned tomatoes (any variety),Tomato:Tinned_SAME
+12587080604.0,302.0,aubergine,Aubergine,"Firm Tofu, Courgette, Green and Yellow Pepper",Tofu:Firm
+12587080604.0,302.0,aubergine,Aubergine,"Firm Tofu, Courgette, Green and Yellow Pepper",Courgette
+12587080604.0,302.0,aubergine,Aubergine,"Firm Tofu, Courgette, Green and Yellow Pepper",Pepper
+12612266238.0,573.0,risotto rice,Risotto rice,basmati rice,Basmati rice
+12612266238.0,572.0,vegan cheddar style cheese,Plant-based cheese,cheddar cheese,Cheddar
+12612266238.0,572.0,chopped tomatoes,Tomato:Tinned,passata,Tomato:Passata_SAME
+12612266238.0,571.0,chicken-style pieces,Chicken:Breast,"chopped almonds, cashew nuts",Almond
+12612266238.0,571.0,chicken-style pieces,Chicken:Breast,"chopped almonds, cashew nuts",Cashew nut
+12612266238.0,571.0,cooked brown rice,Brown rice,pasta,Pasta
+12612266238.0,569.0,chickpeas,Chickpea,"pine nuts, cannelini beans",Pine nut
+12612266238.0,569.0,chickpeas,Chickpea,"pine nuts, cannelini beans",Cannellini bean
+12612266238.0,569.0,chopped tomatoes,Tomato:Tinned,passata,Tomato:Passata_SAME
+12612266238.0,569.0,rice,White rice,"red lentils, puy lentils",Lentil
+12612266238.0,90.0,grated parmesan,Parmesan,feta cheese,Feta
+12612266238.0,89.0,parmesan,Parmesan,feta cheese,Feta
+12612266238.0,321.0,skinless salmon fillets,Salmon,vegetarian quorn,Quorn:Pieces
+12612266238.0,320.0,cubed feta,Feta,"parmesan cheese, cubed cheshire cheese",Parmesan
+12612266238.0,320.0,cubed feta,Feta,"parmesan cheese, cubed cheshire cheese",Cheese
+12612266238.0,320.0,salmon fillets,Salmon,"halloumi, ",Halloumi
+12612266238.0,319.0,olive oil,Olive oil,"sunflower oil, rapeseed oil",Sunflower oil
+12612266238.0,319.0,olive oil,Olive oil,"sunflower oil, rapeseed oil",Rapeseed oil
+12612266238.0,319.0,onion,Onion,leeks,Leek
+12612266238.0,318.0,tomato base sauce,Tomato:Passata,"chopped tomatoes, pesto",Tomato:Tinned_SAME
+12612266238.0,318.0,tomato base sauce,Tomato:Passata,"chopped tomatoes, pesto",Pesto
+12612266238.0,318.0,hard cheese,Cheese,feta cheese,Feta
+12612266238.0,317.0,chopped tomatoes,Tomato:Tinned,passata,Tomato:Passata_SAME
+12553220099.0,276.0,sourdough bread,Sourdough,"White sliced bread, wholemeal sliced bread, pita, cob, crumpet, english muffin, french bread",Bread_SAME
+12553220099.0,275.0,beef mince,Beef,"Quorn mince, brown lentils, green lentils, diced mushrooms",Quorn:Mince
+12553220099.0,275.0,beef mince,Beef,"Quorn mince, brown lentils, green lentils, diced mushrooms",Lentil
+12553220099.0,275.0,beef mince,Beef,"Quorn mince, brown lentils, green lentils, diced mushrooms",Mushroom
+12553220099.0,272.0,black beans,Black bean,"Kidney beans, adzuki beans, chickpeas, butter beans, brown lentils",Kidney bean
+12553220099.0,272.0,black beans,Black bean,"Kidney beans, adzuki beans, chickpeas, butter beans, brown lentils",Aduki bean
+12553220099.0,272.0,black beans,Black bean,"Kidney beans, adzuki beans, chickpeas, butter beans, brown lentils",Chickpea
+12553220099.0,272.0,black beans,Black bean,"Kidney beans, adzuki beans, chickpeas, butter beans, brown lentils",Butter bean
+12553220099.0,272.0,black beans,Black bean,"Kidney beans, adzuki beans, chickpeas, butter beans, brown lentils",Lentil
+12553220099.0,272.0,feta cheese,Feta,"Marinated tofu, soft cheese",Tofu:Firm
+12553220099.0,272.0,feta cheese,Feta,"Marinated tofu, soft cheese",Ricotta
+12553220099.0,272.0,feta cheese,Feta,"Marinated tofu, soft cheese",Cream cheese
+12553220099.0,272.0,feta cheese,Feta,"Marinated tofu, soft cheese",Brie
+12553220099.0,272.0,feta cheese,Feta,"Marinated tofu, soft cheese",Camembert
+12553220099.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"Quorn chicken pieces, sliced mushrooms, chickpeas",Quorn:Pieces
+12553220099.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"Quorn chicken pieces, sliced mushrooms, chickpeas",Mushroom
+12553220099.0,3.0,boneless skinless chicken thighs,Chicken:Thigh,"Quorn chicken pieces, sliced mushrooms, chickpeas",Chickpea
+12553220099.0,200.0,beef mince,Beef:Mince,"Quorn mince, diced mushrooms, kidney beans, red lentils, brown lentils, green lentils",Quorn:Mince
+12553220099.0,200.0,beef mince,Beef:Mince,"Quorn mince, diced mushrooms, kidney beans, red lentils, brown lentils, green lentils",Mushroom
+12553220099.0,200.0,beef mince,Beef:Mince,"Quorn mince, diced mushrooms, kidney beans, red lentils, brown lentils, green lentils",Kidney bean
+12553220099.0,200.0,beef mince,Beef:Mince,"Quorn mince, diced mushrooms, kidney beans, red lentils, brown lentils, green lentils",Lentil
+12553220099.0,39.0,chicken breasts,Chicken:Breast,"Quorn chicken pieces, sliced mushroom",Quorn:Pieces
+12553220099.0,39.0,chicken breasts,Chicken:Breast,"Quorn chicken pieces, sliced mushroom",Mushroom
+12553220099.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, diced mushrooms, kidney beans",Quorn:Mince
+12553220099.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, diced mushrooms, kidney beans",Mushroom
+12553220099.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, diced mushrooms, kidney beans",Kidney bean
+12553220099.0,29.0,butter,Butter,"Margarine, plant based spread, olive oil, rapeseed oil",Margarine
+12553220099.0,29.0,butter,Butter,"Margarine, plant based spread, olive oil, rapeseed oil",Olive oil
+12553220099.0,29.0,butter,Butter,"Margarine, plant based spread, olive oil, rapeseed oil",Rapeseed oil
+12553220099.0,27.0,whole wheat spaghetti,Spaghetti,"White spaghetti, noodles",Spaghetti_SAME
+12553220099.0,27.0,whole wheat spaghetti,Spaghetti,"White spaghetti, noodles",Wheat noodle
+12553220099.0,27.0,shredded red cabbage,Cabbage,"pak choi, sweetheart cabbage, brussel sprouts, romaine lettuce",Pak choi
+12553220099.0,27.0,shredded red cabbage,Cabbage,"pak choi, sweetheart cabbage, brussel sprouts, romaine lettuce",Cabbage_SAME
+12553220099.0,27.0,shredded red cabbage,Cabbage,"pak choi, sweetheart cabbage, brussel sprouts, romaine lettuce",Brussels Sprouts
+12553220099.0,27.0,shredded red cabbage,Cabbage,"pak choi, sweetheart cabbage, brussel sprouts, romaine lettuce",Lettuce
+12553220099.0,30.0,free range eggs,Egg,Tofu,Tofu:Firm
+12553220099.0,30.0,butter,Butter,"Margarine, plant based spread, olive oil, rapeseed oil",Margarine
+12553220099.0,30.0,butter,Butter,"Margarine, plant based spread, olive oil, rapeseed oil",Olive oil
+12553220099.0,30.0,butter,Butter,"Margarine, plant based spread, olive oil, rapeseed oil",Rapeseed oil
+12709534698.0,547.0,chickpeas,Chickpea,"quinoa, rice, lentils, couscous, cauliflower rice",Quinoa
+12709534698.0,547.0,chickpeas,Chickpea,"quinoa, rice, lentils, couscous, cauliflower rice",White rice
+12709534698.0,547.0,chickpeas,Chickpea,"quinoa, rice, lentils, couscous, cauliflower rice",Lentil
+12709534698.0,547.0,chickpeas,Chickpea,"quinoa, rice, lentils, couscous, cauliflower rice",Couscous
+12709534698.0,547.0,chickpeas,Chickpea,"quinoa, rice, lentils, couscous, cauliflower rice",Cauliflower rice
+12709534698.0,546.0,Pearl Barley,Pearl barley,"quinoa, rice, lentils, couscous, cauliflower rice",Quinoa
+12709534698.0,546.0,Pearl Barley,Pearl barley,"quinoa, rice, lentils, couscous, cauliflower rice",White rice
+12709534698.0,546.0,Pearl Barley,Pearl barley,"quinoa, rice, lentils, couscous, cauliflower rice",Lentil
+12709534698.0,546.0,Pearl Barley,Pearl barley,"quinoa, rice, lentils, couscous, cauliflower rice",Couscous
+12709534698.0,546.0,Pearl Barley,Pearl barley,"quinoa, rice, lentils, couscous, cauliflower rice",Cauliflower rice
+12709534698.0,545.0,extra-firm tofu,Tofu:Firm,"halloumi, paneer, lentils, chickpeas",Halloumi
+12709534698.0,545.0,extra-firm tofu,Tofu:Firm,"halloumi, paneer, lentils, chickpeas",Paneer
+12709534698.0,545.0,extra-firm tofu,Tofu:Firm,"halloumi, paneer, lentils, chickpeas",Lentil
+12709534698.0,545.0,extra-firm tofu,Tofu:Firm,"halloumi, paneer, lentils, chickpeas",Chickpea
+12709534698.0,208.0,ground chicken,Chicken:Mince,turkey,Turkey:Streak
+12709534698.0,207.0,salmon fillets,Salmon,"tuna steak, carrots",Tuna:Steak
+12709534698.0,207.0,salmon fillets,Salmon,"tuna steak, carrots",Carrot
+12709534698.0,205.0,beef mince,Beef:Mince,"lentils, quorn mince, turkey mince",Lentil
+12709534698.0,205.0,beef mince,Beef:Mince,"lentils, quorn mince, turkey mince",Quorn:Mince
+12709534698.0,205.0,beef mince,Beef:Mince,"lentils, quorn mince, turkey mince",Turkey:Mince
+12709534698.0,65.0,lean minced beef,Beef:Mince,"lentils, quorn mince, turkey mince",Lentil
+12709534698.0,65.0,lean minced beef,Beef:Mince,"lentils, quorn mince, turkey mince",Quorn:Mince
+12709534698.0,65.0,lean minced beef,Beef:Mince,"lentils, quorn mince, turkey mince",Turkey:Mince
+12709534698.0,39.0,chicken breasts,Chicken:Breast,"turkey breast, mixed Mexican beans, courgette  ",Turkey:Breast
+12709534698.0,39.0,chicken breasts,Chicken:Breast,"turkey breast, mixed Mexican beans, courgette  ",Bean
+12709534698.0,39.0,chicken breasts,Chicken:Breast,"turkey breast, mixed Mexican beans, courgette  ",Courgette
+12709534698.0,512.0,boneless skinless chicken breasts,Chicken:Breast,turkey breasts,Turkey:Breast
+12709534698.0,511.0,halloumi,Halloumi,"feta cheese, diced chicken breast, diced turkey breast  ",Feta
+12709534698.0,511.0,halloumi,Halloumi,"feta cheese, diced chicken breast, diced turkey breast  ",Chicken:Breast
+12709534698.0,511.0,halloumi,Halloumi,"feta cheese, diced chicken breast, diced turkey breast  ",Turkey:Breast
+12709534698.0,510.0,butternut squash,Butternut squash,"sweet potato, pumpkin",Sweet potato
+12709534698.0,510.0,butternut squash,Butternut squash,"sweet potato, pumpkin",Pumpkin
+12631031849.0,434.0,butter,Butter,olive oil,Olive oil
+12631031849.0,433.0,higher-welfare sausages,Sausage,veggie sausages,Plant-based sausage
+12631031849.0,432.0,free range chicken,Chicken:Breast,"veggie sausages, nut roast",Plant-based sausage
+12631031849.0,432.0,free range chicken,Chicken:Breast,"veggie sausages, nut roast",Nut roast
+12631031849.0,465.0,chopped tomatoes,Tomato:Tinned,coconut milk,Coconut milk
+12631031849.0,120.0,Chicken Breasts,Chicken:Breast,tofu,Tofu:Firm
+12631031849.0,119.0,Beef,Beef:Steak,"halloumi, butternut squash",Halloumi
+12631031849.0,119.0,Beef,Beef:Steak,"halloumi, butternut squash",Butternut squash
+12631031849.0,117.0,Chicken Thighs,Chicken:Thigh,"tofu, halloumi, sweet potato, butternut",Tofu:Firm
+12631031849.0,117.0,Chicken Thighs,Chicken:Thigh,"tofu, halloumi, sweet potato, butternut",Halloumi
+12631031849.0,117.0,Chicken Thighs,Chicken:Thigh,"tofu, halloumi, sweet potato, butternut",Sweet potato
+12631031849.0,117.0,Chicken Thighs,Chicken:Thigh,"tofu, halloumi, sweet potato, butternut",Butternut squash
+12631031849.0,117.0,Natural Yoghurt,Natural Yogurt,creme fresh ,Crème fraiche
+12631031849.0,116.0,Skinless Chicken Thigh Fillets,Chicken:Thigh,"sweet potato, butternut squash, tofu",Sweet potato
+12631031849.0,116.0,Skinless Chicken Thigh Fillets,Chicken:Thigh,"sweet potato, butternut squash, tofu",Butternut squash
+12631031849.0,116.0,Skinless Chicken Thigh Fillets,Chicken:Thigh,"sweet potato, butternut squash, tofu",Tofu:Firm
+12631031849.0,147.0,spaghetti,Spaghetti,penne pasta,Pasta
+12631031849.0,147.0,parmesan,Parmesan,feta,Feta
+12631031849.0,378.0,black beans,Black bean,kidney beans,Kidney bean
+12631031849.0,377.0,fresh tomatoes,Tomato:Fresh,mushrooms,Mushroom
+12637787341.0,472.0,chicken,Chicken:Breast,Turkey,Turkey:Steak
+12637787341.0,161.0,Lancashire cheese,Lancashire,Cheddar cheese,Cheddar
+12637787341.0,243.0,British veal mince,Veal:Mince,Beef mince,Beef:Mince
+12637787341.0,447.0,salted butter,Butter,Non salted butter,Butter_SAME
+12637787341.0,446.0,strong white flour,Flour,Bread flour,Flour_SAME
+12612366803.0,573.0,Butter,Butter,Margarine ,Margarine
+12612366803.0,572.0,vegan cheddar style cheese,Plant-based cheese,Non vegan cheddar cheese ,Cheddar
+12612366803.0,572.0,chopped tomatoes,Tomato:Tinned,Fresh tomatoes ,Tomato:Fresh_SAME
+12612366803.0,571.0,cooked brown rice,Brown rice,White rice ,White rice
+12612366803.0,570.0,mozzarella,Mozzarella,Grated cheddar cheese ,Cheddar
+12612366803.0,569.0,chopped tomatoes,Tomato:Tinned,Fresh tomatoes,Tomato:Fresh_SAME
+12612366803.0,90.0,grated parmesan,Parmesan,Grated cheddar cheese ,Cheddar
+12612366803.0,89.0,courgettes,Courgette,Cauliflower ,Cauliflower
+12612366803.0,89.0,parmesan,Parmesan,Cheddar cheese ,Cheddar
+12612366803.0,200.0,beef mince,Beef:Mince,Minced chicken breast ,Chicken:Mince
+12612366803.0,65.0,lean minced beef,Beef:Mince,Minced chicken breast ,Chicken:Mince
+12612366803.0,323.0,sausages,Sausage,Pork chops,Pork:Chop
+12612366803.0,322.0,chicken thigh fillets,Chicken:Thigh,Minced beef,Beef:Mince
+12710127714.0,521.0,cooked long grain rice,Long-grain rice,"Shirataki rice,quinoa, orzo, barley",White rice
+12710127714.0,521.0,cooked long grain rice,Long-grain rice,"Shirataki rice,quinoa, orzo, barley",Quinoa
+12710127714.0,521.0,cooked long grain rice,Long-grain rice,"Shirataki rice,quinoa, orzo, barley",Pasta
+12710127714.0,521.0,cooked long grain rice,Long-grain rice,"Shirataki rice,quinoa, orzo, barley",Pearl barley
+12710127714.0,519.0,Udon Noodles,Wheat noodle,Rice noodles,Rice noodle
+12710127714.0,235.0,milk,Milk,Oat milk,Oat milk
+12710127714.0,234.0,Quorn Fillets,Quorn:Fillet,seitan fillets ,Seitan
+12710127714.0,546.0,Pearl Barley,Pearl barley,"Any similar grain i.e couscous, bulgar wheat, quinoa ",Couscous
+12710127714.0,546.0,Pearl Barley,Pearl barley,"Any similar grain i.e couscous, bulgar wheat, quinoa ",Bulgur wheat
+12710127714.0,546.0,Pearl Barley,Pearl barley,"Any similar grain i.e couscous, bulgar wheat, quinoa ",Quinoa
+12710127714.0,544.0,cooked chickpeas,Chickpea,Any other type of canned beans such as kidney or white beans,Kidney bean
+12710127714.0,544.0,cooked chickpeas,Chickpea,Any other type of canned beans such as kidney or white beans,Cannellini bean
+12710127714.0,543.0,Mozzarella,Mozzarella,Fake Vegan Mozzarella - Sainsburys sell it,Plant-based cheese
+12629784983.0,405.0,chicken breasts,Chicken:Breast,quorn chicken,Quorn:Pieces
+12629784983.0,95.0,chicken breast,Chicken:Breast,quorn chicken,Quorn:Pieces
+12629784983.0,92.0,chicken breasts,Chicken:Breast,quourn chicken,Quorn:Pieces
+12629784983.0,91.0,Lamb Loins,Lamb:Steak,vegan beef or chicken (vegan lamb is pretty hard to find),Plant-based chicken:Pieces
+12629784983.0,331.0,basmati rice,Basmati rice,"another rice, or a roti",White rice
+12629784983.0,330.0,ripe tomatoes,Tomato:Fresh,tinned tomatoes,Tomato:Tinned_SAME
+12629784983.0,329.0,tomato sauce,Tomato sauce,Tomato puree/more tinned tomatoes ,Tomato puree
+12629784983.0,329.0,tomato sauce,Tomato sauce,Tomato puree/more tinned tomatoes ,Tomato:Tinned_MORE
+12629784983.0,329.0,red lentils,Lentil,soya mince,Plant-based mince
+12709581861.0,538.0,beef mince,Beef:Mince,"Turkey Mince, Pork Mince, Quorn Mince",Turkey:Mince
+12709581861.0,538.0,beef mince,Beef:Mince,"Turkey Mince, Pork Mince, Quorn Mince",Pork:Mince
+12709581861.0,538.0,beef mince,Beef:Mince,"Turkey Mince, Pork Mince, Quorn Mince",Quorn:Mince
+12709581861.0,537.0,beef chuck,Beef:Steak,"Chicken Breast, Pork Belly",Chicken:Breast
+12709581861.0,537.0,beef chuck,Beef:Steak,"Chicken Breast, Pork Belly",Pork:Chop
+12709581861.0,536.0,salmon fillet,Salmon,Tuna Steak,Tuna:Steak
+12709581861.0,535.0,chicken thighs,Chicken:Thigh,"Diced Beef, Pork Chops(diced), Chicken Breast, Pulled Pork",Beef:Diced
+12709581861.0,535.0,chicken thighs,Chicken:Thigh,"Diced Beef, Pork Chops(diced), Chicken Breast, Pulled Pork",Pork:Chop
+12709581861.0,535.0,chicken thighs,Chicken:Thigh,"Diced Beef, Pork Chops(diced), Chicken Breast, Pulled Pork",Chicken:Breast
+12709581861.0,535.0,chicken thighs,Chicken:Thigh,"Diced Beef, Pork Chops(diced), Chicken Breast, Pulled Pork",Pork:Steak
+12709581861.0,534.0,lean pork mince,Pork:Mince,"Beef Mince, Turkey Mince, Quorn Mince",Beef:Mince
+12709581861.0,534.0,lean pork mince,Pork:Mince,"Beef Mince, Turkey Mince, Quorn Mince",Turkey:Mince
+12709581861.0,534.0,lean pork mince,Pork:Mince,"Beef Mince, Turkey Mince, Quorn Mince",Quorn:Mince
+12709581861.0,220.0,haddock fillets,Haddock,"Cod Fillets, Pollock Fillets",Cod:Fillet
+12709581861.0,220.0,haddock fillets,Haddock,"Cod Fillets, Pollock Fillets",Pollock
+12709581861.0,219.0,pork fillet,Pork:Fillet,"Chicken Breast, Beef Steak, Diced Beef, Tofu, Quorn chicken pieces, plant based meat alternatives ",Chicken:Breast
+12709581861.0,219.0,pork fillet,Pork:Fillet,"Chicken Breast, Beef Steak, Diced Beef, Tofu, Quorn chicken pieces, plant based meat alternatives ",Beef:Steak
+12709581861.0,219.0,pork fillet,Pork:Fillet,"Chicken Breast, Beef Steak, Diced Beef, Tofu, Quorn chicken pieces, plant based meat alternatives ",Beef:Diced
+12709581861.0,219.0,pork fillet,Pork:Fillet,"Chicken Breast, Beef Steak, Diced Beef, Tofu, Quorn chicken pieces, plant based meat alternatives ",Tofu:Firm
+12709581861.0,219.0,pork fillet,Pork:Fillet,"Chicken Breast, Beef Steak, Diced Beef, Tofu, Quorn chicken pieces, plant based meat alternatives ",Quorn:Pieces
+12709581861.0,219.0,pork fillet,Pork:Fillet,"Chicken Breast, Beef Steak, Diced Beef, Tofu, Quorn chicken pieces, plant based meat alternatives ",Plant-based chicken:Fillet
+12709581861.0,216.0,kidney beans,Kidney bean,"Black Beans, Butter Beans",Black bean
+12709581861.0,216.0,kidney beans,Kidney bean,"Black Beans, Butter Beans",Butter bean
+12709581861.0,65.0,lean minced beef,Beef:Mince,"Turkey Mince, Pork Mince, Plant Based Mince",Turkey:Mince
+12709581861.0,65.0,lean minced beef,Beef:Mince,"Turkey Mince, Pork Mince, Plant Based Mince",Pork:Mince
+12709581861.0,65.0,lean minced beef,Beef:Mince,"Turkey Mince, Pork Mince, Plant Based Mince",Plant-based mince
+12709581861.0,526.0,mature cheddar,Cheddar,"Any other cheese you'd like,vegan cheese",Plant-based cheese
+12709581861.0,524.0,chicken thighs,Chicken:Thigh,Chicken Breast,Chicken:Breast_SAME
+12709581861.0,524.0,chicken drumsticks,Chicken:Drumstick,"Chicken Wings,Tofu",Chicken:Wing_SAME
+12709581861.0,524.0,chicken drumsticks,Chicken:Drumstick,"Chicken Wings,Tofu",Tofu:Firm
+12552979681.0,263.0,pork sausages,Sausage,Quorn best of British sausages,Quorn sausage
+12552979681.0,1.0,eggs,Egg,Crumbled tofu,Tofu:Firm
+12552979681.0,224.0,coconut milk,Coconut milk,Yoghurt,Yogurt
+12552979681.0,200.0,beef mince,Beef:Mince,"Quorn mince, brown lentils",Quorn:Mince
+12552979681.0,200.0,beef mince,Beef:Mince,"Quorn mince, brown lentils",Lentil
+12552979681.0,39.0,chicken breasts,Chicken:Breast,"Quorn pieces, halloumi, pander, tofu",Quorn:Pieces
+12552979681.0,39.0,chicken breasts,Chicken:Breast,"Quorn pieces, halloumi, pander, tofu",Halloumi
+12552979681.0,39.0,chicken breasts,Chicken:Breast,"Quorn pieces, halloumi, pander, tofu",Paneer
+12552979681.0,39.0,chicken breasts,Chicken:Breast,"Quorn pieces, halloumi, pander, tofu",Tofu:Firm
+12552979681.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, brown lentils",Quorn:Mince
+12552979681.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, brown lentils",Lentil
+12552979681.0,15.0,broccoli,Broccoli,"Cauliflower, spring greens, cabbage",Cauliflower
+12552979681.0,15.0,broccoli,Broccoli,"Cauliflower, spring greens, cabbage",Spring green
+12552979681.0,15.0,broccoli,Broccoli,"Cauliflower, spring greens, cabbage",Cabbage
+12552979681.0,14.0,bratwursts,Sausage,Vegetarian sausages,Plant-based sausage
+12552979681.0,13.0,smoked pork loin,Pork:Loin,Firm smoked tofu,Tofu:Firm
+12552979681.0,12.0,paneer,Paneer,Halloumi,Halloumi
+12554439570.0,306.0,Coconut Cream,Coconut cream,any vegan cream,Coconut cream_SAME
+12554439570.0,305.0,coconut milk,Coconut milk,water,Water
+12554439570.0,304.0,wholemeal flour,Flour,strong white flour,Flour_SAME
+12554439570.0,9.0,unsalted butter,Butter,salted butter (never use unsalted butter),Butter_SAME
+12554439570.0,33.0,mature cheddar,Cheddar,any grated cheese,Cheese
+12554439570.0,17.0,pancetta,Pancetta,"lardons, bacon, ham",Bacon
+12554439570.0,17.0,pancetta,Pancetta,"lardons, bacon, ham",Ham
+12554439570.0,243.0,beef mince,Beef:Mince,any other mince meat,Veal:Mince
+12554439570.0,243.0,beef mince,Beef:Mince,any other mince meat,Pork:Mince
+12554439570.0,243.0,beef mince,Beef:Mince,any other mince meat,Lamb:Mince
+12554439570.0,243.0,beef mince,Beef:Mince,any other mince meat,Chicken:Mince
+12554439570.0,243.0,beef mince,Beef:Mince,any other mince meat,Turkey:Mince
+12554439570.0,243.0,British veal mince,Veal:Mince,any other mince meat,Beef:Mince
+12554439570.0,243.0,British veal mince,Veal:Mince,any other mince meat,Pork:Mince
+12554439570.0,243.0,British veal mince,Veal:Mince,any other mince meat,Lamb:Mince
+12554439570.0,243.0,British veal mince,Veal:Mince,any other mince meat,Chicken:Mince
+12554439570.0,243.0,British veal mince,Veal:Mince,any other mince meat,Turkey:Mince
+12554439570.0,90.0,grated parmesan,Parmesan,"emmental, blue cheese, cheddar, any cheese I can find in my fridge",Emmental
+12554439570.0,90.0,grated parmesan,Parmesan,"emmental, blue cheese, cheddar, any cheese I can find in my fridge",Blue Cheese
+12554439570.0,90.0,grated parmesan,Parmesan,"emmental, blue cheese, cheddar, any cheese I can find in my fridge",Cheddar
+12554439570.0,90.0,grated parmesan,Parmesan,"emmental, blue cheese, cheddar, any cheese I can find in my fridge",Cheese
+12554439570.0,89.0,courgettes,Courgette,"aubergines, potatoes, grated carrots, most root veg",Aubergine
+12554439570.0,89.0,courgettes,Courgette,"aubergines, potatoes, grated carrots, most root veg",Potato
+12554439570.0,89.0,courgettes,Courgette,"aubergines, potatoes, grated carrots, most root veg",Carrot
+12554439570.0,89.0,courgettes,Courgette,"aubergines, potatoes, grated carrots, most root veg",Sweet potato
+12554439570.0,89.0,parmesan,Parmesan,"Cheedar, emmental, blue cheese, any cheese I can find in my fridge",Cheddar
+12554439570.0,89.0,parmesan,Parmesan,"Cheedar, emmental, blue cheese, any cheese I can find in my fridge",Emmental
+12554439570.0,89.0,parmesan,Parmesan,"Cheedar, emmental, blue cheese, any cheese I can find in my fridge",Blue Cheese
+12554439570.0,89.0,parmesan,Parmesan,"Cheedar, emmental, blue cheese, any cheese I can find in my fridge",Cheese
+12632093741.0,448.0,Button Mushrooms,Mushroom,"Any chopped mushroom, any frozen mushroom, any dried mushroom ",Mushroom_SAME
+12632093741.0,447.0,natural yogurt,Natural Yogurt,Dairy free yogurt such as Alpro Soya,Plant-based yogurt
+12632093741.0,447.0,salted butter,Butter,Dairy free butter,Margarine
+12632093741.0,142.0,grated cheese,Cheese,Dairy free grated cheese such as Violife,Plant-based cheese
+12632093741.0,141.0,dried red lentils,Lentil,any other dried lentils,Lentil_SAME
+12632093741.0,139.0,butter,Butter,Dairy free butter,Margarine
+12632093741.0,137.0,reduced-fat crÃ¨me fraÃ®che,Crème fraiche,"Oat-ly dairy free creme friache, ",Plant-based cream
+12567412624.0,562.0,firm tofu,Tofu:Firm,"Lentils, beans",Lentil
+12567412624.0,562.0,firm tofu,Tofu:Firm,"Lentils, beans",Bean
+12567412624.0,561.0,skinless chicken breast fillet,Chicken:Fillet,Turkey breast fillets,Turkey:Breast
+12567412624.0,561.0,pre-cooked rice,Rice,Cauliflower rice,Cauliflower rice
+12567412624.0,560.0,skinless cod fillet,Cod:Fillet,"Basa Fillets, Haddock fillets",Bass
+12567412624.0,560.0,skinless cod fillet,Cod:Fillet,"Basa Fillets, Haddock fillets",Haddock
+12567412624.0,559.0,freshly grated Parmesan cheese,Parmesan,Mozzarella ,Mozzarella
+12567412624.0,47.0,cotija cheese,Cheese,Mozzarella,Mozzarella
+12567412624.0,47.0,plain yogurt,Natural Yogurt,Greek yoghurt,Greek Yogurt
+12567412624.0,45.0,plain greek yogurt,Greek Yogurt,"Plain yoghurt, low fat creme fraishe",Natural Yogurt
+12567412624.0,45.0,plain greek yogurt,Greek Yogurt,"Plain yoghurt, low fat creme fraishe",Crème fraiche
+12567412624.0,43.0,undyed smoked haddock fillet,Haddock,Any white fish,White fish
+12567412624.0,200.0,beef mince,Beef:Mince,"Quorn mince, Turkey mince, chicken mince",Quorn:Mince
+12567412624.0,200.0,beef mince,Beef:Mince,"Quorn mince, Turkey mince, chicken mince",Turkey:Mince
+12567412624.0,200.0,beef mince,Beef:Mince,"Quorn mince, Turkey mince, chicken mince",Chicken:Mince
+12567412624.0,254.0,chopped vegetables,Vegetable,Frozen vegetable pack,Vegetable_SAME
+12567412624.0,254.0,potatoes,Potato,"Tinned tomatoes, sweet potato",Tomato:Tinned
+12567412624.0,254.0,potatoes,Potato,"Tinned tomatoes, sweet potato",Sweet potato
+12567412624.0,252.0,chicken thighs,Chicken:Thigh,"Quorn pieces, Aubergine, Courgettes, Carrots, Sweet Potato",Quorn:Pieces
+12567412624.0,252.0,chicken thighs,Chicken:Thigh,"Quorn pieces, Aubergine, Courgettes, Carrots, Sweet Potato",Aubergine
+12567412624.0,252.0,chicken thighs,Chicken:Thigh,"Quorn pieces, Aubergine, Courgettes, Carrots, Sweet Potato",Courgette
+12567412624.0,252.0,chicken thighs,Chicken:Thigh,"Quorn pieces, Aubergine, Courgettes, Carrots, Sweet Potato",Carrot
+12567412624.0,252.0,chicken thighs,Chicken:Thigh,"Quorn pieces, Aubergine, Courgettes, Carrots, Sweet Potato",Sweet potato
+12554817264.0,350.0,chicken breast fillets,Chicken:Fillet,Quorn cocktail sausages,Quorn sausage
+12554817264.0,17.0,pancetta,Pancetta,"Quorn substitute, or similar, or remove",Quorn:Pieces
+12554817264.0,17.0,pancetta,Pancetta,"Quorn substitute, or similar, or remove",REMOVE
+12554817264.0,243.0,beef mince,Beef:Mince,"Quorn mince, Vivera mince, other meat alternative, turkey mince, remove ingredient",Quorn:Mince
+12554817264.0,243.0,beef mince,Beef:Mince,"Quorn mince, Vivera mince, other meat alternative, turkey mince, remove ingredient",Plant-based mince
+12554817264.0,243.0,beef mince,Beef:Mince,"Quorn mince, Vivera mince, other meat alternative, turkey mince, remove ingredient",Turkey:Mince
+12554817264.0,243.0,beef mince,Beef:Mince,"Quorn mince, Vivera mince, other meat alternative, turkey mince, remove ingredient",REMOVE
+12554817264.0,243.0,British veal mince,Veal:Mince,I would never use veal for ethical reasons,REMOVE
+12554817264.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, Vivera mince, other meat alternative, turkey mince",Quorn:Mince
+12554817264.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, Vivera mince, other meat alternative, turkey mince",Plant-based mince
+12554817264.0,65.0,lean minced beef,Beef:Mince,"Quorn mince, Vivera mince, other meat alternative, turkey mince",Turkey:Mince
+12554817264.0,99.0,tomatoes,Tomato:Fresh,red peppers,Pepper
+12554817264.0,97.0,broccoli,Broccoli,"more peppers, more mushrooms, seasonal green beans, chopped cabbage",Pepper_MORE
+12554817264.0,97.0,broccoli,Broccoli,"more peppers, more mushrooms, seasonal green beans, chopped cabbage",Mushroom_MORE
+12554817264.0,97.0,broccoli,Broccoli,"more peppers, more mushrooms, seasonal green beans, chopped cabbage",Green bean
+12554817264.0,97.0,broccoli,Broccoli,"more peppers, more mushrooms, seasonal green beans, chopped cabbage",Cabbage
+12633202124.0,454.0,boneless chicken thighs,Chicken:Thigh,Other chicken available,Chicken:Breast_SAME
+12633202124.0,454.0,butter,Butter,Olive oil,Olive oil
+12633202124.0,453.0,leeks,Leek,Spring onions,Spring onion
+12633202124.0,470.0,French green beans,Green bean,"Other green beans or green vegetable, e.g. broccoli",Broccoli
+12633202124.0,470.0,extra-virgin olive oil,Olive oil,"Other oil, sunflower etc",Oil
+12633202124.0,470.0,extra-virgin olive oil,Olive oil,"Other oil, sunflower etc",Sunflower oil
+12633202124.0,148.0,firm tofu,Tofu:Firm,Chicken,Chicken:Breast
+12633202124.0,148.0,reduced-fat coconut milk,Coconut milk,Normal coconut milk,Coconut milk_SAME
+12633202124.0,146.0,chopped tomatoes,Tomato:Tinned,Fresh tomatoes chopped,Tomato:Fresh_SAME
+12633202124.0,146.0,green lentils,Lentil,Try a different kind of lentil,Lentil_SAME
+12633202124.0,145.0,Butter,Butter,Oil,Oil
+12633202124.0,145.0,grated parmesan cheese,Parmesan,Another kind of cheese,Cheese
+12633202124.0,144.0,wholemeal penne pasta,Pasta,Any kind of pasta,Pasta_SAME
+12633202124.0,144.0,chopped tomatoes,Tomato:Tinned,fresh tomatoes chopped with pasatta,Tomato:Passata_SAME
+12633202124.0,143.0,new potatoes,Potato,Any kind of potatoe,Potato_SAME
+12633202124.0,424.0,crispy bacon rashers,Bacon,"Tuna, diced chicken, beans",Tuna
+12633202124.0,424.0,crispy bacon rashers,Bacon,"Tuna, diced chicken, beans",Chicken:Diced
+12633202124.0,424.0,crispy bacon rashers,Bacon,"Tuna, diced chicken, beans",Bean
+12633202124.0,422.0,chicken thighs,Chicken:Thigh,Chicken breast,Chicken:Breast_SAME
+12633202124.0,421.0,quality minced beef,Beef:Mince,Regular minced beef,Beef:Mince_SAME
+12574345335.0,565.0,butter,Butter,Vegan butter,Margarine
+12574345335.0,565.0,milk,Milk,"oat milk, soya milk",Oat milk
+12574345335.0,565.0,milk,Milk,"oat milk, soya milk",Soya milk
+12574345335.0,63.0,pork sausages,Sausage,"vegetarian sausages, vegan sausages",Plant-based sausage
+12574345335.0,61.0,shredded sharp cheddar cheese,Cheddar,cheddar cheese,Cheddar:_SAME
+12574345335.0,61.0,whole tomatoes,Tomato:Fresh,tinned tomatoes,Tomato:Tinned_SAME
+12574345335.0,60.0,tinned chopped tomatoes,Tomato:Tinned,"roasted fresh tomatoes, passata",Tomato:Fresh_SAME
+12574345335.0,60.0,tinned chopped tomatoes,Tomato:Tinned,"roasted fresh tomatoes, passata",Tomato:Passata_SAME
+12574345335.0,59.0,all-purpose flour,Flour,"Rice flour, chickpea flour, buckwheat flour",Rice flour
+12574345335.0,59.0,all-purpose flour,Flour,"Rice flour, chickpea flour, buckwheat flour",Gram flour
+12574345335.0,59.0,all-purpose flour,Flour,"Rice flour, chickpea flour, buckwheat flour",Buckwheat flour
+12574345335.0,59.0,unsalted butter,Butter,salted butter then reduce the amount of kosher salt used. ,Butter_SAME
+12574345335.0,279.0,chopped tomatoes,Tomato:Tinned,Passata,Tomato:Passata_SAME
+12717584178.0,503.0,potatoes,Potato,"Sweet potato, squash, aubergine",Sweet potato
+12717584178.0,503.0,potatoes,Potato,"Sweet potato, squash, aubergine",Squash
+12717584178.0,503.0,potatoes,Potato,"Sweet potato, squash, aubergine",Aubergine
+12717584178.0,503.0,olive oil,Olive oil,"Vegetable oil, coconut oil",Vegetable oil
+12717584178.0,503.0,olive oil,Olive oil,"Vegetable oil, coconut oil",Coconut oil
+12717584178.0,502.0,cream cheese,Cream cheese,"Vegan cream cheese, plain soy yoghurt, soya milk",Plant-based cheese
+12717584178.0,502.0,cream cheese,Cream cheese,"Vegan cream cheese, plain soy yoghurt, soya milk",Plant-based yogurt
+12717584178.0,502.0,cream cheese,Cream cheese,"Vegan cream cheese, plain soy yoghurt, soya milk",Soya milk
+12717584178.0,502.0,Parmesan cheese grated,Parmesan,Cashew nut cheese,Plant-based cheese
+12717584178.0,501.0,coconut milk,Coconut milk,"Oat milk, soya milk",Oat milk
+12717584178.0,501.0,coconut milk,Coconut milk,"Oat milk, soya milk",Soya milk
+12717584178.0,500.0,extra virgin olive oil,Olive oil,"Coconut oil, vegetable oil, sunflower oil",Coconut oil
+12717584178.0,500.0,extra virgin olive oil,Olive oil,"Coconut oil, vegetable oil, sunflower oil",Vegetable oil
+12717584178.0,500.0,extra virgin olive oil,Olive oil,"Coconut oil, vegetable oil, sunflower oil",Sunflower oil
+12717584178.0,500.0,eggs,Egg,Soft tofu,Tofu:Soft
+12717584178.0,499.0,chicken breast,Chicken,Quorn chicken,Quorn:Pieces
+12717584178.0,259.0,firm tofu,Tofu:Firm,Quorn chicken,Quorn:Pieces
+12717584178.0,259.0,cooked tri-colour quinoa,Quinoa,"Barley, rice, cous cous",Pearl barley
+12717584178.0,259.0,cooked tri-colour quinoa,Quinoa,"Barley, rice, cous cous",White rice
+12717584178.0,259.0,cooked tri-colour quinoa,Quinoa,"Barley, rice, cous cous",Couscous
+12717584178.0,257.0,cauliflower,Cauliflower,Broccoli,Broccoli
+12717584178.0,257.0,freshly grated Parmesan,Parmesan,Cashew nut based cheese,Plant-based cheese
+12717584178.0,256.0,eggs,Egg,Tofu,Tofu:Firm
+12717584178.0,256.0,butter,Butter,"Vegetable oil, margarine",Vegetable oil
+12717584178.0,256.0,butter,Butter,"Vegetable oil, margarine",Margarine
+12717584178.0,583.0,frozen Quorn mince,Quorn:Mince,Soy mince,Plant-based mince
+12717584178.0,583.0,passata,Tomato:Passata,"Tinned Tomato, fresh tomatoes",Tomato:Tinned_SAME
+12717584178.0,583.0,passata,Tomato:Passata,"Tinned Tomato, fresh tomatoes",Tomato:Fresh_SAME
+12717584178.0,582.0,zucchini,Courgette,"Aubergine, mushroom, tofu, white potato",Aubergine
+12717584178.0,582.0,zucchini,Courgette,"Aubergine, mushroom, tofu, white potato",Mushroom
+12717584178.0,582.0,zucchini,Courgette,"Aubergine, mushroom, tofu, white potato",Tofu:Firm
+12717584178.0,582.0,zucchini,Courgette,"Aubergine, mushroom, tofu, white potato",Potato
+12717584178.0,582.0,firm tofu,Tofu:Firm,"Soft tofu, potato, soy protein, rice",Tofu:Soft_SAME
+12717584178.0,582.0,firm tofu,Tofu:Firm,"Soft tofu, potato, soy protein, rice",Potato
+12717584178.0,582.0,firm tofu,Tofu:Firm,"Soft tofu, potato, soy protein, rice",Plant-based mince
+12717584178.0,582.0,firm tofu,Tofu:Firm,"Soft tofu, potato, soy protein, rice",White rice
+12717584178.0,580.0,full fat coconut milk,Coconut milk,"Soy milk, oat milk",Soya milk
+12717584178.0,580.0,full fat coconut milk,Coconut milk,"Soy milk, oat milk",Oat milk
+12717584178.0,580.0,pasta,Pasta,"Basmati rice, risotto rice, barley",Basmati rice
+12717584178.0,580.0,pasta,Pasta,"Basmati rice, risotto rice, barley",Risotto rice
+12717584178.0,580.0,pasta,Pasta,"Basmati rice, risotto rice, barley",Pearl barley
+12717584178.0,579.0,fat coconut milk,Coconut milk,"Low fat coconut milk, oat yoghurt, soy yoghurt",Coconut milk_SAME
+12717584178.0,579.0,fat coconut milk,Coconut milk,"Low fat coconut milk, oat yoghurt, soy yoghurt",Plant-based yogurt
+12630053702.0,425.0,diced tomatoes,Tomato:Fresh,Tinned chopped tomatoes ,Tomato:Tinned_SAME
+12630053702.0,425.0,black beans,Black bean,Chick peas,Chickpea
+12630053702.0,424.0,soured cream,Soured cream,"Cream, Greek yogurt",Cream
+12630053702.0,424.0,soured cream,Soured cream,"Cream, Greek yogurt",Greek Yogurt
+12630053702.0,424.0,cheddar,Cheddar,Pecorino ,Cheese
+12630053702.0,423.0,mature cheddar,Cheddar,Pecorino,Cheese
+12630053702.0,110.0,ground beef mince,Beef:Mince,"Chicken, pecorino, cream",Chicken:Breast_SAME
+12630053702.0,110.0,ground beef mince,Beef:Mince,"Chicken, pecorino, cream",Cheese
+12630053702.0,110.0,ground beef mince,Beef:Mince,"Chicken, pecorino, cream",Cream
+12630053702.0,107.0,meat,Beef:Steak,"Beef,lamb, chicken",Beef:Steak_SAME
+12630053702.0,107.0,meat,Beef:Steak,"Beef,lamb, chicken",Lamb:Steak
+12630053702.0,107.0,meat,Beef:Steak,"Beef,lamb, chicken",Chicken:Breast
+12630053702.0,362.0,lamb,Lamb:Steak,"Pecorino cheese, black olives added, with feta",COMPLEX
+12630053702.0,358.0,ground beef,Beef:Mince,100% pork mince,Pork:Mince
+12710135813.0,517.0,chicken breast,Chicken:Breast,"Fake chicken, tofu, aubergine, mushroom",Plant-based chicken:Fillet
+12710135813.0,517.0,chicken breast,Chicken:Breast,"Fake chicken, tofu, aubergine, mushroom",Tofu:Firm
+12710135813.0,517.0,chicken breast,Chicken:Breast,"Fake chicken, tofu, aubergine, mushroom",Aubergine
+12710135813.0,517.0,chicken breast,Chicken:Breast,"Fake chicken, tofu, aubergine, mushroom",Mushroom
+12710135813.0,516.0,risotto rice,Risotto rice,"Bulgar wheat, couscous, quinoa",Bulgur wheat
+12710135813.0,516.0,risotto rice,Risotto rice,"Bulgar wheat, couscous, quinoa",Couscous
+12710135813.0,516.0,risotto rice,Risotto rice,"Bulgar wheat, couscous, quinoa",Quinoa
+12710135813.0,514.0,crushed tomatoes,Tomato:Fresh,"Passata, whole tinned tomatoes",Tomato:Passata_SAME
+12710135813.0,514.0,crushed tomatoes,Tomato:Fresh,"Passata, whole tinned tomatoes",Tomato:Tinned_SAME
+12710135813.0,514.0,diced tomatoes,Tomato:Fresh,"Passata, whole tinned tomatoes",Tomato:Passata_SAME
+12710135813.0,514.0,diced tomatoes,Tomato:Fresh,"Passata, whole tinned tomatoes",Tomato:Tinned_SAME
+12710135813.0,236.0,Firm Tofu,Tofu:Firm,"Aubergine, paneer, mushroom",Aubergine
+12710135813.0,236.0,Firm Tofu,Tofu:Firm,"Aubergine, paneer, mushroom",Paneer
+12710135813.0,236.0,Firm Tofu,Tofu:Firm,"Aubergine, paneer, mushroom",Mushroom
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Tomato:Passata
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Tomato:Tinned
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Tomato:Fresh
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Salsa
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Tomato:Passata
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Tomato:Tinned
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Tomato:Fresh
+12710135813.0,236.0,Tomato Sauce,Tomato sauce,"Passata, tinned tomatoes, fresh tomatoes, salsa",Salsa
+12710135813.0,235.0,milk,Milk,"Oat milk, diluted cream",Oat milk
+12710135813.0,235.0,milk,Milk,"Oat milk, diluted cream",Cream
+12710135813.0,234.0,Quorn Fillets,Quorn:Fillet,"Tofu, meat substitute, sausages",Tofu:Firm
+12710135813.0,234.0,Quorn Fillets,Quorn:Fillet,"Tofu, meat substitute, sausages",Plant-based chicken:Fillet
+12710135813.0,234.0,Quorn Fillets,Quorn:Fillet,"Tofu, meat substitute, sausages",Plant-based sausage
+12710135813.0,233.0,diced tomatoes,Tomato:Fresh,"Passata, tinned tomatoes",Tomato:Passata_SAME
+12710135813.0,233.0,diced tomatoes,Tomato:Fresh,"Passata, tinned tomatoes",Tomato:Tinned_SAME
+12710135813.0,232.0,Cauldron Lincolnshire Sausages,Plant-based sausage,"Vegetarian sausages, tofu, meatless balls, meat alternatives",Plant-based sausage_SAME
+12710135813.0,232.0,Cauldron Lincolnshire Sausages,Plant-based sausage,"Vegetarian sausages, tofu, meatless balls, meat alternatives",Tofu:Firm
+12710135813.0,232.0,Cauldron Lincolnshire Sausages,Plant-based sausage,"Vegetarian sausages, tofu, meatless balls, meat alternatives",Plant-based meatball
+12710135813.0,232.0,chopped tomatoes,Tomato:Tinned,Passata,Tomato:Passata_SAME
+12710135813.0,551.0,paneer,Paneer,"Aubergine, tofu, mushroom",Aubergine
+12710135813.0,551.0,paneer,Paneer,"Aubergine, tofu, mushroom",Tofu:Firm
+12710135813.0,551.0,paneer,Paneer,"Aubergine, tofu, mushroom",Mushroom
+12710135813.0,551.0,chopped tomatoes,Tomato:Tinned,Passata,Tomato:Passata_SAME
+12710135813.0,550.0,aubergine,Aubergine,"Leek, mushroom, red cabbage, chickpeas",Leek
+12710135813.0,550.0,aubergine,Aubergine,"Leek, mushroom, red cabbage, chickpeas",Mushroom
+12710135813.0,550.0,aubergine,Aubergine,"Leek, mushroom, red cabbage, chickpeas",Cabbage
+12710135813.0,550.0,aubergine,Aubergine,"Leek, mushroom, red cabbage, chickpeas",Chickpea
+12710135813.0,550.0,tomato,Tomato:Fresh,"Tinned chopped tomatoes, red pepper",Tomato:Tinned_SAME
+12710135813.0,550.0,tomato,Tomato:Fresh,"Tinned chopped tomatoes, red pepper",Pepper
+12710135813.0,550.0,penne pasta,Pasta,"Spaghetti, macaroni, couscous, rice, other pasta",Spaghetti
+12710135813.0,550.0,penne pasta,Pasta,"Spaghetti, macaroni, couscous, rice, other pasta",Pasta_SAME
+12710135813.0,550.0,penne pasta,Pasta,"Spaghetti, macaroni, couscous, rice, other pasta",Couscous
+12710135813.0,550.0,penne pasta,Pasta,"Spaghetti, macaroni, couscous, rice, other pasta",White rice
+12710135813.0,547.0,chickpeas,Chickpea,"Kidney beans, pinto beans, cannellini beans",Kidney bean
+12710135813.0,547.0,chickpeas,Chickpea,"Kidney beans, pinto beans, cannellini beans",Pinto bean
+12710135813.0,547.0,chickpeas,Chickpea,"Kidney beans, pinto beans, cannellini beans",Cannellini bean

@@ -1,0 +1,310 @@
+Food,FOODON ID,Preferred Name,FoodEx_IRI,foodex_embed_avail
+Aduki bean,http://purl.obolibrary.org/obo/FOODON_03541070,azuki beans (dry) (efsa foodex2),A013E,True
+Agave,http://purl.obolibrary.org/obo/FOODON_03541002,agave leaves (efsa foodex2),A0CXN,True
+Alfalfa sprout,http://purl.obolibrary.org/obo/FOODON_03540502,alfalfa sprouts (efsa foodex2),A00SH,True
+Allspice,http://purl.obolibrary.org/obo/FOODON_03541370,allspice fruit (efsa foodex2),A018R,True
+Almond,http://purl.obolibrary.org/obo/FOODON_03541120,almonds (efsa foodex2),A014D,True
+Almond milk,http://purl.obolibrary.org/obo/FOODON_03543833,almond drink (efsa foodex2),A03TK,True
+Anchovy,http://purl.obolibrary.org/obo/FOODON_03542405,anchovies (efsa foodex2),A02DD,True
+Anise seed,http://purl.obolibrary.org/obo/FOODON_03541292,anise seed (efsa foodex2),A017Y,True
+Arrowhead,http://purl.obolibrary.org/obo/FOODON_03540756,arrowhead (efsa foodex2),A00RK,True
+Asparagus,http://purl.obolibrary.org/obo/FOODON_03540539,asparagus (efsa foodex2),A00RT,True
+Aubergine,http://purl.obolibrary.org/obo/FOODON_03540658,aubergines (efsa foodex2),A00JD,True
+Avocado,http://purl.obolibrary.org/obo/FOODON_03541733,avocados (efsa foodex2),A01LB,True
+Babaco,http://purl.obolibrary.org/obo/FOODON_03541664,babacos (efsa foodex2),A01LX,True
+Bacon,http://purl.obolibrary.org/obo/FOODON_03542112,bacon (efsa foodex2),A022X,True
+Baking powder,http://purl.obolibrary.org/obo/FOODON_03544446,preparations for raising and flavouring home-made bakery (efsa foodex2),A048Q,True
+Bamboo shoots,http://purl.obolibrary.org/obo/FOODON_03540560,bamboo shoots (efsa foodex2),A00RV,True
+Banana,http://purl.obolibrary.org/obo/FOODON_03541736,common banana (efsa foodex2),A01LC,True
+Barbeque sauce,http://purl.obolibrary.org/obo/FOODON_03544196,barbeque flavour (efsa foodex2),A06KM,True
+Basil,http://purl.obolibrary.org/obo/FOODON_03540878,basil (efsa foodex2),A00VV,True
+Basmati rice,http://purl.obolibrary.org/obo/FOODON_03540040,"rice grain, long-grain (efsa foodex2)",A001F,True
+Bass,http://purl.obolibrary.org/obo/FOODON_03542366,sea bass (efsa foodex2),A029T,True
+Bay leaf,http://purl.obolibrary.org/obo/FOODON_03541264,"bay leaves, dry (efsa foodex2)",A016Z,True
+Bean,http://purl.obolibrary.org/obo/FOODON_03541023,beans (fresh seeds without pods) and similar- (efsa foodex2),A011Z,True
+Beansprouts,http://purl.obolibrary.org/obo/FOODON_03540515,common bean sprouts (efsa foodex2),A00SK,True
+Beef,http://purl.obolibrary.org/obo/FOODON_03541916,"cow, ox or bull fresh meat (efsa foodex2)",A01QX,True
+Beef stock,http://purl.obolibrary.org/obo/FOODON_03544075,"stock cube or granulate, beef (efsa foodex2)",A043H,True
+Beef stock cube,http://purl.obolibrary.org/obo/FOODON_03544075,"stock cube or granulate, beef (efsa foodex2)",A043H,True
+Beer,http://purl.obolibrary.org/obo/FOODON_03543332,beer (efsa foodex2),A03MB,True
+Betel leaves,http://purl.obolibrary.org/obo/FOODON_03540905,wild betel leaves (efsa foodex2),A0DGC,True
+Betel nut,http://purl.obolibrary.org/obo/FOODON_03541140,areca nuts (efsa foodex2),A0DYC,True
+Black gram,http://purl.obolibrary.org/obo/FOODON_03541111,black gram (dry seeds) (efsa foodex2),A013C,True
+Black Pepper,http://purl.obolibrary.org/obo/FOODON_03541389,black pepper (efsa foodex2),A019C,True
+Blackberries,http://purl.obolibrary.org/obo/FOODON_03541543,blackberries (efsa foodex2),A01EE,True
+Blackcurrant,http://purl.obolibrary.org/obo/FOODON_03541608,blackcurrants (efsa foodex2),A01FN,True
+Blue Cheese,http://purl.obolibrary.org/obo/FOODON_03542908,firm-ripened blue mould-veined cheese (efsa foodex2),A030B,True
+Blueberries,http://purl.obolibrary.org/obo/FOODON_03541564,blueberries (efsa foodex2),A01EY,True
+Borlotti bean,http://purl.obolibrary.org/obo/FOODON_03541027,borlotti or other common beans (without pods) (efsa foodex2),A012B,True
+Bran,http://purl.obolibrary.org/obo/FOODON_03540108,cereal bran (efsa foodex2),A002C,True
+Brawn,http://purl.obolibrary.org/obo/FOODON_03542179,head cheese (efsa foodex2),A025Z,True
+Brazil nut,http://purl.obolibrary.org/obo/FOODON_03541129,brazil nuts (efsa foodex2),A014G,True
+Bread,http://purl.obolibrary.org/obo/FOODON_03540116,bread and similar products (efsa foodex2),A004V,True
+Breadfruit,http://purl.obolibrary.org/obo/FOODON_03541779,breadfruits (efsa foodex2),A01LQ,True
+Bream,http://purl.obolibrary.org/obo/FOODON_03542368,sea bream (efsa foodex2),A029V,True
+Brie,http://purl.obolibrary.org/obo/FOODON_03542770,"cheese, brie (efsa foodex2)",A02RV,True
+Broad bean,http://purl.obolibrary.org/obo/FOODON_03541072,broad beans (dry) (efsa foodex2),A013H,True
+Broccoli,http://purl.obolibrary.org/obo/FOODON_03540525,broccoli (efsa foodex2),A00FN,True
+Brown rice,http://purl.obolibrary.org/obo/FOODON_03540039,"rice grain, brown (efsa foodex2)",A001E,True
+Brown sauce,http://purl.obolibrary.org/obo/FOODON_03544115,british islands brown sauce (efsa foodex2),A045C,True
+Brussels Sprouts,http://purl.obolibrary.org/obo/FOODON_03540472,brussels sprouts (efsa foodex2),A00FV,True
+Buckwheat,http://purl.obolibrary.org/obo/FOODON_03540009,buckwheat (efsa foodex2),A000N,True
+Buckwheat flour,http://purl.obolibrary.org/obo/FOODON_03540071,buckwheat flour (efsa foodex2),A002G,True
+Bulgur wheat,http://purl.obolibrary.org/obo/FOODON_03540103,bulgur (efsa foodex2),A004G,True
+Butter,http://purl.obolibrary.org/obo/FOODON_03543148,butter (efsa foodex2),A039C,True
+Butter bean,http://purl.obolibrary.org/obo/FOODON_03541036,lima beans (without pods) (efsa foodex2),A012D,True
+Buttermilk,http://purl.obolibrary.org/obo/FOODON_03542688,buttermilk (efsa foodex2),A02MV,True
+Butternut squash,http://purl.obolibrary.org/obo/FOODON_03540698,butternut squashes (efsa foodex2),A0DLT,True
+Cabbage,http://purl.obolibrary.org/obo/FOODON_03540474,head cabbages (efsa foodex2),A00FY,True
+Caerphilly,http://purl.obolibrary.org/obo/FOODON_03542803,"cheese, caerphilly (efsa foodex2)",A02TH,True
+Camembert,http://purl.obolibrary.org/obo/FOODON_03542771,"cheese, camembert (efsa foodex2)",A02RX,True
+Cannellini bean,http://purl.obolibrary.org/obo/FOODON_03541027,borlotti or other common beans (without pods) (efsa foodex2),A012B,True
+Caraway seeds,http://purl.obolibrary.org/obo/FOODON_03541293,black caraway seed and similar (efsa foodex2),A0CZE,True
+Cardamon,http://purl.obolibrary.org/obo/FOODON_03541379,cardamom fruit and similar (efsa foodex2),A0CGT,True
+Carp,http://purl.obolibrary.org/obo/FOODON_03542220,"carp, common (efsa foodex2)",A027D,True
+Carrot,http://purl.obolibrary.org/obo/FOODON_03540712,carrots (efsa foodex2),A00QH,True
+Cashew cream,http://purl.obolibrary.org/obo/FOODON_03543839,imitation cream (efsa foodex2),A03TR,True
+Cashew nut,http://purl.obolibrary.org/obo/FOODON_03541131,cashew nuts (efsa foodex2),A014H,True
+Cauliflower,http://purl.obolibrary.org/obo/FOODON_03540531,cauliflowers (efsa foodex2),A00FR,True
+Caviar,http://purl.obolibrary.org/obo/FOODON_03542469,fish roe (efsa foodex2),A02EM,True
+Celeriac,http://purl.obolibrary.org/obo/FOODON_03540716,celeriacs (efsa foodex2),A00QJ,True
+Celery,http://purl.obolibrary.org/obo/FOODON_03540833,celery leaves (efsa foodex2),A00XA,True
+Chapati flour,http://purl.obolibrary.org/obo/FOODON_03540094,chapatti flour (efsa foodex2),A004D,True
+Chard,http://purl.obolibrary.org/obo/FOODON_03540446,chards (efsa foodex2),A00MX,True
+Cheddar,http://purl.obolibrary.org/obo/FOODON_03542872,"cheese, cheddar (efsa foodex2)",A02YK,True
+Cheese,http://purl.obolibrary.org/obo/FOODON_03542731,cheese (efsa foodex2),A02QE,True
+Cherry,http://purl.obolibrary.org/obo/FOODON_03541495,cherries and similar (efsa foodex2),A01GG,True
+Cherry tomato,http://purl.obolibrary.org/obo/FOODON_03540639,cherry tomatoes (efsa foodex2),A00HY,True
+Chervil,http://purl.obolibrary.org/obo/FOODON_03540827,chervil (efsa foodex2),A00XB,True
+Chestnut,http://purl.obolibrary.org/obo/FOODON_03541133,chestnuts (efsa foodex2),A014J,True
+Chicken,http://purl.obolibrary.org/obo/FOODON_03541965,chicken fresh meat (efsa foodex2),A01SP,True
+Chicken stock,http://purl.obolibrary.org/obo/FOODON_03544074,"stock cubes or granulate, chicken (efsa foodex2)",A043G,True
+Chicken stock cube,http://purl.obolibrary.org/obo/FOODON_03544074,"stock cubes or granulate, chicken (efsa foodex2)",A043G,True
+Chickpea,http://purl.obolibrary.org/obo/FOODON_03541099,chickpeas (dry) (efsa foodex2),A013M,True
+Chicory,http://purl.obolibrary.org/obo/FOODON_03543421,chicory coffee ingredient (efsa foodex2),A03GV,True
+Chili garlic sauce,http://purl.obolibrary.org/obo/FOODON_03544121,aioli or garlic sauce (efsa foodex2),A045A,True
+Chives,http://purl.obolibrary.org/obo/FOODON_03540829,chives (efsa foodex2),A00XD,True
+Cho Cho,http://purl.obolibrary.org/obo/FOODON_03540680,chayote fruits (efsa foodex2),A00JZ,True
+Chocolate Spread,http://purl.obolibrary.org/obo/FOODON_03543044,chocolate spread (efsa foodex2),A0C6P,True
+Chorizo,http://purl.obolibrary.org/obo/FOODON_03542162,chorizo and similar (efsa foodex2),A025C,True
+Chutney,http://purl.obolibrary.org/obo/FOODON_03544133,chutneys (efsa foodex2),A045Q,True
+Cider,http://purl.obolibrary.org/obo/FOODON_03543357,cider (efsa foodex2),A03ND,True
+Cinnamon,http://purl.obolibrary.org/obo/FOODON_03541342,cinnamon bark (efsa foodex2),A019V,True
+Cloves,http://purl.obolibrary.org/obo/FOODON_03541323,cloves buds (efsa foodex2),A01AL,True
+Cluster bean,http://purl.obolibrary.org/obo/FOODON_03541079,guar beans (dry) (efsa foodex2),A0DCL,True
+Cockles,http://purl.obolibrary.org/obo/FOODON_03542552,cockles (efsa foodex2),A02HE,True
+Cocoa,http://purl.obolibrary.org/obo/FOODON_03543428,cocoa ingredients (efsa foodex2),A03HE,False
+Coconut,http://purl.obolibrary.org/obo/FOODON_03541139,coconuts (efsa foodex2),A014K,True
+Coconut cream,http://purl.obolibrary.org/obo/FOODON_03543839,imitation cream (efsa foodex2),A03TR,True
+Coconut milk,http://purl.obolibrary.org/obo/FOODON_03543258,coconut milk (cocos nucifera) liquid (efsa foodex2),A01BK,True
+Coconut oil,http://purl.obolibrary.org/obo/FOODON_03543113,coconut oil/fat (efsa foodex2),A037M,True
+Cod,http://purl.obolibrary.org/obo/FOODON_03542346,cod (efsa foodex2),A02BV,True
+Coffee,http://purl.obolibrary.org/obo/FOODON_03543404,coffee ingredients (efsa foodex2),A03GJ,False
+Cola,http://purl.obolibrary.org/obo/FOODON_03543317,cola-type drinks (efsa foodex2),A03FQ,True
+Condensed milk,http://purl.obolibrary.org/obo/FOODON_03542722,condensed milk (sometimes with added sugars) (efsa foodex2),A02PG,True
+Coriander seed,http://purl.obolibrary.org/obo/FOODON_03541301,coriander seed (efsa foodex2),A018D,True
+Cottage cheese,http://purl.obolibrary.org/obo/FOODON_03542733,cottage cheese (efsa foodex2),A02QG,True
+Courgette,http://purl.obolibrary.org/obo/FOODON_03540677,courgettes (efsa foodex2),A00JR,True
+Couscous,http://purl.obolibrary.org/obo/FOODON_03540196,couscous (efsa foodex2),A008C,True
+Cream,http://purl.obolibrary.org/obo/FOODON_03542681,"cream, plain (efsa foodex2)",A02ML,True
+Cream cheese,http://purl.obolibrary.org/obo/FOODON_03542750,cream cheese (efsa foodex2),A02QZ,True
+Crème fraiche,http://purl.obolibrary.org/obo/FOODON_03542717,créme fraiche and other mild variants of sour cream (efsa foodex2),A02NC,True
+Curacao,http://purl.obolibrary.org/obo/FOODON_03543392,fruit liqueur (efsa foodex2),A03NT,True
+Curry leaves,http://purl.obolibrary.org/obo/FOODON_03540902,curry leaves (efsa foodex2),A00XG,True
+Curry sauce,http://purl.obolibrary.org/obo/FOODON_03544122,curry sauce (efsa foodex2),A045D,True
+Dark chocolate,http://purl.obolibrary.org/obo/FOODON_03543035,bitter chocolate (efsa foodex2),A034G,True
+Derby cheese,http://purl.obolibrary.org/obo/FOODON_03542811,"cheese, derby (efsa foodex2)",A02TR,True
+Double cream,http://purl.obolibrary.org/obo/FOODON_03542680,cream and cream products (efsa foodex2),A02MK,True
+Double Gloucester,http://purl.obolibrary.org/obo/FOODON_03542812,"cheese, double gloucester (efsa foodex2)",A02TS,True
+Dried apricot,http://purl.obolibrary.org/obo/FOODON_03541797,dried apricots (efsa foodex2),A01MD,True
+Dried basil,http://purl.obolibrary.org/obo/FOODON_03541263,"basil, dry (efsa foodex2)",A016Y,True
+Duck,http://purl.obolibrary.org/obo/FOODON_03541969,duck fresh meat (efsa foodex2),A01SR,True
+Edam,http://purl.obolibrary.org/obo/FOODON_03542814,"cheese, edam (efsa foodex2)",A02TV,True
+Edamame bean,http://purl.obolibrary.org/obo/FOODON_03540611,soyabeans (with pods) (efsa foodex2),A0DFR,True
+Egg,http://purl.obolibrary.org/obo/FOODON_03542950,whole eggs (efsa foodex2),A031F,True
+Egg pasta,http://purl.obolibrary.org/obo/FOODON_03540179,fresh egg pasta (efsa foodex2),A007G,True
+Emmental,http://purl.obolibrary.org/obo/FOODON_03542874,"cheese, emmental (efsa foodex2)",A02YM,True
+Evaporated milk,http://purl.obolibrary.org/obo/FOODON_03542721,"evaporated milk (liquid, unsweetened) (efsa foodex2)",A02PF,True
+Fenugreek leaves,http://purl.obolibrary.org/obo/FOODON_03540841,fenugreek leaves (efsa foodex2),A0DJF,True
+Fenugreek seeds,http://purl.obolibrary.org/obo/FOODON_03541312,fenugreek seed (efsa foodex2),A018H,True
+Feta,http://purl.obolibrary.org/obo/FOODON_03542753,"cheese, feta (efsa foodex2)",A02RC,True
+Fish,http://purl.obolibrary.org/obo/FOODON_03542212,fish (meat) (efsa foodex2),A026V,True
+Garam masala,http://purl.obolibrary.org/obo/FOODON_03544064,indian spice mixes and similar (other than curry powder) (efsa foodex2),A043C,True
+Gelatine,http://purl.obolibrary.org/obo/FOODON_03544158,gelatine (efsa foodex2),A0F5E,True
+Ghee,http://purl.obolibrary.org/obo/FOODON_03543141,ghee (efsa foodex2),A038Y,True
+Globe artichoke,http://purl.obolibrary.org/obo/FOODON_03540549,globe artichokes (efsa foodex2),A00RS,True
+Gnocchi,http://purl.obolibrary.org/obo/FOODON_03540193,gnocchi (efsa foodex2),A008D,True
+Goat,http://purl.obolibrary.org/obo/FOODON_03541932,goat fresh meat (efsa foodex2),A01RL,True
+Goats cheese,http://purl.obolibrary.org/obo/FOODON_03542744,"cheese, chevre frais (efsa foodex2)",A02QQ,True
+Gouda,http://purl.obolibrary.org/obo/FOODON_03542818,"cheese, gouda (efsa foodex2)",A02VA,True
+Gourd,http://purl.obolibrary.org/obo/FOODON_03540676,courgettes and similar- (efsa foodex2),A00JQ,True
+Gram flour,http://purl.obolibrary.org/obo/FOODON_03541100,chickpea flour (efsa foodex2),A01BH,True
+Grana Padano,http://purl.obolibrary.org/obo/FOODON_03542899,"cheese, grana padano (efsa foodex2)",A02ZQ,True
+Granulated sugar,http://purl.obolibrary.org/obo/FOODON_03542985,white sugar (efsa foodex2),A032J,True
+Grape leaves,http://purl.obolibrary.org/obo/FOODON_03540454,grape leaves,A00NB,True
+Gravy granules,http://purl.obolibrary.org/obo/FOODON_03544071,gravy instant granules (efsa foodex2),A043T,True
+Greek Yogurt,http://purl.obolibrary.org/obo/FOODON_03542703,strained yoghurt (efsa foodex2),A16GH,False
+Green bean,http://purl.obolibrary.org/obo/FOODON_03540600,french beans (with pods) (efsa foodex2),A00PG,True
+Gruyere,http://purl.obolibrary.org/obo/FOODON_03542876,"cheese, gruyere (efsa foodex2)",A02YP,True
+Haddock,http://purl.obolibrary.org/obo/FOODON_03542350,haddock (efsa foodex2),A02CA,True
+Hake,http://purl.obolibrary.org/obo/FOODON_03542351,hakes (efsa foodex2),A02CB,True
+Halibut,http://purl.obolibrary.org/obo/FOODON_03542328,"flounders, halibuts, soles (efsa foodex2)",A02AR,True
+Halloumi,http://purl.obolibrary.org/obo/FOODON_03542754,halloumi (efsa foodex2),A065R,True
+Ham,http://purl.obolibrary.org/obo/FOODON_03542125,cooked pork ham (efsa foodex2),A023K,True
+Haricot bean,http://purl.obolibrary.org/obo/FOODON_03541077,navy beans (dry seeds) (efsa foodex2),A012X,True
+Hering roe,http://purl.obolibrary.org/obo/FOODON_03542474,herring roe (efsa foodex2),A02ES,True
+Honey,http://purl.obolibrary.org/obo/FOODON_03543011,honey (efsa foodex2),A033J,True
+Hummus,http://purl.obolibrary.org/obo/FOODON_03543899,hummus (efsa foodex2),A03VN,True
+Icing sugar,http://purl.obolibrary.org/obo/FOODON_03542993,"sugar, icing - powder (efsa foodex2)",A032R,True
+Jackfruit,http://purl.obolibrary.org/obo/FOODON_03541780,jackfruits (efsa foodex2),A01LR,True
+Jasmine rice,http://purl.obolibrary.org/obo/FOODON_03540040,"rice grain, long-grain (efsa foodex2)",A001F,True
+Jerusalem artichoke,http://purl.obolibrary.org/obo/FOODON_03540722,jerusalem artichokes (efsa foodex2),A00QQ,True
+Kabana,http://purl.obolibrary.org/obo/FOODON_03542164,snack sausages (like cabanos and landjäger) (efsa foodex2),A025E,True
+Kabsa,http://purl.obolibrary.org/obo/FOODON_03544060,seasoning mixes (efsa foodex2),A042Y,True
+Kalabasu,http://purl.obolibrary.org/obo/FOODON_03542228,labeo calbasu (efsa foodex2),A0F8E,True
+Kale,http://purl.obolibrary.org/obo/FOODON_03540489,kales and similar- (efsa foodex2),A00GL,True
+Katla,http://purl.obolibrary.org/obo/FOODON_03542230,catla (efsa foodex2),A0F8F,True
+Kidney bean,http://purl.obolibrary.org/obo/FOODON_03541030,kidney bean (fresh seeds) (efsa foodex2),A0BAL,True
+Lager,http://purl.obolibrary.org/obo/FOODON_03543333,lager beer (efsa foodex2),A03MC,True
+Lamb,http://purl.obolibrary.org/obo/FOODON_03541930,lamb fresh meat (efsa foodex2),A01RK,True
+Lancashire,http://purl.obolibrary.org/obo/FOODON_03542826,"cheese, lancashire (efsa foodex2)",A02VJ,True
+Laverbread,http://purl.obolibrary.org/obo/FOODON_03540766,laver (efsa foodex2),A00VH,True
+Leek,http://purl.obolibrary.org/obo/FOODON_03540555,leeks (efsa foodex2),A00SB,True
+Lemongrass,http://purl.obolibrary.org/obo/FOODON_03540911,lemongrass (efsa foodex2),A00XR,True
+Lentil,http://purl.obolibrary.org/obo/FOODON_03541092,lentils (dry) (efsa foodex2),A013Q,True
+Lettuce,http://purl.obolibrary.org/obo/FOODON_03540365,lettuces (generic) (efsa foodex2),A00KX,True
+Lime leaves,http://purl.obolibrary.org/obo/FOODON_03540903,kaffir lime leaves (efsa foodex2),A00XN,True
+Ling,http://purl.obolibrary.org/obo/FOODON_03542352,ling (efsa foodex2),A02CC,True
+Long-grain rice,http://purl.obolibrary.org/obo/FOODON_03540040,"rice grain, long-grain (efsa foodex2)",A001F,True
+Mackerel,http://purl.obolibrary.org/obo/FOODON_03542449,mackerel (efsa foodex2),A02CT,True
+Maple syrup,http://purl.obolibrary.org/obo/FOODON_03544310,maple flavour (efsa foodex2),A06QP,True
+Margarine,http://purl.obolibrary.org/obo/FOODON_03543150,traditional margarine (efsa foodex2),A039D,True
+Mascarpone,http://purl.obolibrary.org/obo/FOODON_03542734,mascarpone (efsa foodex2),A02QH,True
+Matoki,http://purl.obolibrary.org/obo/FOODON_03541737,common banana - acuminata cultivars (efsa foodex2),A0DQM,True
+Mayonnaise,http://purl.obolibrary.org/obo/FOODON_03544093,mayonnaise sauce (efsa foodex2),A044X,True
+Meatball,http://purl.obolibrary.org/obo/FOODON_03543858,meat balls (efsa foodex2),A03XG,True
+Milk,http://purl.obolibrary.org/obo/FOODON_03542651,milk (efsa foodex2),A02LT,True
+Mixed fruit,http://purl.obolibrary.org/obo/FOODON_03541856,"candied fruit, mixed fruit (efsa foodex2)",A01QB,True
+Mixed herbs,http://purl.obolibrary.org/obo/FOODON_03544061,mixed herbs and spices (efsa foodex2),A042Z,True
+Monkfish,http://purl.obolibrary.org/obo/FOODON_03542396,"anglerfish, monkfish and stargazers (efsa foodex2)",A02BJ,True
+Mozzarella,http://purl.obolibrary.org/obo/FOODON_03542735,mozzarella (efsa foodex2),A02QJ,True
+Mung bean,http://purl.obolibrary.org/obo/FOODON_03541084,mung beans (dry) (efsa foodex2),A013D,True
+Mushroom,http://purl.obolibrary.org/obo/FOODON_03540784,common mushrooms (efsa foodex2),A00TQ,True
+Mushroom sauce,http://purl.obolibrary.org/obo/FOODON_03544131,mushrooms cooked sauce (efsa foodex2),A044D,True
+Mutton,http://purl.obolibrary.org/obo/FOODON_03541929,sheep (adult) fresh meat (efsa foodex2),A01RJ,True
+Natural Yogurt,http://purl.obolibrary.org/obo/FOODON_03542701,"yoghurt, goat milk, plain (efsa foodex2)",A02NN,True
+Nut,http://purl.obolibrary.org/obo/FOODON_03541118,tree nuts (efsa foodex2),A014C,True
+Nutritional yeast,http://purl.obolibrary.org/obo/FOODON_03543823,yeast based formulations (efsa foodex2),A03TB,True
+Oat milk,http://purl.obolibrary.org/obo/FOODON_03543834,oats drink (efsa foodex2),A03TL,True
+Oil,http://purl.obolibrary.org/obo/FOODON_03543092,animal and vegetable fats/oils (efsa foodex2),A0F3D,True
+Olive oil,http://purl.obolibrary.org/obo/FOODON_03543094,olive oils (efsa foodex2),A036P,True
+Onion,http://purl.obolibrary.org/obo/FOODON_03540579,onions (efsa foodex2),A00HC,True
+Oxtail,http://purl.obolibrary.org/obo/FOODON_03542079,bovine tail (efsa foodex2),A020Y,True
+Oyster sauce,http://purl.obolibrary.org/obo/FOODON_03544112,oyster sauce (efsa foodex2),A044S,True
+Pak choi,http://purl.obolibrary.org/obo/FOODON_03540487,pak-choi (efsa foodex2),A00GJ,True
+Pancetta,http://purl.obolibrary.org/obo/FOODON_03542113,pancetta (efsa foodex2),A022Y,True
+Paneer,http://purl.obolibrary.org/obo/FOODON_03542737,cheese curd (efsa foodex2),A0CRN,True
+Parmesan,http://purl.obolibrary.org/obo/FOODON_03542892,"extra hard cheese (parmesan, grana type) (efsa foodex2)",A02ZH,True
+Parsnip,http://purl.obolibrary.org/obo/FOODON_03540724,parsnips and similar- (efsa foodex2),A0DNS,True
+Pasta,http://purl.obolibrary.org/obo/FOODON_03540175,pasta and similar products (efsa foodex2),A007D,True
+Pastrami,http://purl.obolibrary.org/obo/FOODON_03542121,cooked cured (or seasoned) meat (efsa foodex2),A023G,True
+Pea,http://purl.obolibrary.org/obo/FOODON_03541093,peas (dry) and similar- (efsa foodex2),A0DCD,True
+Peanut,http://purl.obolibrary.org/obo/FOODON_03541181,peanuts (efsa foodex2),A015H,True
+Pearl barley,http://purl.obolibrary.org/obo/FOODON_03540007,"barley grain, pearled (efsa foodex2)",A002K,True
+Pepper,http://purl.obolibrary.org/obo/FOODON_03540649,peppers and similar- (efsa foodex2),A00HZ,True
+Pesto,http://purl.obolibrary.org/obo/FOODON_03544123,pesto (efsa foodex2),A044V,True
+Pigeon pea,http://purl.obolibrary.org/obo/FOODON_03541102,pigeon peas (dry) (efsa foodex2),A013P,True
+Pine nut,http://purl.obolibrary.org/obo/FOODON_03541153,pine nut kernels (efsa foodex2),A01BV,True
+Pinto bean,http://purl.obolibrary.org/obo/FOODON_03541027,borlotti or other common beans (without pods) (efsa foodex2),A012B,True
+Plant-based bacon,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based burger,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based cheese,http://purl.obolibrary.org/obo/FOODON_03543843,imitation cheese (efsa foodex2),A03TY,True
+Plant-based chicken,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based cream,http://purl.obolibrary.org/obo/FOODON_03543839,imitation cream (efsa foodex2),A03TR,True
+Plant-based ham,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based meatball,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based mince,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based sausage,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based slice,http://purl.obolibrary.org/obo/FOODON_03543826,meat imitates (efsa foodex2),A03TE,True
+Plant-based yogurt,http://purl.obolibrary.org/obo/FOODON_03543844,"imitation yoghurt, non soy (efsa foodex2)",A03TZ,True
+Pollock,http://purl.obolibrary.org/obo/FOODON_03542354,"pollack, pollock (efsa foodex2)",A02CE,True
+Polony,http://purl.obolibrary.org/obo/FOODON_03542174,bologna-type sausage (efsa foodex2),A025R,True
+Poppy seed,http://purl.obolibrary.org/obo/FOODON_03541183,poppy seeds (efsa foodex2),A015J,True
+Pork,http://purl.obolibrary.org/obo/FOODON_03541926,pig fresh meat (efsa foodex2),A01RG,True
+Porridge oat,http://purl.obolibrary.org/obo/FOODON_03540324,oat porridge (efsa foodex2),A00EQ,True
+Potato,http://purl.obolibrary.org/obo/FOODON_03540958,potatoes (efsa foodex2),A00ZT,True
+Prawn,http://purl.obolibrary.org/obo/FOODON_03542511,shrimps and prawns (efsa foodex2),A02FX,True
+Pumpkin,http://purl.obolibrary.org/obo/FOODON_03540697,pumpkins (efsa foodex2),A00KH,True
+Pumpkin seed,http://purl.obolibrary.org/obo/FOODON_03541206,pumpkin seeds (efsa foodex2),A015X,True
+Quark,http://purl.obolibrary.org/obo/FOODON_03542736,quark (efsa foodex2),A02QK,True
+Quinoa,http://purl.obolibrary.org/obo/FOODON_03540015,quinoa grain (efsa foodex2),A000R,True
+Quorn,http://purl.obolibrary.org/obo/FOODON_03543828,textured fungal proteins (efsa foodex2),A03TG,True
+Quorn sausage,http://purl.obolibrary.org/obo/FOODON_03543828,textured fungal proteins (efsa foodex2),A03TG,True
+Raddiccio,http://purl.obolibrary.org/obo/FOODON_03540376,radicchio (efsa foodex2),A00LG,True
+Rape leaves,http://purl.obolibrary.org/obo/FOODON_03540394,rape greens (efsa foodex2),A00LV,True
+Rapeseed oil,http://purl.obolibrary.org/obo/FOODON_03543099,"rape seed oil, edible (efsa foodex2)",A036V,True
+Red Leicester,http://purl.obolibrary.org/obo/FOODON_03542828,"cheese, leicester (efsa foodex2)",A02VL,True
+Rice,http://purl.obolibrary.org/obo/FOODON_03540038,rice grain (efsa foodex2),A001D,True
+Rice flour,http://purl.obolibrary.org/obo/FOODON_03540077,rice flour (efsa foodex2),A003F,True
+Rice milk,http://purl.obolibrary.org/obo/FOODON_03543835,rice drink (efsa foodex2),A03TM,True
+Rice noodle,http://purl.obolibrary.org/obo/FOODON_03540195,"noodle, rice (efsa foodex2)",A008F,True
+Ricotta,http://purl.obolibrary.org/obo/FOODON_03542738,ricotta (efsa foodex2),A02QL,True
+Roquefort,http://purl.obolibrary.org/obo/FOODON_03542916,"cheese, roquefort (efsa foodex2)",A030K,True
+Runner bean,http://purl.obolibrary.org/obo/FOODON_03541086,runner beans (dry) (efsa foodex2),A0DCJ,True
+Rusk,http://purl.obolibrary.org/obo/FOODON_03540162,rusk (efsa foodex2),A006M,True
+Rye flour,http://purl.obolibrary.org/obo/FOODON_03540078,rye flour (efsa foodex2),A003J,True
+Salmon,http://purl.obolibrary.org/obo/FOODON_03542296,salmons (efsa foodex2),A0C75,True
+Salsa,http://purl.obolibrary.org/obo/FOODON_03544127,salsa (efsa foodex2),A045M,True
+Sapodilla,http://purl.obolibrary.org/obo/FOODON_03541766,sapodillas (efsa foodex2),A01KT,True
+Sardine,http://purl.obolibrary.org/obo/FOODON_03542402,sardines and sardine-type fishes (efsa foodex2),A02DA,True
+Sausage,http://purl.obolibrary.org/obo/FOODON_03542143,sausages (efsa foodex2),A024F,True
+Scallops,http://purl.obolibrary.org/obo/FOODON_03542538,"scallops, pectens (efsa foodex2)",A02HN,True
+Seaweed,http://purl.obolibrary.org/obo/FOODON_03540759,algae and prokaryotes organisms (efsa foodex2),A00VA,True
+Seed,http://purl.obolibrary.org/obo/FOODON_03541177,oilseeds (efsa foodex2),A015F,True
+Seitan,http://purl.obolibrary.org/obo/FOODON_03544161,gluten (efsa foodex2),A16GN,False
+Shortening,http://purl.obolibrary.org/obo/FOODON_03543156,shortening and similar baking fats (efsa foodex2),A039G,True
+Shrimp,http://purl.obolibrary.org/obo/FOODON_03542515,"shrimps, common (efsa foodex2)",A02GB,True
+Single cream,http://purl.obolibrary.org/obo/FOODON_03542680,cream and cream products (efsa foodex2),A02MK,True
+Sourdough,http://purl.obolibrary.org/obo/FOODON_03544457,sourdough starter (efsa foodex2),A05QQ,True
+Soured cream,http://purl.obolibrary.org/obo/FOODON_03542716,"sour cream, plain (efsa foodex2)",A02NB,True
+Soya milk,http://purl.obolibrary.org/obo/FOODON_03543832,soya drink (efsa foodex2),A03TJ,True
+Soya mince,http://purl.obolibrary.org/obo/FOODON_03544157,soya proteins (efsa foodex2),A01BG,True
+Spinach,http://purl.obolibrary.org/obo/FOODON_03540421,spinaches (efsa foodex2),A00MJ,True
+Spring green,http://purl.obolibrary.org/obo/FOODON_03540359,leafy vegetables (efsa foodex2),A00KR,True
+Spring onion,http://purl.obolibrary.org/obo/FOODON_03540589,spring onions (efsa foodex2),A00HH,True
+Squash,http://purl.obolibrary.org/obo/FOODON_03540698,butternut squashes (efsa foodex2),A0DLT,True
+Stilton,http://purl.obolibrary.org/obo/FOODON_03542918,"cheese, stilton (efsa foodex2)",A030M,True
+Sunflower oil,http://purl.obolibrary.org/obo/FOODON_03543106,"sunflower seed oil, edible (efsa foodex2)",A037D,True
+Sweet potato,http://purl.obolibrary.org/obo/FOODON_03540976,sweet potatoes (efsa foodex2),A010C,True
+Sword bean,http://purl.obolibrary.org/obo/FOODON_03540606,sword bean (young pods) (efsa foodex2),A00PS,True
+Tahini,http://purl.obolibrary.org/obo/FOODON_03541414,sesame paste (tahini) (sesamus indicum) (efsa foodex2),A01BM,True
+Tannia,http://purl.obolibrary.org/obo/FOODON_03540974,tannias (efsa foodex2),A010A,True
+Tempeh,http://purl.obolibrary.org/obo/FOODON_03543829,tempeh (all types) (efsa foodex2),A16RC,False
+Tigernut,http://purl.obolibrary.org/obo/FOODON_03540741,,A00QZ,True
+Tofu,http://purl.obolibrary.org/obo/FOODON_03543841,tofu (efsa foodex2),A03TT,True
+Tomato,http://purl.obolibrary.org/obo/FOODON_03540633,tomatoes (efsa foodex2),A0DMX,True
+Tomato ketchup,http://purl.obolibrary.org/obo/FOODON_03544118,tomato ketchup and related sauces (efsa foodex2),A044P,True
+Tomato puree,http://purl.obolibrary.org/obo/FOODON_03540936,tomato puree (efsa foodex2),A00ZD,True
+Tomato sauce,http://purl.obolibrary.org/obo/FOODON_03544098,tomato-containing cooked sauces (efsa foodex2),A044C,True
+Truffles,http://purl.obolibrary.org/obo/FOODON_03540812,truffles (efsa foodex2),A00TJ,True
+Tuna,http://purl.obolibrary.org/obo/FOODON_03542417,tuna (efsa foodex2),A02DX,True
+Turbot,http://purl.obolibrary.org/obo/FOODON_03542342,turbot (efsa foodex2),A02BG,True
+Turkey,http://purl.obolibrary.org/obo/FOODON_03541967,turkey fresh meat (efsa foodex2),A01SQ,True
+Vanilla,http://purl.obolibrary.org/obo/FOODON_03544401,vanilla flavour (efsa foodex2),A06VS,True
+Veal,http://purl.obolibrary.org/obo/FOODON_03541917,calf fresh meat (efsa foodex2),A01QY,True
+Vegetable oil,http://purl.obolibrary.org/obo/FOODON_03543093,"vegetable fats and oils, edible (efsa foodex2)",A036N,True
+Vegetable stock,http://purl.obolibrary.org/obo/FOODON_03544076,"stock cubes or granulate, vegetables (efsa foodex2)",A043J,True
+Vegetable stock cube,http://purl.obolibrary.org/obo/FOODON_03544076,"stock cubes or granulate, vegetables (efsa foodex2)",A043J,True
+Venison,http://purl.obolibrary.org/obo/FOODON_03541946,deer fresh meat (efsa foodex2),A01SA,True
+Vine leaves,http://purl.obolibrary.org/obo/FOODON_03540454,grape leaves (efsa foodex2),A00NB,True
+Wensleydale,http://purl.obolibrary.org/obo/FOODON_03542864,"cheese, wensleydale (efsa foodex2)",A02YC,True
+Wheat flour,http://purl.obolibrary.org/obo/FOODON_03540088,wheat flour (efsa foodex2),A003X,True
+Wheat noodle,http://purl.obolibrary.org/obo/FOODON_03540197,asian-style noodles other than glass noodles (efsa foodex2),A007R,True
+White fish,http://purl.obolibrary.org/obo/FOODON_03542316,whitefishes or coregonus (efsa foodex2),A029Q,True
+White rice,http://purl.obolibrary.org/obo/FOODON_03540043,"rice grain, polished (efsa foodex2)",A003D,True
+Whitecurrant,http://purl.obolibrary.org/obo/FOODON_03541606,"currants (black, red and white) (efsa foodex2)",A01FM,True
+Wild rice,http://purl.obolibrary.org/obo/FOODON_03540048,indian rice grain (efsa foodex2),A001J,True
+Wine,http://purl.obolibrary.org/obo/FOODON_03543348,wine and wine-like drinks (efsa foodex2),A03MS,True
+Yam,http://purl.obolibrary.org/obo/FOODON_03540978,yams (efsa foodex2),A010D,True
+Yeast extract,http://purl.obolibrary.org/obo/FOODON_03544084,yeast extract (efsa foodex2),A043P,True
+Yogurt,http://purl.obolibrary.org/obo/FOODON_03542693,yoghurt (efsa foodex2),A02NE,True
